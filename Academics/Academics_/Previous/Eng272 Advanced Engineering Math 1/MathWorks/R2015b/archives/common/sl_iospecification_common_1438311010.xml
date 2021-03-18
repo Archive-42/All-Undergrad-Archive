@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_iospecification</componentBaseName>
+    <componentFileName>sl_iospecification_common_1438311010.enc</componentFileName>
+    <componentName>sl_iospecification_common</componentName>
+    <componentVersion>1438311010</componentVersion>
+    <locale />
+    <numFiles>11</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>13246</size>
+    <type />
+    <uncompressedBytes>10739</uncompressedBytes>
+  </component>
+</componentData>
+

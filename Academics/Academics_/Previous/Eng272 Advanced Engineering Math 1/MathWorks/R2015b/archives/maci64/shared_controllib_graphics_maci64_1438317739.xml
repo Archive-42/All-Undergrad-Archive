@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_controllib_graphics</componentBaseName>
+    <componentFileName>shared_controllib_graphics_maci64_1438317739.enc</componentFileName>
+    <componentName>shared_controllib_graphics_maci64</componentName>
+    <componentVersion>1438317739</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1012</size>
+    <type />
+    <uncompressedBytes>811</uncompressedBytes>
+  </component>
+</componentData>
+

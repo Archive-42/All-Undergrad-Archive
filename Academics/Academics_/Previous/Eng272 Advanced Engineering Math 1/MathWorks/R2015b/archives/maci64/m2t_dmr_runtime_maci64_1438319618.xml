@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>m2t_dmr_runtime</componentBaseName>
+    <componentFileName>m2t_dmr_runtime_maci64_1438319618.enc</componentFileName>
+    <componentName>m2t_dmr_runtime_maci64</componentName>
+    <componentVersion>1438319618</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>138274</size>
+    <type />
+    <uncompressedBytes>565304</uncompressedBytes>
+  </component>
+</componentData>
+

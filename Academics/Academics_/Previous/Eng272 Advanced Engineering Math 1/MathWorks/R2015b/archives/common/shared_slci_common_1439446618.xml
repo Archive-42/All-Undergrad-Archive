@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_slci</componentBaseName>
+    <componentFileName>shared_slci_common_1439446618.enc</componentFileName>
+    <componentName>shared_slci_common</componentName>
+    <componentVersion>1439446618</componentVersion>
+    <locale />
+    <numFiles>12</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>10842</size>
+    <type />
+    <uncompressedBytes>8664</uncompressedBytes>
+  </component>
+</componentData>
+

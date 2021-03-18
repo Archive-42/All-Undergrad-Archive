@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_resolver</componentBaseName>
+    <componentFileName>simulink_resolver_maci64_1438347774.enc</componentFileName>
+    <componentName>simulink_resolver_maci64</componentName>
+    <componentVersion>1438347774</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>38521</size>
+    <type />
+    <uncompressedBytes>124492</uncompressedBytes>
+  </component>
+</componentData>
+

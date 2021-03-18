@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulinktest_core</componentBaseName>
+    <componentFileName>simulinktest_core_common_1438727981.enc</componentFileName>
+    <componentName>simulinktest_core_common</componentName>
+    <componentVersion>1438727981</componentVersion>
+    <locale />
+    <numFiles>103</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>110987</size>
+    <type />
+    <uncompressedBytes>85931</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_simulink_lang_blocks</componentBaseName>
+    <componentFileName>shared_simulink_lang_blocks_maci64_1439242009.enc</componentFileName>
+    <componentName>shared_simulink_lang_blocks_maci64</componentName>
+    <componentVersion>1439242009</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1136128</size>
+    <type />
+    <uncompressedBytes>3772636</uncompressedBytes>
+  </component>
+</componentData>
+

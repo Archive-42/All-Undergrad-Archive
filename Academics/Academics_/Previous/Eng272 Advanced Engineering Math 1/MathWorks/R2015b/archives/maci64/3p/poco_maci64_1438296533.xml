@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/poco</componentBaseName>
+    <componentFileName>3p/poco_maci64_1438296533.enc</componentFileName>
+    <componentName>3p/poco_maci64</componentName>
+    <componentVersion>1438296533</componentVersion>
+    <locale />
+    <numFiles>23</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2693040</size>
+    <type />
+    <uncompressedBytes>9675838</uncompressedBytes>
+  </component>
+</componentData>
+

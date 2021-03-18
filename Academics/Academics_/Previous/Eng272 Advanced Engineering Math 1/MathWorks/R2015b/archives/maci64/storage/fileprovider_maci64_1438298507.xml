@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>storage/fileprovider</componentBaseName>
+    <componentFileName>storage/fileprovider_maci64_1438298507.enc</componentFileName>
+    <componentName>storage/fileprovider_maci64</componentName>
+    <componentVersion>1438298507</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>34428</size>
+    <type />
+    <uncompressedBytes>124976</uncompressedBytes>
+  </component>
+</componentData>
+

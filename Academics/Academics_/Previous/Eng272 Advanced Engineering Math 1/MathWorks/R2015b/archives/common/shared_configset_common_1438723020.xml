@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_configset</componentBaseName>
+    <componentFileName>shared_configset_common_1438723020.enc</componentFileName>
+    <componentName>shared_configset_common</componentName>
+    <componentVersion>1438723020</componentVersion>
+    <locale />
+    <numFiles>927</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>6089484</size>
+    <type />
+    <uncompressedBytes>15514903</uncompressedBytes>
+  </component>
+</componentData>
+

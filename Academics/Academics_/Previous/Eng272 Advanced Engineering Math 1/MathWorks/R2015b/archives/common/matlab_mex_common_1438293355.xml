@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_mex</componentBaseName>
+    <componentFileName>matlab_mex_common_1438293355.enc</componentFileName>
+    <componentName>matlab_mex_common</componentName>
+    <componentVersion>1438293355</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4301</size>
+    <type />
+    <uncompressedBytes>21320</uncompressedBytes>
+  </component>
+</componentData>
+

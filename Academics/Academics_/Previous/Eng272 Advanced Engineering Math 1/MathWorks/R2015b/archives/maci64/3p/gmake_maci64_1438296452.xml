@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/gmake</componentBaseName>
+    <componentFileName>3p/gmake_maci64_1438296452.enc</componentFileName>
+    <componentName>3p/gmake_maci64</componentName>
+    <componentVersion>1438296452</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>99065</size>
+    <type />
+    <uncompressedBytes>208575</uncompressedBytes>
+  </component>
+</componentData>
+

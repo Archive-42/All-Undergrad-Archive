@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sltemplate</componentBaseName>
+    <componentFileName>sltemplate_maci64_1438347756.enc</componentFileName>
+    <componentName>sltemplate_maci64</componentName>
+    <componentVersion>1438347756</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>103604</size>
+    <type />
+    <uncompressedBytes>342840</uncompressedBytes>
+  </component>
+</componentData>
+

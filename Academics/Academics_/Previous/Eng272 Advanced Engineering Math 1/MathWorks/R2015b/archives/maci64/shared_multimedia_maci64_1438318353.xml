@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_multimedia</componentBaseName>
+    <componentFileName>shared_multimedia_maci64_1438318353.enc</componentFileName>
+    <componentName>shared_multimedia_maci64</componentName>
+    <componentVersion>1438318353</componentVersion>
+    <locale />
+    <numFiles>31</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>863197</size>
+    <type />
+    <uncompressedBytes>3004544</uncompressedBytes>
+  </component>
+</componentData>
+

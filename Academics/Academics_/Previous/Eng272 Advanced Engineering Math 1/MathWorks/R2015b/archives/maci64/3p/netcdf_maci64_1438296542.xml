@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/netcdf</componentBaseName>
+    <componentFileName>3p/netcdf_maci64_1438296542.enc</componentFileName>
+    <componentName>3p/netcdf_maci64</componentName>
+    <componentVersion>1438296542</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>294852</size>
+    <type />
+    <uncompressedBytes>1063878</uncompressedBytes>
+  </component>
+</componentData>
+

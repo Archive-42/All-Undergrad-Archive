@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_sequence_diagram_viewer</componentBaseName>
+    <componentFileName>sl_sequence_diagram_viewer_common_1439448985.enc</componentFileName>
+    <componentName>sl_sequence_diagram_viewer_common</componentName>
+    <componentVersion>1439448985</componentVersion>
+    <locale />
+    <numFiles>530</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1679698</size>
+    <type />
+    <uncompressedBytes>3298126</uncompressedBytes>
+  </component>
+</componentData>
+

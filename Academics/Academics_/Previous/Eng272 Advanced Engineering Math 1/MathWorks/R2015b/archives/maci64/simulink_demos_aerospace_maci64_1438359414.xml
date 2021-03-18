@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_demos_aerospace</componentBaseName>
+    <componentFileName>simulink_demos_aerospace_maci64_1438359414.enc</componentFileName>
+    <componentName>simulink_demos_aerospace_maci64</componentName>
+    <componentVersion>1438359414</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>120030</size>
+    <type />
+    <uncompressedBytes>402104</uncompressedBytes>
+  </component>
+</componentData>
+

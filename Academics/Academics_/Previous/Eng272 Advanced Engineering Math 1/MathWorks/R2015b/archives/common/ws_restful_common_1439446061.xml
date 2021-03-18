@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>ws_restful</componentBaseName>
+    <componentFileName>ws_restful_common_1439446061.enc</componentFileName>
+    <componentName>ws_restful_common</componentName>
+    <componentVersion>1439446061</componentVersion>
+    <locale />
+    <numFiles>20</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>41190</size>
+    <type />
+    <uncompressedBytes>128083</uncompressedBytes>
+  </component>
+</componentData>
+

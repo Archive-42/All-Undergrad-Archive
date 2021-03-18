@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mathcore</componentBaseName>
+    <componentFileName>mathcore_maci64_1438301832.enc</componentFileName>
+    <componentName>mathcore_maci64</componentName>
+    <componentVersion>1438301832</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>455395</size>
+    <type />
+    <uncompressedBytes>1998672</uncompressedBytes>
+  </component>
+</componentData>
+

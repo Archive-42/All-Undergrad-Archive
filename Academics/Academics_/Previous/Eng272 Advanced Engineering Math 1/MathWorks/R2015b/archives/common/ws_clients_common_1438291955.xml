@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>ws_clients</componentBaseName>
+    <componentFileName>ws_clients_common_1438291955.enc</componentFileName>
+    <componentName>ws_clients_common</componentName>
+    <componentVersion>1438291955</componentVersion>
+    <locale />
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1243322</size>
+    <type />
+    <uncompressedBytes>1358416</uncompressedBytes>
+  </component>
+</componentData>
+

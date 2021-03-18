@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>storage/gdsmounter</componentBaseName>
+    <componentFileName>storage/gdsmounter_common_1438292825.enc</componentFileName>
+    <componentName>storage/gdsmounter_common</componentName>
+    <componentVersion>1438292825</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7173</size>
+    <type />
+    <uncompressedBytes>8181</uncompressedBytes>
+  </component>
+</componentData>
+

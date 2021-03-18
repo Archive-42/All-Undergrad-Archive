@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sqldb</componentBaseName>
+    <componentFileName>sqldb_maci64_1438303414.enc</componentFileName>
+    <componentName>sqldb_maci64</componentName>
+    <componentVersion>1438303414</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>132427</size>
+    <type />
+    <uncompressedBytes>431300</uncompressedBytes>
+  </component>
+</componentData>
+

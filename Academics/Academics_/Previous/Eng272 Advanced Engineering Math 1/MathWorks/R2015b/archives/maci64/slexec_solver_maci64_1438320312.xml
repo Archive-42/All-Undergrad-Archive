@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>slexec_solver</componentBaseName>
+    <componentFileName>slexec_solver_maci64_1438320312.enc</componentFileName>
+    <componentName>slexec_solver_maci64</componentName>
+    <componentVersion>1438320312</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>392451</size>
+    <type />
+    <uncompressedBytes>1450908</uncompressedBytes>
+  </component>
+</componentData>
+

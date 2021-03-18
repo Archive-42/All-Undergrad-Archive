@@ -1,0 +1,1950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>3p/icu_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296440</version>
+    </component>
+    <component>
+      <name>3p/boost_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296505</version>
+    </component>
+    <component>
+      <name>3p/gmake_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296452</version>
+    </component>
+    <component>
+      <name>webproxy_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296573</version>
+    </component>
+    <component>
+      <name>web_connectivity_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299252</version>
+    </component>
+    <component>
+      <name>3p/flexnet_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296440</version>
+    </component>
+    <component>
+      <name>3p/cpp11compat_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296440</version>
+    </component>
+    <component>
+      <name>shared_install_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299286</version>
+    </component>
+    <component>
+      <name>activation_launcher_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299333</version>
+    </component>
+    <component>
+      <name>resource_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296556</version>
+    </component>
+    <component>
+      <name>3p/png_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296496</version>
+    </component>
+    <component>
+      <name>3p/openscenegraph_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296446</version>
+    </component>
+    <component>
+      <name>3p/tbb_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296439</version>
+    </component>
+    <component>
+      <name>3p/tex-archive_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296444</version>
+    </component>
+    <component>
+      <name>3p/openssl_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296503</version>
+    </component>
+    <component>
+      <name>gcc_runtime_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296495</version>
+    </component>
+    <component>
+      <name>foundation/core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438297955</version>
+    </component>
+    <component>
+      <name>foundation/legacy_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298229</version>
+    </component>
+    <component>
+      <name>3p/hdf5_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296496</version>
+    </component>
+    <component>
+      <name>foundation/matrix_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298863</version>
+    </component>
+    <component>
+      <name>3p/avro-cpp_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296532</version>
+    </component>
+    <component>
+      <name>3p/xerces-c_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296504</version>
+    </component>
+    <component>
+      <name>foundation/message_services_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298362</version>
+    </component>
+    <component>
+      <name>xmlcore_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299213</version>
+    </component>
+    <component>
+      <name>xmlxrcsc_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299284</version>
+    </component>
+    <component>
+      <name>mlutil_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299610</version>
+    </component>
+    <component>
+      <name>language_execution_interfaces_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299683</version>
+    </component>
+    <component>
+      <name>mpath_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299707</version>
+    </component>
+    <component>
+      <name>3p/poco_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296533</version>
+    </component>
+    <component>
+      <name>display_device_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296557</version>
+    </component>
+    <component>
+      <name>3p/minizip_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296495</version>
+    </component>
+    <component>
+      <name>foundation/network_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298146</version>
+    </component>
+    <component>
+      <name>foundation/opc_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298409</version>
+    </component>
+    <component>
+      <name>foundation/platform_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298118</version>
+    </component>
+    <component>
+      <name>regexp_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299168</version>
+    </component>
+    <component>
+      <name>settingscore_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300168</version>
+    </component>
+    <component>
+      <name>services_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1440100853</version>
+    </component>
+    <component>
+      <name>m_dispatcher_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300848</version>
+    </component>
+    <component>
+      <name>mex_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300905</version>
+    </component>
+    <component>
+      <name>ml_object_system_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301553</version>
+    </component>
+    <component>
+      <name>classic_ml_front_end_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301945</version>
+    </component>
+    <component>
+      <name>3p/dsfmt_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296443</version>
+    </component>
+    <component>
+      <name>foundation/mfl_rng_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296573</version>
+    </component>
+    <component>
+      <name>3p/amd_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296440</version>
+    </component>
+    <component>
+      <name>3p/colamd_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296441</version>
+    </component>
+    <component>
+      <name>3p/ifort_runtime__maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296442</version>
+    </component>
+    <component>
+      <name>3p/mkl_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296505</version>
+    </component>
+    <component>
+      <name>blas_lapack_interface_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300687</version>
+    </component>
+    <component>
+      <name>3p/cholmod_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300821</version>
+    </component>
+    <component>
+      <name>mathutil_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299249</version>
+    </component>
+    <component>
+      <name>spmatrix_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299162</version>
+    </component>
+    <component>
+      <name>mathcore_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301832</version>
+    </component>
+    <component>
+      <name>mathrng_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301905</version>
+    </component>
+    <component>
+      <name>profiler_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300682</version>
+    </component>
+    <component>
+      <name>m_interpreter_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302750</version>
+    </component>
+    <component>
+      <name>iqm_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303047</version>
+    </component>
+    <component>
+      <name>config_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314876</version>
+    </component>
+    <component>
+      <name>bin_utils_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438291957</version>
+    </component>
+    <component>
+      <name>3p/umfpack_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296505</version>
+    </component>
+    <component>
+      <name>umfpack_api_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299106</version>
+    </component>
+    <component>
+      <name>nativejava_services_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299108</version>
+    </component>
+    <component>
+      <name>tabcompletion_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302808</version>
+    </component>
+    <component>
+      <name>bridge_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303153</version>
+    </component>
+    <component>
+      <name>lxe_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438304163</version>
+    </component>
+    <component>
+      <name>mathxps_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300945</version>
+    </component>
+    <component>
+      <name>mathelem_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302162</version>
+    </component>
+    <component>
+      <name>shared_matlab_toolbox_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302791</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_timefun_builtins_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302863</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_iofun_builtins_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303023</version>
+    </component>
+    <component>
+      <name>mvm_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299967</version>
+    </component>
+    <component>
+      <name>matlab_graphics_ui_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303509</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_lang_builtins_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303664</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_strfun_string_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303810</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_strfun_builtins_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303845</version>
+    </component>
+    <component>
+      <name>errorrecovery_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302856</version>
+    </component>
+    <component>
+      <name>3p/fftw_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296542</version>
+    </component>
+    <component>
+      <name>foundation/mfl_fft_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296576</version>
+    </component>
+    <component>
+      <name>3p/csparse_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296444</version>
+    </component>
+    <component>
+      <name>3p/ma57_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296496</version>
+    </component>
+    <component>
+      <name>3p/rookfastbp_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296533</version>
+    </component>
+    <component>
+      <name>3p/spqr_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300861</version>
+    </component>
+    <component>
+      <name>mathlinalg_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302395</version>
+    </component>
+    <component>
+      <name>mathdsp_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302443</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_general_builtins_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302923</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_datatypes_builtins_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302866</version>
+    </component>
+    <component>
+      <name>mlint_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303458</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_codetools_builtins_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303516</version>
+    </component>
+    <component>
+      <name>mcr_under_mvm_server_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305052</version>
+    </component>
+    <component>
+      <name>mvm_server_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305075</version>
+    </component>
+    <component>
+      <name>matlab_main_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305155</version>
+    </component>
+    <component>
+      <name>mathbit_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302352</version>
+    </component>
+    <component>
+      <name>mathspec_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299205</version>
+    </component>
+    <component>
+      <name>3p/graphviz_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296443</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_ops_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314635</version>
+    </component>
+    <component>
+      <name>mcli18nutil_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299108</version>
+    </component>
+    <component>
+      <name>structuredoutput_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303719</version>
+    </component>
+    <component>
+      <name>3p/arpack_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296534</version>
+    </component>
+    <component>
+      <name>3p/qhull_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296444</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_datafun_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314931</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_polyfun_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314641</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_randfun_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314701</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_sparfun_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314654</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_datatypes_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314924</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_timefun_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438315087</version>
+    </component>
+    <component>
+      <name>3p/jxbrowser_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296511</version>
+    </component>
+    <component>
+      <name>3p/jxbrowser-chromium_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1431989956</version>
+    </component>
+    <component>
+      <name>3p/jre_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1427303344</version>
+    </component>
+    <component>
+      <name>jmi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303349</version>
+    </component>
+    <component>
+      <name>mw_java_foundation_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303577</version>
+    </component>
+    <component>
+      <name>dirmonitor_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299942</version>
+    </component>
+    <component>
+      <name>matlab_java_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439448074</version>
+    </component>
+    <component>
+      <name>install_api_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299329</version>
+    </component>
+    <component>
+      <name>3p/jogl_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296446</version>
+    </component>
+    <component>
+      <name>udd_mi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303628</version>
+    </component>
+    <component>
+      <name>udd_jmi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303669</version>
+    </component>
+    <component>
+      <name>matlab_graphics_utils_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438304178</version>
+    </component>
+    <component>
+      <name>matlab_graphics_gbt_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438304457</version>
+    </component>
+    <component>
+      <name>matlab_graphics_hg_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305975</version>
+    </component>
+    <component>
+      <name>mcos_factory_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305347</version>
+    </component>
+    <component>
+      <name>emf_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305424</version>
+    </component>
+    <component>
+      <name>matlab_graphics_java_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439448591</version>
+    </component>
+    <component>
+      <name>comparisons_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438306013</version>
+    </component>
+    <component>
+      <name>ctfdatainterfaces_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299272</version>
+    </component>
+    <component>
+      <name>dservices_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300694</version>
+    </component>
+    <component>
+      <name>ctfpackage_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314551</version>
+    </component>
+    <component>
+      <name>mlapp_builtins_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314590</version>
+    </component>
+    <component>
+      <name>mlapp_jni_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314610</version>
+    </component>
+    <component>
+      <name>matlab_desktop_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439448734</version>
+    </component>
+    <component>
+      <name>3p/gmp_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296447</version>
+    </component>
+    <component>
+      <name>3p/mpfr_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296506</version>
+    </component>
+    <component>
+      <name>mathcgeo_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302249</version>
+    </component>
+    <component>
+      <name>standalone_osx_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1440100710</version>
+    </component>
+    <component>
+      <name>coreui_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303560</version>
+    </component>
+    <component>
+      <name>matlab_starter_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438722875</version>
+    </component>
+    <component>
+      <name>matlab_mex_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314884</version>
+    </component>
+    <component>
+      <name>mcos_boost_graph_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305373</version>
+    </component>
+    <component>
+      <name>savevars_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314954</version>
+    </component>
+    <component>
+      <name>sqldb_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303414</version>
+    </component>
+    <component>
+      <name>sql_mcos_api_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314585</version>
+    </component>
+    <component>
+      <name>pcm_db_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439449203</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_depfun_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438315405</version>
+    </component>
+    <component>
+      <name>3p/cdf_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296448</version>
+    </component>
+    <component>
+      <name>3p/cfitsio_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296448</version>
+    </component>
+    <component>
+      <name>3p/hdf4_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296506</version>
+    </component>
+    <component>
+      <name>3p/hdfeos2_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296535</version>
+    </component>
+    <component>
+      <name>3p/kakadu_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296449</version>
+    </component>
+    <component>
+      <name>3p/curl_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296515</version>
+    </component>
+    <component>
+      <name>3p/netcdf_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296542</version>
+    </component>
+    <component>
+      <name>3p/tiff_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296506</version>
+    </component>
+    <component>
+      <name>imagesci_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438315145</version>
+    </component>
+    <component>
+      <name>foundation/storage/providerinterface_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298276</version>
+    </component>
+    <component>
+      <name>foundation/storage/virtualfilesystem_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298548</version>
+    </component>
+    <component>
+      <name>storage/fileprovider_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298507</version>
+    </component>
+    <component>
+      <name>storage/javaprovider_native_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299283</version>
+    </component>
+    <component>
+      <name>hdserializer_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314674</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_datastore_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314795</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_graphfun_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438315116</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_mapreduce_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314844</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_verctrl_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1423841771</version>
+    </component>
+    <component>
+      <name>ml_external_interfaces_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438303606</version>
+    </component>
+    <component>
+      <name>matlab_graphics_handle_graphics_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438316275</version>
+    </component>
+    <component>
+      <name>matlab_graphics_chart_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438316587</version>
+    </component>
+    <component>
+      <name>matlab_graphics_hgbuiltins_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438316948</version>
+    </component>
+    <component>
+      <name>matlab_graphics_hghardcopy_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438315437</version>
+    </component>
+    <component>
+      <name>matlab_graphics_osgserver_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438726633</version>
+    </component>
+    <component>
+      <name>matlab_graphics_toolbox_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317327</version>
+    </component>
+    <component>
+      <name>matlab_images_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314672</version>
+    </component>
+    <component>
+      <name>spf/core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299737</version>
+    </component>
+    <component>
+      <name>spf/services_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301011</version>
+    </component>
+    <component>
+      <name>spf/matlab_services_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438315169</version>
+    </component>
+    <component>
+      <name>spf/jni_bridge_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301164</version>
+    </component>
+    <component>
+      <name>spf/matlab_host_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438315181</version>
+    </component>
+    <component>
+      <name>3p/chilkat_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296452</version>
+    </component>
+    <component>
+      <name>shared_testmeas_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317572</version>
+    </component>
+    <component>
+      <name>shared_asynciolib_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317954</version>
+    </component>
+    <component>
+      <name>shared_testmeaslib_general_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318010</version>
+    </component>
+    <component>
+      <name>3p/portaudio_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296506</version>
+    </component>
+    <component>
+      <name>3p/ogg_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296451</version>
+    </component>
+    <component>
+      <name>3p/vorbis_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296506</version>
+    </component>
+    <component>
+      <name>3p/flac_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296506</version>
+    </component>
+    <component>
+      <name>3p/libsndfile_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296537</version>
+    </component>
+    <component>
+      <name>shared_multimedia_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318353</version>
+    </component>
+    <component>
+      <name>audiovideo_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318392</version>
+    </component>
+    <component>
+      <name>engine_api_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305200</version>
+    </component>
+    <component>
+      <name>mladdon_packaging_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314554</version>
+    </component>
+    <component>
+      <name>3p/sqlite4java_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296452</version>
+    </component>
+    <component>
+      <name>matlab_extern_examples_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314892</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_windows_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438315440</version>
+    </component>
+    <component>
+      <name>matlab_toolbox_testframework_api_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438315186</version>
+    </component>
+    <component>
+      <name>shared_networklib_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318028</version>
+    </component>
+    <component>
+      <name>pycli_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314729</version>
+    </component>
+    <component>
+      <name>python_engine_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314948</version>
+    </component>
+    <component>
+      <name>3p/rxtx_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296452</version>
+    </component>
+    <component>
+      <name>instrument_java_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317728</version>
+    </component>
+    <component>
+      <name>sa_mlint_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317336</version>
+    </component>
+    <component>
+      <name>session_helper_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305708</version>
+    </component>
+    <component>
+      <name>mcos_factory_extras_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317342</version>
+    </component>
+    <component>
+      <name>sl_diagnostic_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299143</version>
+    </component>
+    <component>
+      <name>sl_services_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318208</version>
+    </component>
+    <component>
+      <name>shared_advisor_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318274</version>
+    </component>
+    <component>
+      <name>sl_utility_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318400</version>
+    </component>
+    <component>
+      <name>sl_symbolic_expr_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298756</version>
+    </component>
+    <component>
+      <name>sl_types_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318553</version>
+    </component>
+    <component>
+      <name>fixedpoint_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438319269</version>
+    </component>
+    <component>
+      <name>covrt_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317334</version>
+    </component>
+    <component>
+      <name>emlrt_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438320040</version>
+    </component>
+    <component>
+      <name>shared_coder_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438320266</version>
+    </component>
+    <component>
+      <name>shared_controllib_general_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317342</version>
+    </component>
+    <component>
+      <name>shared_controllib_graphics_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317739</version>
+    </component>
+    <component>
+      <name>shared_mlreportgen_dom_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438727750</version>
+    </component>
+    <component>
+      <name>shared_mlreportgen_base_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438321157</version>
+    </component>
+    <component>
+      <name>shared_mlreportgen_ppt_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318327</version>
+    </component>
+    <component>
+      <name>shared_rptgen_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438321172</version>
+    </component>
+    <component>
+      <name>storage/sharedlib_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298722</version>
+    </component>
+    <component>
+      <name>storage/shlibstoragesys_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298769</version>
+    </component>
+    <component>
+      <name>storage/zipprovider_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298593</version>
+    </component>
+    <component>
+      <name>storage/httpprovider_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298525</version>
+    </component>
+    <component>
+      <name>storage/fileexchangeprovider_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298677</version>
+    </component>
+    <component>
+      <name>storage/mirrorfsa_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298689</version>
+    </component>
+    <component>
+      <name>storage/mountservice_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298779</version>
+    </component>
+    <component>
+      <name>system_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318795</version>
+    </component>
+    <component>
+      <name>3p/cef_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1432924057</version>
+    </component>
+    <component>
+      <name>3p/freetype_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296451</version>
+    </component>
+    <component>
+      <name>3p/protobuf_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296451</version>
+    </component>
+    <component>
+      <name>cefclient_browser_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296621</version>
+    </component>
+    <component>
+      <name>cefclient_interface_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299129</version>
+    </component>
+    <component>
+      <name>cefclient_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318033</version>
+    </component>
+    <component>
+      <name>install_launcher_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299350</version>
+    </component>
+    <component>
+      <name>ws_restful_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438314700</version>
+    </component>
+    <component>
+      <name>3p/qt_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438724110</version>
+    </component>
+    <component>
+      <name>performance_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438305396</version>
+    </component>
+    <component>
+      <name>glee_util_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438727058</version>
+    </component>
+    <component>
+      <name>m3i_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438321413</version>
+    </component>
+    <component>
+      <name>dastudio_util_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438727147</version>
+    </component>
+    <component>
+      <name>ziparchiver_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298705</version>
+    </component>
+    <component>
+      <name>shared_mlconnector_bridge_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317400</version>
+    </component>
+    <component>
+      <name>glee_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438728049</version>
+    </component>
+    <component>
+      <name>slmsgmgr_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302806</version>
+    </component>
+    <component>
+      <name>sl_diagnostic_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318964</version>
+    </component>
+    <component>
+      <name>sl_diagnostic_mi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438319459</version>
+    </component>
+    <component>
+      <name>shared_dastudio_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438728594</version>
+    </component>
+    <component>
+      <name>shared_hwconnectinstaller_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438327855</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>true</isControllingProduct>
+  <platform>maci64</platform>
+  <productBaseCode>ML</productBaseCode>
+  <productName>MATLAB</productName>
+  <productNumber>1</productNumber>
+  <productVersion>8.6</productVersion>
+  <releaseDescription>R2015b</releaseDescription>
+  <releaseFamily>R2015b</releaseFamily>
+</productAdditionalComps>
+

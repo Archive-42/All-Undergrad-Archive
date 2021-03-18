@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>slexec_runtime</componentBaseName>
+    <componentFileName>slexec_runtime_maci64_1438320933.enc</componentFileName>
+    <componentName>slexec_runtime_maci64</componentName>
+    <componentVersion>1438320933</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>244996</size>
+    <type />
+    <uncompressedBytes>834016</uncompressedBytes>
+  </component>
+</componentData>
+

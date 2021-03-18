@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/nekohtml</componentBaseName>
+    <componentFileName>3p/nekohtml_common_1438291942.enc</componentFileName>
+    <componentName>3p/nekohtml_common</componentName>
+    <componentVersion>1438291942</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>99634</size>
+    <type />
+    <uncompressedBytes>105750</uncompressedBytes>
+  </component>
+</componentData>
+

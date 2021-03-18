@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>activation_launcher</componentBaseName>
+    <componentFileName>activation_launcher_common_1439445993.enc</componentFileName>
+    <componentName>activation_launcher_common</componentName>
+    <componentVersion>1439445993</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2608</size>
+    <type />
+    <uncompressedBytes>2485</uncompressedBytes>
+  </component>
+</componentData>
+

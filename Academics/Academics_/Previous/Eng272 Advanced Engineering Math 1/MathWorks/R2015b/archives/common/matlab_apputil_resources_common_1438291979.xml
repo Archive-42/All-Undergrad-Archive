@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_apputil_resources</componentBaseName>
+    <componentFileName>matlab_apputil_resources_common_1438291979.enc</componentFileName>
+    <componentName>matlab_apputil_resources_common</componentName>
+    <componentVersion>1438291979</componentVersion>
+    <locale />
+    <numFiles>12</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>6076</size>
+    <type />
+    <uncompressedBytes>6445</uncompressedBytes>
+  </component>
+</componentData>
+

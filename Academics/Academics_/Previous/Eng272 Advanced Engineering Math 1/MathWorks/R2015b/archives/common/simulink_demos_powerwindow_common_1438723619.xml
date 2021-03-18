@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_demos_powerwindow</componentBaseName>
+    <componentFileName>simulink_demos_powerwindow_common_1438723619.enc</componentFileName>
+    <componentName>simulink_demos_powerwindow_common</componentName>
+    <componentVersion>1438723619</componentVersion>
+    <locale />
+    <numFiles>14</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>799913</size>
+    <type />
+    <uncompressedBytes>888637</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_sdi</componentBaseName>
+    <componentFileName>shared_sdi_common_1439448871.enc</componentFileName>
+    <componentName>shared_sdi_common</componentName>
+    <componentVersion>1439448871</componentVersion>
+    <locale />
+    <numFiles>1738</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>6061326</size>
+    <type />
+    <uncompressedBytes>30607355</uncompressedBytes>
+  </component>
+</componentData>
+

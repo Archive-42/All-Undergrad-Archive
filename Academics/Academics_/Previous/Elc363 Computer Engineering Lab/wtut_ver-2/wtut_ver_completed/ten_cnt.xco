@@ -1,0 +1,53 @@
+# BEGIN Project Options
+SET flowvendor = Foundation_iSE
+SET vhdlsim = True
+SET verilogsim = True
+SET workingdirectory = C:\escalation\tutorial\ISEexamples\wtut_ver_test
+SET speedgrade = -4
+SET simulationfiles = Behavioral
+SET asysymbol = True
+SET addpads = False
+# SET outputdirectory = C:\escalation\tutorial\ISEexamples\wtut_ver_test
+SET device = xc3s200
+SET implementationfiletype = Edif
+SET busformat = BusFormatAngleBracketNotRipped
+SET foundationsym = False
+SET package = ft256
+SET createndf = False
+SET designentry = VHDL
+SET devicefamily = spartan3
+SET formalverification = False
+SET removerpms = False
+# END Project Options
+# BEGIN Select
+SELECT Binary_Counter family Xilinx,_Inc. 6.0
+# END Select
+# BEGIN Parameters
+CSET count_style=count_by_constant
+CSET create_rpm=true
+CSET output_width=4
+CSET async_init_value=0
+CSET threshold_0=true
+CSET threshold_1=false
+CSET synchronous_settings=none
+CSET count_to_value=9
+CSET threshold_1_value=MAX
+CSET clock_enable=true
+CSET threshold_0_value=9
+CSET asynchronous_settings=init
+CSET ce_overrides=sync_controls_override_ce
+CSET load=false
+CSET set_clear_priority=clear_overrides_set
+CSET component_name=ten_cnt
+CSET count_by_value=1
+CSET threshold_early=true
+CSET restrict_count=true
+CSET operation=up
+CSET sync_init_value=0
+CSET ce_override_for_load=false
+CSET threshold_options=registered
+CSET load_sense=active_high
+# END Parameters
+GENERATE
+
+

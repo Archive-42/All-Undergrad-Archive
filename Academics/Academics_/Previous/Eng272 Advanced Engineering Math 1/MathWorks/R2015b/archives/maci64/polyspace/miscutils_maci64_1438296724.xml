@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/miscutils</componentBaseName>
+    <componentFileName>polyspace/miscutils_maci64_1438296724.enc</componentFileName>
+    <componentName>polyspace/miscutils_maci64</componentName>
+    <componentVersion>1438296724</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>896598</size>
+    <type />
+    <uncompressedBytes>2011260</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_upgrade_advisor</componentBaseName>
+    <componentFileName>sl_upgrade_advisor_common_1438311000.enc</componentFileName>
+    <componentName>sl_upgrade_advisor_common</componentName>
+    <componentVersion>1438311000</componentVersion>
+    <locale />
+    <numFiles>17</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>15335</size>
+    <type />
+    <uncompressedBytes>11618</uncompressedBytes>
+  </component>
+</componentData>
+

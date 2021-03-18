@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_graphics_hgbuiltins</componentBaseName>
+    <componentFileName>matlab_graphics_hgbuiltins_maci64_1438316948.enc</componentFileName>
+    <componentName>matlab_graphics_hgbuiltins_maci64</componentName>
+    <componentVersion>1438316948</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>562786</size>
+    <type />
+    <uncompressedBytes>1871184</uncompressedBytes>
+  </component>
+</componentData>
+

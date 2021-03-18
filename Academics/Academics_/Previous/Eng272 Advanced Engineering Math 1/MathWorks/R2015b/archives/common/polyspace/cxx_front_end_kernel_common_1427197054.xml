@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/cxx_front_end_kernel</componentBaseName>
+    <componentFileName>polyspace/cxx_front_end_kernel_common_1427197054.enc</componentFileName>
+    <componentName>polyspace/cxx_front_end_kernel_common</componentName>
+    <componentVersion>1427197054</componentVersion>
+    <locale />
+    <numFiles>11</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>17382</size>
+    <type />
+    <uncompressedBytes>89420</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_sid_resources</componentBaseName>
+    <componentFileName>simulink_sid_resources_common_1348210552.enc</componentFileName>
+    <componentName>simulink_sid_resources_common</componentName>
+    <componentVersion>1348210552</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>734</size>
+    <type />
+    <uncompressedBytes>1212</uncompressedBytes>
+  </component>
+</componentData>
+

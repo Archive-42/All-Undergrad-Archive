@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>blas_lapack_interface</componentBaseName>
+    <componentFileName>blas_lapack_interface_maci64_1438300687.enc</componentFileName>
+    <componentName>blas_lapack_interface_maci64</componentName>
+    <componentVersion>1438300687</componentVersion>
+    <locale />
+    <numFiles>9</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>352217</size>
+    <type />
+    <uncompressedBytes>1627361</uncompressedBytes>
+  </component>
+</componentData>
+

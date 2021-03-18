@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>ir_interp</componentBaseName>
+    <componentFileName>ir_interp_maci64_1438302211.enc</componentFileName>
+    <componentName>ir_interp_maci64</componentName>
+    <componentVersion>1438302211</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>34171</size>
+    <type />
+    <uncompressedBytes>108156</uncompressedBytes>
+  </component>
+</componentData>
+

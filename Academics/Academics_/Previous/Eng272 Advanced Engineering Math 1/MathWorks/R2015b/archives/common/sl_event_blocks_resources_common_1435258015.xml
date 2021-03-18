@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_event_blocks_resources</componentBaseName>
+    <componentFileName>sl_event_blocks_resources_common_1435258015.enc</componentFileName>
+    <componentName>sl_event_blocks_resources_common</componentName>
+    <componentVersion>1435258015</componentVersion>
+    <locale />
+    <numFiles>9</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7271</size>
+    <type />
+    <uncompressedBytes>13878</uncompressedBytes>
+  </component>
+</componentData>
+

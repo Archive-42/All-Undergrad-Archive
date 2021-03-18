@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/suif</componentBaseName>
+    <componentFileName>polyspace/suif_maci64_1438301538.enc</componentFileName>
+    <componentName>polyspace/suif_maci64</componentName>
+    <componentVersion>1438301538</componentVersion>
+    <locale />
+    <numFiles>24</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1228950</size>
+    <type />
+    <uncompressedBytes>3151384</uncompressedBytes>
+  </component>
+</componentData>
+

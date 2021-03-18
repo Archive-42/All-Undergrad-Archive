@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hwconnectinstaller_resources</componentBaseName>
+    <componentFileName>hwconnectinstaller_resources_common_1438291987.enc</componentFileName>
+    <componentName>hwconnectinstaller_resources_common</componentName>
+    <componentVersion>1438291987</componentVersion>
+    <locale />
+    <numFiles>18</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>73401</size>
+    <type />
+    <uncompressedBytes>316913</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,21 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_license</componentBaseName>
+    <componentFileName>matlab_license_common_1438291957.enc</componentFileName>
+    <componentName>matlab_license_common</componentName>
+    <componentVersion>1438291957</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>22433</size>
+    <type></type>
+    <uncompressedBytes>84246</uncompressedBytes>
+  </component>
+</componentData>

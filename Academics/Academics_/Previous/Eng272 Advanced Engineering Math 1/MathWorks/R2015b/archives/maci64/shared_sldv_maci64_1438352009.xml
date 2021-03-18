@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_sldv</componentBaseName>
+    <componentFileName>shared_sldv_maci64_1438352009.enc</componentFileName>
+    <componentName>shared_sldv_maci64</componentName>
+    <componentVersion>1438352009</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>43529</size>
+    <type />
+    <uncompressedBytes>163412</uncompressedBytes>
+  </component>
+</componentData>
+

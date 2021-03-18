@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>dspshared_resources</componentBaseName>
+    <componentFileName>dspshared_resources_common_1438292042.enc</componentFileName>
+    <componentName>dspshared_resources_common</componentName>
+    <componentVersion>1438292042</componentVersion>
+    <locale />
+    <numFiles>34</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>52123</size>
+    <type />
+    <uncompressedBytes>246012</uncompressedBytes>
+  </component>
+</componentData>
+

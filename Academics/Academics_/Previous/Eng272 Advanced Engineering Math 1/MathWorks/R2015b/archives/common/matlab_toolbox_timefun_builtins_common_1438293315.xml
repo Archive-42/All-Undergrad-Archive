@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_timefun_builtins</componentBaseName>
+    <componentFileName>matlab_toolbox_timefun_builtins_common_1438293315.enc</componentFileName>
+    <componentName>matlab_toolbox_timefun_builtins_common</componentName>
+    <componentVersion>1438293315</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1173</size>
+    <type />
+    <uncompressedBytes>3246</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_metamodel</componentBaseName>
+    <componentFileName>simulink_metamodel_maci64_1439239600.enc</componentFileName>
+    <componentName>simulink_metamodel_maci64</componentName>
+    <componentVersion>1439239600</componentVersion>
+    <locale />
+    <numFiles>8</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>9494560</size>
+    <type />
+    <uncompressedBytes>48685272</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_datafun</componentBaseName>
+    <componentFileName>matlab_toolbox_datafun_maci64_1438314931.enc</componentFileName>
+    <componentName>matlab_toolbox_datafun_maci64</componentName>
+    <componentVersion>1438314931</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>150879</size>
+    <type />
+    <uncompressedBytes>1159316</uncompressedBytes>
+  </component>
+</componentData>
+

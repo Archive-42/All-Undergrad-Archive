@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>realtime_resources</componentBaseName>
+    <componentFileName>realtime_resources_common_1438291992.enc</componentFileName>
+    <componentName>realtime_resources_common</componentName>
+    <componentVersion>1438291992</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7893</size>
+    <type />
+    <uncompressedBytes>27609</uncompressedBytes>
+  </component>
+</componentData>
+

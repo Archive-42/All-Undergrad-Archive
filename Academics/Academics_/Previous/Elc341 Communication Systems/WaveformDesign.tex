@@ -1,0 +1,65 @@
+Problem statement: For a 1ohm resistive load, design a waveform with an average power of 1 watt, that minimizes power in the 5th harmonic, with the restriction that the average value is zero. Compare your result to the 5th harmonic power power of a square wave with zero average voltage. 
+
+Let
+v(t)=A*\cos(\omega*t)
+I(t)=A*\cos(\omega*t)
+\omega=2*\pi/T
+Let T=2*\pi
+therefore \omega=1
+1=P_{avg}=\int_{0}^{2*\pi} A^2*\cos^2(t) dt
+A^2=2
+A=\sqrt{2}\approx1.4142
+v(t)=\sqrt{2}*\cos(t)
+Since cos(t) is an even function, odd harmonics(including the 5th) of the Fourier series expansion will have values of zero. 
+
+
+SQUARE WAVE:
+Let
+	f(x)=\begin{cases}
+	\0 & \text{if} -\pi\leqslant x < 0
+	1 & \text{if} 0\leqslant x <\pi
+	\end{cases}
+	
+f(x+2*\pi) = f(x)
+
+a_{0}=1/(2*\pi) * \int_{-\pi}^{2*\pi} f(x) dx
+
+which is equal to : 
+1/(2*\pi) * \int_{-\pi}^{0} 0 dx + 1/(2*\pi) * \int_{0}^{\pi} 1 dx =0+\pi/(2*\pi)=1/2
+
+for n\geqslant 1
+a_{n} =(1/\pi)*\int_{-\pi}^{\pi} f(x)*\cos(n*x) dx
+
+which is equal to:
+(1/\pi)*\int_{-\pi}^{0} 0 dx +( 1/\pi)*\int_{0}^{\pi} 1*\cos(n*x) dx
+
+=0+(1/\pi)*\sin(n*x)/n |_{0}^{\pi}
+=(1/(n*\pi))*(\sin(n*\pi) -\sin(0)) =0
+
+b_{n}=(1/\pi)* \int_{0}^{\pi} \sin(n*x) dx= (-1/\pi)*\cos(n*x)/n |_{0}^{\pi} = (-1/(n*\pi))*(\cos(n*\pi)-\cos(0)) 
+
+which is equal to:
+b_{n}=\begin{dcases*}
+ 0 & \text{if n is even}
+ 2/(n*\pi) & \text{if n is odd}
+
+therefore:
+
+f(x)= 1/2 +\sum_{n=1,3,5,...}^{\infty} 2/(n*\pi)*\sin(n*x)
+
+for the 5th harmonic(n=5); the waveform is:
+2/(5*\pi)*\sin(5x)
+
+to compare to the design waveform let x=t
+
+P_{avg} = 1/(2*\pi) * \int_{0}^{2*\pi} 4/(2g*\pi^2)*\sin^2(5t) dt
+
+=1/(2*\pi) * 4/(25*\pi) =2/(25*\pi^2) > 0 = average power of 5th harmonic in design waveform!
+
+
+
+
+
+
+
+

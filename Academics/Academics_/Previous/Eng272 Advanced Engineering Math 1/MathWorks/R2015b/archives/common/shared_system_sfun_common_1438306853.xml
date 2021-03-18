@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_system_sfun</componentBaseName>
+    <componentFileName>shared_system_sfun_common_1438306853.enc</componentFileName>
+    <componentName>shared_system_sfun_common</componentName>
+    <componentVersion>1438306853</componentVersion>
+    <locale />
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>8765</size>
+    <type />
+    <uncompressedBytes>25927</uncompressedBytes>
+  </component>
+</componentData>
+

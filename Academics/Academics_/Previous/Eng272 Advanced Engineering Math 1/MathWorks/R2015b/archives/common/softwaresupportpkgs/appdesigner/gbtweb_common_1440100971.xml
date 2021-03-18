@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>softwaresupportpkgs/appdesigner/gbtweb</componentBaseName>
+    <componentFileName>softwaresupportpkgs/appdesigner/gbtweb_common_1440100971.enc</componentFileName>
+    <componentName>softwaresupportpkgs/appdesigner/gbtweb_common</componentName>
+    <componentVersion>1440100971</componentVersion>
+    <locale />
+    <numFiles>529</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2047480</size>
+    <type />
+    <uncompressedBytes>4705122</uncompressedBytes>
+  </component>
+</componentData>
+

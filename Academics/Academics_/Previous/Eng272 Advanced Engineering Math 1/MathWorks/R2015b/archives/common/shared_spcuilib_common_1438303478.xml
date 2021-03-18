@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_spcuilib</componentBaseName>
+    <componentFileName>shared_spcuilib_common_1438303478.enc</componentFileName>
+    <componentName>shared_spcuilib_common</componentName>
+    <componentVersion>1438303478</componentVersion>
+    <locale />
+    <numFiles>2593</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2051885</size>
+    <type />
+    <uncompressedBytes>4126768</uncompressedBytes>
+  </component>
+</componentData>
+

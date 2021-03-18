@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/drs_parser</componentBaseName>
+    <componentFileName>polyspace/drs_parser_maci64_1438296760.enc</componentFileName>
+    <componentName>polyspace/drs_parser_maci64</componentName>
+    <componentVersion>1438296760</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>21249</size>
+    <type />
+    <uncompressedBytes>47344</uncompressedBytes>
+  </component>
+</componentData>
+

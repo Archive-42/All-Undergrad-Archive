@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_upgrade_engine</componentBaseName>
+    <componentFileName>sl_upgrade_engine_common_1438310130.enc</componentFileName>
+    <componentName>sl_upgrade_engine_common</componentName>
+    <componentVersion>1438310130</componentVersion>
+    <locale />
+    <numFiles>31</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>20017</size>
+    <type />
+    <uncompressedBytes>13760</uncompressedBytes>
+  </component>
+</componentData>
+

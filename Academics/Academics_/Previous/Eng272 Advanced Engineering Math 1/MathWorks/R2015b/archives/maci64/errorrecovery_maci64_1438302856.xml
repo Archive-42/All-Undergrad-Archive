@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>errorrecovery</componentBaseName>
+    <componentFileName>errorrecovery_maci64_1438302856.enc</componentFileName>
+    <componentName>errorrecovery_maci64</componentName>
+    <componentVersion>1438302856</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>23513</size>
+    <type />
+    <uncompressedBytes>86392</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>fixedpoint_numerictype</componentBaseName>
+    <componentFileName>fixedpoint_numerictype_common_1438305958.enc</componentFileName>
+    <componentName>fixedpoint_numerictype_common</componentName>
+    <componentVersion>1438305958</componentVersion>
+    <locale />
+    <numFiles>26</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>29480</size>
+    <type />
+    <uncompressedBytes>46336</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>ctfdatainterfaces</componentBaseName>
+    <componentFileName>ctfdatainterfaces_maci64_1438299272.enc</componentFileName>
+    <componentName>ctfdatainterfaces_maci64</componentName>
+    <componentVersion>1438299272</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>657428</size>
+    <type />
+    <uncompressedBytes>3150904</uncompressedBytes>
+  </component>
+</componentData>
+

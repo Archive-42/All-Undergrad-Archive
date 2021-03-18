@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_ma</componentBaseName>
+    <componentFileName>simulink_ma_common_1439482944.enc</componentFileName>
+    <componentName>simulink_ma_common</componentName>
+    <componentVersion>1439482944</componentVersion>
+    <locale />
+    <numFiles>792</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1279028</size>
+    <type />
+    <uncompressedBytes>1160318</uncompressedBytes>
+  </component>
+</componentData>
+

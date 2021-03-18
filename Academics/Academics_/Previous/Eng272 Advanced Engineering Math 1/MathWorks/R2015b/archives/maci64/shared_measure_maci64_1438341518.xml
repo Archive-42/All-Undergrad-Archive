@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_measure</componentBaseName>
+    <componentFileName>shared_measure_maci64_1438341518.enc</componentFileName>
+    <componentName>shared_measure_maci64</componentName>
+    <componentVersion>1438341518</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>219263</size>
+    <type />
+    <uncompressedBytes>712612</uncompressedBytes>
+  </component>
+</componentData>
+

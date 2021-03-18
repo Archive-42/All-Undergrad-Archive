@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>services</componentBaseName>
+    <componentFileName>services_maci64_1440100853.enc</componentFileName>
+    <componentName>services_maci64</componentName>
+    <componentVersion>1440100853</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1311693</size>
+    <type />
+    <uncompressedBytes>4518184</uncompressedBytes>
+  </component>
+</componentData>
+

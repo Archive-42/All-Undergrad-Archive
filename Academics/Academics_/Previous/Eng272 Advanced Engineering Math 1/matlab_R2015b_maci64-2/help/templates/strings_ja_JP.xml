@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- American English strings -->
+<strings language="ja_JP">
+  <string key="all_support">すべてのサポート</string>
+  <string key="all_products">すべての製品</string>
+  <string key="current_locale_in_parenthesis">(日本語)</string>
+  <string key="documentation_center">ドキュメンテーション</string>
+  <string key="installation">インストール</string>
+  <string key="release_notes">リリース ノート</string>
+  <string key="pdf_documentation">PDF 版ドキュメンテーション</string>
+  <string key="search_documentation">ドキュメンテーションの検索</string>
+  <string key="search_latest_documentation">最新のドキュメンテーションを検索</string>
+  <string key="supplemental_software">補助ソフトウェア</string>
+  <string key="acknowledgments">謝辞 (英語)</string>
+  <string key="trademarks">商標 (英語)</string>
+  <string key="patents">特許 (英語)</string>
+  <string key="terms_of_use">ご利用条件 (英語)</string>
+  <string key="home">ホーム</string>
+  <string key="other_releases">日本語ドキュメンテーション アーカイブ</string>
+  <string key="page_not_avail">検索中のページは、このバージョンのドキュメンテーションで利用できません。</string>
+  <string key="use_search_box_or_browse">検索ボックスを利用するか製品ページを閲覧して、関連する情報を参照できます。</string>
+  <string key="view_archive_doc">さらに、以前のリリースについてのアーカイブ ドキュメンテーションも参照できます。</string>
+  <string key="accessing_restricted_doc"></string><!--Only applicable for restricted doc, should be empty for non-restricted doc-->
+  <string key="transl_doc_is_avail_incr">翻訳されたドキュメンテーションが、段階的に閲覧できるようになりました。次回のリリースを待つことなく、更新された内容をご確認いただけます。</string>
+  <string key="you_can_download_doc">また、最新の翻訳済みドキュメンテーションを<a href="http://www.mathworks.com/help/ja_JP/doc_download/download.html">ダウンロード</a>してインストールすることもできます。</string>
+  <string key="refer_to_other_releases">現在のリリース以前に翻訳されたドキュメンテーションについては、「<a href="http://www.mathworks.com/help/doc-archives_ja_JP.html">日本語ドキュメンテーション アーカイブ</a>」を参照してください。</string>
+  <string key="when_transl_doc_is_avail_you_will_see_it">製品のドキュメンテーションはこちらからご利用になれます。お探しの項目が未翻訳の場合は英語ドキュメンテーションが表示されます。</string>
+  <string key="installed_support_packages">インストール済みサポート パッケージ</string>
+  <string key="hardware_catalog">ハードウェア ソリューションの詳細については、<a href="http://www.mathworks.com/hardware">ハードウェア サポート (英語)</a> を参照してください。</string>
+  <string key="trial_software">評価版ソフトウェア</string>
+  <string key="product_updates">製品の更新</string>
+</strings>

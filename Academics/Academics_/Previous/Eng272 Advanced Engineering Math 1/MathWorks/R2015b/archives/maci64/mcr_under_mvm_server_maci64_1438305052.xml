@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mcr_under_mvm_server</componentBaseName>
+    <componentFileName>mcr_under_mvm_server_maci64_1438305052.enc</componentFileName>
+    <componentName>mcr_under_mvm_server_maci64</componentName>
+    <componentVersion>1438305052</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>257158</size>
+    <type />
+    <uncompressedBytes>919116</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder_coverage</componentBaseName>
+    <componentFileName>coder_coverage_common_1438306724.enc</componentFileName>
+    <componentName>coder_coverage_common</componentName>
+    <componentVersion>1438306724</componentVersion>
+    <locale />
+    <numFiles>30</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>78785</size>
+    <type />
+    <uncompressedBytes>321450</uncompressedBytes>
+  </component>
+</componentData>
+

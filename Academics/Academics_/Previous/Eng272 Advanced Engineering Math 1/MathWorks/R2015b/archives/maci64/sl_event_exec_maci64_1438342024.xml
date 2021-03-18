@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_event_exec</componentBaseName>
+    <componentFileName>sl_event_exec_maci64_1438342024.enc</componentFileName>
+    <componentName>sl_event_exec_maci64</componentName>
+    <componentVersion>1438342024</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>31755</size>
+    <type />
+    <uncompressedBytes>84688</uncompressedBytes>
+  </component>
+</componentData>
+

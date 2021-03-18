@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_images_resources</componentBaseName>
+    <componentFileName>matlab_images_resources_common_1438292620.enc</componentFileName>
+    <componentName>matlab_images_resources_common</componentName>
+    <componentVersion>1438292620</componentVersion>
+    <locale />
+    <numFiles>28</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>16311</size>
+    <type />
+    <uncompressedBytes>20897</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_doc_en</componentBaseName>
+    <componentFileName>matlab_doc_en_common_1438730400.enc</componentFileName>
+    <componentName>matlab_doc_en_common</componentName>
+    <componentVersion>1438730400</componentVersion>
+    <locale />
+    <numFiles>8793</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>79338735</size>
+    <type />
+    <uncompressedBytes>164521971</uncompressedBytes>
+  </component>
+</componentData>
+

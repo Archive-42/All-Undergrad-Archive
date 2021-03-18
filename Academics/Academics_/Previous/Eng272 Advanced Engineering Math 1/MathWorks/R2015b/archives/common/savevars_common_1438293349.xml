@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>savevars</componentBaseName>
+    <componentFileName>savevars_common_1438293349.enc</componentFileName>
+    <componentName>savevars_common</componentName>
+    <componentVersion>1438293349</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>9796</size>
+    <type />
+    <uncompressedBytes>33637</uncompressedBytes>
+  </component>
+</componentData>
+

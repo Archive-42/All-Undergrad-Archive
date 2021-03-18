@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>storage/javaprovider_native</componentBaseName>
+    <componentFileName>storage/javaprovider_native_maci64_1438299283.enc</componentFileName>
+    <componentName>storage/javaprovider_native_maci64</componentName>
+    <componentVersion>1438299283</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>53846</size>
+    <type />
+    <uncompressedBytes>174832</uncompressedBytes>
+  </component>
+</componentData>
+

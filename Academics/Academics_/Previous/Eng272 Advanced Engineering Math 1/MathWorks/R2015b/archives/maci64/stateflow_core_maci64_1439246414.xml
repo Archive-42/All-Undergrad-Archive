@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>stateflow_core</componentBaseName>
+    <componentFileName>stateflow_core_maci64_1439246414.enc</componentFileName>
+    <componentName>stateflow_core_maci64</componentName>
+    <componentVersion>1439246414</componentVersion>
+    <locale />
+    <numFiles>19</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4906964</size>
+    <type />
+    <uncompressedBytes>15516392</uncompressedBytes>
+  </component>
+</componentData>
+

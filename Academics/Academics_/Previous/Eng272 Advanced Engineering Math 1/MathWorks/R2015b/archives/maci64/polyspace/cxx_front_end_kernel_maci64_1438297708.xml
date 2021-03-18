@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/cxx_front_end_kernel</componentBaseName>
+    <componentFileName>polyspace/cxx_front_end_kernel_maci64_1438297708.enc</componentFileName>
+    <componentName>polyspace/cxx_front_end_kernel_maci64</componentName>
+    <componentVersion>1438297708</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2769780</size>
+    <type />
+    <uncompressedBytes>6460859</uncompressedBytes>
+  </component>
+</componentData>
+

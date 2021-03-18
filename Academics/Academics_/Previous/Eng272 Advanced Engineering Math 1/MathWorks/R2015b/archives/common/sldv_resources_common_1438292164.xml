@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sldv_resources</componentBaseName>
+    <componentFileName>sldv_resources_common_1438292164.enc</componentFileName>
+    <componentName>sldv_resources_common</componentName>
+    <componentVersion>1438292164</componentVersion>
+    <locale />
+    <numFiles>385</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>282279</size>
+    <type />
+    <uncompressedBytes>571265</uncompressedBytes>
+  </component>
+</componentData>
+

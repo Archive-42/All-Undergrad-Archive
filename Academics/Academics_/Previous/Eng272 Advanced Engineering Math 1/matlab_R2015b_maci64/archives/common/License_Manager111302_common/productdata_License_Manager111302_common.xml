@@ -1,0 +1,45 @@
+<?xml version='1.0' standalone='yes'?>
+<productData>
+  <dependsOn>
+    <component>
+      <name>matlab_license_common</name>
+      <locale></locale>
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1438291957</version>
+    </component>
+    <component>
+      <name>3p/flexnet_common</name>
+      <locale></locale>
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1438291910</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maci64</platform>
+    <platform>win32</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode></productBaseCode>
+  <productName>License Manager</productName>
+  <productNumber>0</productNumber>
+  <productVersion>11.13.0.2</productVersion>
+  <releaseDescription>R2015b</releaseDescription>
+  <releaseFamily>R2015b</releaseFamily>
+  <requiredProducts>
+  </requiredProducts>
+</productData>

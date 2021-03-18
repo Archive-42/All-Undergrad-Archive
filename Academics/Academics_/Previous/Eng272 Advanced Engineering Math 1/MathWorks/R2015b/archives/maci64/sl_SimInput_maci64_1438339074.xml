@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_SimInput</componentBaseName>
+    <componentFileName>sl_SimInput_maci64_1438339074.enc</componentFileName>
+    <componentName>sl_SimInput_maci64</componentName>
+    <componentVersion>1438339074</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>81435</size>
+    <type />
+    <uncompressedBytes>248028</uncompressedBytes>
+  </component>
+</componentData>
+

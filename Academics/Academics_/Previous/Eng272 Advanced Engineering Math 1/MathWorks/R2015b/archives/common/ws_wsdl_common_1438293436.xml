@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>ws_wsdl</componentBaseName>
+    <componentFileName>ws_wsdl_common_1438293436.enc</componentFileName>
+    <componentName>ws_wsdl_common</componentName>
+    <componentVersion>1438293436</componentVersion>
+    <locale />
+    <numFiles>14</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>60335</size>
+    <type />
+    <uncompressedBytes>219487</uncompressedBytes>
+  </component>
+</componentData>
+

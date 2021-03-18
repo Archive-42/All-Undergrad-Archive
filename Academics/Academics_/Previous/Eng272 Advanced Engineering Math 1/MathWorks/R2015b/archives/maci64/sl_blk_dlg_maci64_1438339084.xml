@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_blk_dlg</componentBaseName>
+    <componentFileName>sl_blk_dlg_maci64_1438339084.enc</componentFileName>
+    <componentName>sl_blk_dlg_maci64</componentName>
+    <componentVersion>1438339084</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>49935</size>
+    <type />
+    <uncompressedBytes>159728</uncompressedBytes>
+  </component>
+</componentData>
+

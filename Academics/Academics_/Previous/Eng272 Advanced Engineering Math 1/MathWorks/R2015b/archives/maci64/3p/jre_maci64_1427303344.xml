@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/jre</componentBaseName>
+    <componentFileName manifest="3p/jre_maci64_manifest.xml">3p/jre_maci64_1427303344.enc</componentFileName>
+    <componentName>3p/jre_maci64</componentName>
+    <componentVersion>1427303344</componentVersion>
+    <locale />
+    <numFiles>578</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>46759997</size>
+    <type />
+    <uncompressedBytes>139880910</uncompressedBytes>
+  </component>
+</componentData>
+

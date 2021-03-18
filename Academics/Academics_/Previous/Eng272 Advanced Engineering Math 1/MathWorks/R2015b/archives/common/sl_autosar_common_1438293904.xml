@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_autosar</componentBaseName>
+    <componentFileName>sl_autosar_common_1438293904.enc</componentFileName>
+    <componentName>sl_autosar_common</componentName>
+    <componentVersion>1438293904</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1059</size>
+    <type />
+    <uncompressedBytes>2130</uncompressedBytes>
+  </component>
+</componentData>
+

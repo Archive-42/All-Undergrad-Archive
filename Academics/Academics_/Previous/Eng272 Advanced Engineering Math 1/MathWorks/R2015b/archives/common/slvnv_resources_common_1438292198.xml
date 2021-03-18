@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>slvnv_resources</componentBaseName>
+    <componentFileName>slvnv_resources_common_1438292198.enc</componentFileName>
+    <componentName>slvnv_resources_common</componentName>
+    <componentVersion>1438292198</componentVersion>
+    <locale />
+    <numFiles>454</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>306001</size>
+    <type />
+    <uncompressedBytes>561651</uncompressedBytes>
+  </component>
+</componentData>
+

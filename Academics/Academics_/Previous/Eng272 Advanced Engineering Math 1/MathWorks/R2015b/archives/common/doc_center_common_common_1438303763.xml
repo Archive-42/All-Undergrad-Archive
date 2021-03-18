@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>doc_center_common</componentBaseName>
+    <componentFileName>doc_center_common_common_1438303763.enc</componentFileName>
+    <componentName>doc_center_common_common</componentName>
+    <componentVersion>1438303763</componentVersion>
+    <locale />
+    <numFiles>419</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1018989</size>
+    <type />
+    <uncompressedBytes>2200546</uncompressedBytes>
+  </component>
+</componentData>
+

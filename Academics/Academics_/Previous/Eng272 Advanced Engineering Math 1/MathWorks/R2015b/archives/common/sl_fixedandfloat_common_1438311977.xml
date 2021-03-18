@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_fixedandfloat</componentBaseName>
+    <componentFileName>sl_fixedandfloat_common_1438311977.enc</componentFileName>
+    <componentName>sl_fixedandfloat_common</componentName>
+    <componentVersion>1438311977</componentVersion>
+    <locale />
+    <numFiles>62</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>81631</size>
+    <type />
+    <uncompressedBytes>314036</uncompressedBytes>
+  </component>
+</componentData>
+

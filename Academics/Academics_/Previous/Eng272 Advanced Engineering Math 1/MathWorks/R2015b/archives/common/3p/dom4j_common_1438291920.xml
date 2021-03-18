@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/dom4j</componentBaseName>
+    <componentFileName>3p/dom4j_common_1438291920.enc</componentFileName>
+    <componentName>3p/dom4j_common</componentName>
+    <componentVersion>1438291920</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>292678</size>
+    <type />
+    <uncompressedBytes>315848</uncompressedBytes>
+  </component>
+</componentData>
+

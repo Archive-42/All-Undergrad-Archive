@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_loadsave</componentBaseName>
+    <componentFileName>sl_loadsave_maci64_1438320576.enc</componentFileName>
+    <componentName>sl_loadsave_maci64</componentName>
+    <componentVersion>1438320576</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1205345</size>
+    <type />
+    <uncompressedBytes>5057592</uncompressedBytes>
+  </component>
+</componentData>
+

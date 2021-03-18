@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl3d_demos</componentBaseName>
+    <componentFileName>sl3d_demos_common_1438723669.enc</componentFileName>
+    <componentName>sl3d_demos_common</componentName>
+    <componentVersion>1438723669</componentVersion>
+    <locale />
+    <numFiles>123</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4608358</size>
+    <type />
+    <uncompressedBytes>10496818</uncompressedBytes>
+  </component>
+</componentData>
+

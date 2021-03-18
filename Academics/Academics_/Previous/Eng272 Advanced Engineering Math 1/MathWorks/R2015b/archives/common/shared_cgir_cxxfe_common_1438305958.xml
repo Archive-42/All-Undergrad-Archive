@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_cgir_cxxfe</componentBaseName>
+    <componentFileName>shared_cgir_cxxfe_common_1438305958.enc</componentFileName>
+    <componentName>shared_cgir_cxxfe_common</componentName>
+    <componentVersion>1438305958</componentVersion>
+    <locale />
+    <numFiles>18</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>12599</size>
+    <type />
+    <uncompressedBytes>9209</uncompressedBytes>
+  </component>
+</componentData>
+

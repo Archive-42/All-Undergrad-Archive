@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_strfun_builtins</componentBaseName>
+    <componentFileName>matlab_toolbox_strfun_builtins_maci64_1438303845.enc</componentFileName>
+    <componentName>matlab_toolbox_strfun_builtins_maci64</componentName>
+    <componentVersion>1438303845</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>122063</size>
+    <type />
+    <uncompressedBytes>445980</uncompressedBytes>
+  </component>
+</componentData>
+

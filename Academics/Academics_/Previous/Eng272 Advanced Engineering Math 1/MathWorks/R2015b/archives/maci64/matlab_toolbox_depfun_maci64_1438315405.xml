@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_depfun</componentBaseName>
+    <componentFileName>matlab_toolbox_depfun_maci64_1438315405.enc</componentFileName>
+    <componentName>matlab_toolbox_depfun_maci64</componentName>
+    <componentVersion>1438315405</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3866</size>
+    <type />
+    <uncompressedBytes>18420</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_diagnostic_mi</componentBaseName>
+    <componentFileName>sl_diagnostic_mi_maci64_1438319459.enc</componentFileName>
+    <componentName>sl_diagnostic_mi_maci64</componentName>
+    <componentVersion>1438319459</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>129189</size>
+    <type />
+    <uncompressedBytes>459532</uncompressedBytes>
+  </component>
+</componentData>
+

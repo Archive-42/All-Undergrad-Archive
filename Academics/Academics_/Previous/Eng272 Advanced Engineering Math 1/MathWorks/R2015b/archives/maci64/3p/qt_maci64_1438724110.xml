@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/qt</componentBaseName>
+    <componentFileName>3p/qt_maci64_1438724110.enc</componentFileName>
+    <componentName>3p/qt_maci64</componentName>
+    <componentVersion>1438724110</componentVersion>
+    <locale />
+    <numFiles>81</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>20424035</size>
+    <type />
+    <uncompressedBytes>61683041</uncompressedBytes>
+  </component>
+</componentData>
+

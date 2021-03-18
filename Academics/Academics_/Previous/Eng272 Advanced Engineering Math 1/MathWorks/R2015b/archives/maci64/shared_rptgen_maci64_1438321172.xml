@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_rptgen</componentBaseName>
+    <componentFileName>shared_rptgen_maci64_1438321172.enc</componentFileName>
+    <componentName>shared_rptgen_maci64</componentName>
+    <componentVersion>1438321172</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1061</size>
+    <type />
+    <uncompressedBytes>886</uncompressedBytes>
+  </component>
+</componentData>
+

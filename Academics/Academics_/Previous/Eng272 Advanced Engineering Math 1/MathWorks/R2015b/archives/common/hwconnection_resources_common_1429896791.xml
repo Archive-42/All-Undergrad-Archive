@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hwconnection_resources</componentBaseName>
+    <componentFileName>hwconnection_resources_common_1429896791.enc</componentFileName>
+    <componentName>hwconnection_resources_common</componentName>
+    <componentVersion>1429896791</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>527</size>
+    <type />
+    <uncompressedBytes>564</uncompressedBytes>
+  </component>
+</componentData>
+

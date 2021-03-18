@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hdlshared_resources</componentBaseName>
+    <componentFileName>hdlshared_resources_common_1438291971.enc</componentFileName>
+    <componentName>hdlshared_resources_common</componentName>
+    <componentVersion>1438291971</componentVersion>
+    <locale />
+    <numFiles>30</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>68541</size>
+    <type />
+    <uncompressedBytes>243156</uncompressedBytes>
+  </component>
+</componentData>
+

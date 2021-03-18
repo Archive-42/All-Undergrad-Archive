@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mex</componentBaseName>
+    <componentFileName>mex_common_1438293013.enc</componentFileName>
+    <componentName>mex_common</componentName>
+    <componentVersion>1438293013</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3702</size>
+    <type />
+    <uncompressedBytes>12005</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/jdom</componentBaseName>
+    <componentFileName>3p/jdom_common_1438291916.enc</componentFileName>
+    <componentName>3p/jdom_common</componentName>
+    <componentVersion>1438291916</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>146373</size>
+    <type />
+    <uncompressedBytes>155887</uncompressedBytes>
+  </component>
+</componentData>
+

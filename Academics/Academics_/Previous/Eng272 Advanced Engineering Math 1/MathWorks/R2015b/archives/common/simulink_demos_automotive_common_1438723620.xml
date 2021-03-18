@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_demos_automotive</componentBaseName>
+    <componentFileName>simulink_demos_automotive_common_1438723620.enc</componentFileName>
+    <componentName>simulink_demos_automotive_common</componentName>
+    <componentVersion>1438723620</componentVersion>
+    <locale />
+    <numFiles>23</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>398533</size>
+    <type />
+    <uncompressedBytes>427133</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_trademarks</componentBaseName>
+    <componentFileName>matlab_trademarks_common_1438095598.enc</componentFileName>
+    <componentName>matlab_trademarks_common</componentName>
+    <componentVersion>1438095598</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3792</size>
+    <type />
+    <uncompressedBytes>9852</uncompressedBytes>
+  </component>
+</componentData>
+

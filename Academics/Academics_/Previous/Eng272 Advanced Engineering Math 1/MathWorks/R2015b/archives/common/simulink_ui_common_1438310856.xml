@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_ui</componentBaseName>
+    <componentFileName>simulink_ui_common_1438310856.enc</componentFileName>
+    <componentName>simulink_ui_common</componentName>
+    <componentVersion>1438310856</componentVersion>
+    <locale />
+    <numFiles>18</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>22095</size>
+    <type />
+    <uncompressedBytes>100106</uncompressedBytes>
+  </component>
+</componentData>
+

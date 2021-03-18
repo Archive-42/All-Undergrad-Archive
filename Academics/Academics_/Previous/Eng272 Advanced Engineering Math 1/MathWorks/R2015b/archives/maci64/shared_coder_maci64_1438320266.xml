@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_coder</componentBaseName>
+    <componentFileName>shared_coder_maci64_1438320266.enc</componentFileName>
+    <componentName>shared_coder_maci64</componentName>
+    <componentVersion>1438320266</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1374</size>
+    <type />
+    <uncompressedBytes>1201</uncompressedBytes>
+  </component>
+</componentData>
+

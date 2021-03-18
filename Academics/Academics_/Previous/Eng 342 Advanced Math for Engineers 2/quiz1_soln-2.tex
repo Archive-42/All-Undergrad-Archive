@@ -1,0 +1,130 @@
+\documentclass[11pt]{article}
+\setlength\parindent{0pt}
+
+\pagestyle{empty}
+
+\usepackage{comment}
+\usepackage{amsmath}
+\usepackage{subfigure}
+\usepackage{graphicx}
+\usepackage{pgf}
+\usepackage{tikz}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,%
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=black
+}
+
+\newcommand{\eg}{{\em e.g.}, }
+\newcommand{\ie}{{\em i.e.}, }
+\newcommand{\etal}{{\em et al.}}
+
+\begin{document}
+\title{ENG 342: Advanced Engineering Math II}
+\author{Quiz 1}
+\date{9/13/16}
+
+{\Large ENG 342: Advanced Engineering Math II} \\
+
+{\large Quiz \#1} \\
+
+September 13, 2016 \\
+
+\newpage
+
+\textbf{Problem 1} [4 pts]
+
+\vspace{0.1in}
+
+Let $f(x) = \cos (m \pi x)$ and $g(x) = \sin (n \pi x)$ for integers $m > 0$, $n > 0$. \\
+
+(a) Show that $f$ and $g$ are orthogonal to each other on the interval $[0, 2]$ for all possible values of $m$ and $n$. [3 pts] \\
+
+We must show that $(f, g) = 0$ for all possible values of $m$ and $n$:
+\begin{eqnarray*}
+(f, g) &=& \int_0^2 \cos (m \pi x) \sin (n \pi x) \; dx \\
+	&=& \int_0^2 \frac{1}{2} \left( \sin(m \pi x + n \pi x) - \sin(m \pi x - n \pi x) \right) dx \\
+	&=& \frac{1}{2} \int_0^2 \sin((m + n) \pi x) dx - \frac{1}{2} \int_0^2 \sin((m - n)\pi x) dx \\
+	&=& -\frac{\cos( (m+n) \pi x)}{2 (m+n) \pi} \biggr\rvert_0^2 + \frac{\cos( (m-n) \pi x)}{2 (m-n) \pi} \biggr \rvert_0^2
+\end{eqnarray*}
+The right side is defined only for $m \neq n$. In this case, we have:
+\begin{eqnarray*}
+(f, g) &=& -\frac{\cos( 2 (m+n) \pi) - \cos(0)}{2 (m+n) \pi} + \frac{\cos( 2 (m-n) \pi) - \cos(0)}{2 (m-n) \pi} \\
+	&=& -\frac{1 - 1}{2 (m+n) \pi} + \frac{1 - 1}{2 (m-n) \pi} = 0 + 0 = 0
+\end{eqnarray*}
+since $\cos(2 r \pi ) = \cos(0) = 1$ for any integer $r$. In the case of $m = n$:
+\begin{eqnarray*}
+(f, g) &=& \int_0^2 \cos (n \pi x) \sin (n \pi x) \; dx \\
+	&=& \int_0^2 \frac{1}{2} \left( \sin(2 n \pi x) - \sin(0) \right) dx \\
+	&=& \frac{1}{2} \int_0^2 \sin(2 n \pi x) dx = -\frac{\cos( 2 n \pi x)}{4 n \pi} \biggr\rvert_0^2 = -\frac{1 - 1}{4 n \pi} = 0 \\
+\end{eqnarray*}
+
+(b) What is the norm of $f$ on $[0, 1]$? [1 pt]
+
+The squared norm is:
+\begin{eqnarray*}
+\lVert f(x) \rVert^2 &=& \int_0^1 \cos^2(m \pi x) dx \\
+	&=& \int_0^1 \frac{1}{2} \left( 1 + \cos(2 m \pi x) \right) dx
+\end{eqnarray*}
+\begin{eqnarray*}
+	&=& \frac{x}{2} \biggr\rvert_0^1 + \frac{\sin(2 m \pi x)}{4 m \pi} \biggr\rvert_0^1 \\
+	&=& \frac{1}{2} + 0 = \frac{1}{2}
+\end{eqnarray*}
+The norm is the square root of this:
+\begin{equation*}
+\lVert f(x) \rVert = \frac{1}{\sqrt{2}}
+\end{equation*}
+
+\vspace{0.5in}
+
+\textbf{Problem 2} [6 pts]
+
+\vspace{0.1in}
+
+Let $f(x) = \begin{cases} 0 & -\pi < x < 0 \\  2x & 0 \leq x < \pi \end{cases}$. \\
+
+(a) Expand $f(x)$ in a Fourier series. (Write it as a summation.) [4 pts] \\
+
+Recognizing that $p = \pi$ and that the integral over $(-\pi, 0)$ is always $0$, the Fourier coefficients are calculated as follows:
+\begin{equation*}
+a_0 = \frac{1}{\pi} \int_0^{\pi} 2x \; dx = \frac{1}{\pi} x^2 \biggr\rvert_0^{\pi} = \pi
+\end{equation*}
+
+\begin{eqnarray*}
+a_n &=& \frac{1}{\pi} \int_0^{\pi} 2x \cos( nx) \; dx \\
+	&=& \frac{2}{\pi} \left( \frac{x}{n} \sin( nx) \biggr\rvert_0^{\pi} - \int_0^{\pi} \frac{1}{n} \sin( nx) \; dx \right) \\
+	&=& \frac{2}{\pi} \left( 0 + \frac{1}{n^2} \cos( nx) \biggr\rvert_0^{\pi} \right) \\
+	&=& \frac{2}{\pi n^2} \left( (-1)^n - 1 \right)
+\end{eqnarray*}
+
+\begin{eqnarray*}
+b_n &=& \frac{1}{\pi} \int_0^{\pi} 2x \sin( nx) \; dx \\
+	&=& \frac{2}{\pi} \left( - \frac{x}{n} \cos( nx) \biggr\rvert_0^{\pi} + \int_0^{\pi} \frac{1}{n} \cos( nx) \; dx \right) \\
+	&=& \frac{2}{\pi} \left( - \frac{\pi}{n} (-1)^n + \frac{1}{n^2} \sin( nx) \biggr\rvert_0^{\pi} \right)
+\end{eqnarray*}
+\begin{equation*}
+	= \frac{2}{n} (-1)^{n+1}
+\end{equation*}
+since $-(-1)^{n} = (-1)^{n+1}$. \\
+
+Therefore,
+\begin{equation*}
+f(x) = \frac{\pi}{2} + \sum_{n=1}^{\infty} \left( \frac{2}{\pi n^2} ((-1)^n - 1) \cos( nx) + \frac{2}{n} (-1)^{n+1} \sin( nx) \right)
+\end{equation*}
+
+(b) Plot what the Fourier series from (a) will converge to (\ie with an infinite number of terms) over the interval $(-3\pi, 3\pi)$. [2 pts] \\
+
+The Fourier series will converge to the periodic extension of $f$, with a fundamental period of $2\pi$, and to $(2\pi - 0) / 2$ at the points of discontinuity $-3\pi$, $-\pi$, $\pi$, $3\pi$:
+
+\iffalse
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.5]{plot}
+\label{fig:plot}
+\end{figure}
+\fi
+
+\end{document}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mwlic_client</componentBaseName>
+    <componentFileName>mwlic_client_common_1438292211.enc</componentFileName>
+    <componentName>mwlic_client_common</componentName>
+    <componentVersion>1438292211</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>17512</size>
+    <type />
+    <uncompressedBytes>21819</uncompressedBytes>
+  </component>
+</componentData>
+

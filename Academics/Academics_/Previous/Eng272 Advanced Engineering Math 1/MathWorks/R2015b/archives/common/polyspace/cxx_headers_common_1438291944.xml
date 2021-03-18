@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/cxx_headers</componentBaseName>
+    <componentFileName>polyspace/cxx_headers_common_1438291944.enc</componentFileName>
+    <componentName>polyspace/cxx_headers_common</componentName>
+    <componentVersion>1438291944</componentVersion>
+    <locale />
+    <numFiles>651</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1525960</size>
+    <type />
+    <uncompressedBytes>7855463</uncompressedBytes>
+  </component>
+</componentData>
+

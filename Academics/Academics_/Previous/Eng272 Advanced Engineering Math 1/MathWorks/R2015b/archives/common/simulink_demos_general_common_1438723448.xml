@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_demos_general</componentBaseName>
+    <componentFileName>simulink_demos_general_common_1438723448.enc</componentFileName>
+    <componentName>simulink_demos_general_common</componentName>
+    <componentVersion>1438723448</componentVersion>
+    <locale />
+    <numFiles>86</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1616996</size>
+    <type />
+    <uncompressedBytes>1890832</uncompressedBytes>
+  </component>
+</componentData>
+

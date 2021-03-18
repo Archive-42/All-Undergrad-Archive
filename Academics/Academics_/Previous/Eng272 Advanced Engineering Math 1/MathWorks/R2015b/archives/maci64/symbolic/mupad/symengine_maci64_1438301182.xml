@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>symbolic/mupad/symengine</componentBaseName>
+    <componentFileName>symbolic/mupad/symengine_maci64_1438301182.enc</componentFileName>
+    <componentName>symbolic/mupad/symengine_maci64</componentName>
+    <componentVersion>1438301182</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1189</size>
+    <type />
+    <uncompressedBytes>8912</uncompressedBytes>
+  </component>
+</componentData>
+

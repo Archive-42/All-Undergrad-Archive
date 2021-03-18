@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>desuite_kernel</componentBaseName>
+    <componentFileName>desuite_kernel_maci64_1438302471.enc</componentFileName>
+    <componentName>desuite_kernel_maci64</componentName>
+    <componentVersion>1438302471</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>179081</size>
+    <type />
+    <uncompressedBytes>637392</uncompressedBytes>
+  </component>
+</componentData>
+

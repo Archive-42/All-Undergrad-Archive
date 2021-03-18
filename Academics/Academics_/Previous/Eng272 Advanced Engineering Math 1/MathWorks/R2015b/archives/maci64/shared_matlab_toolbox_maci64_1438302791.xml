@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_matlab_toolbox</componentBaseName>
+    <componentFileName>shared_matlab_toolbox_maci64_1438302791.enc</componentFileName>
+    <componentName>shared_matlab_toolbox_maci64</componentName>
+    <componentVersion>1438302791</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>40913</size>
+    <type />
+    <uncompressedBytes>155340</uncompressedBytes>
+  </component>
+</componentData>
+

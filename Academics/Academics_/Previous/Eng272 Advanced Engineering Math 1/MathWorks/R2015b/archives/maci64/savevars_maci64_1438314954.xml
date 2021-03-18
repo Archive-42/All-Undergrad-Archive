@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>savevars</componentBaseName>
+    <componentFileName>savevars_maci64_1438314954.enc</componentFileName>
+    <componentName>savevars_maci64</componentName>
+    <componentVersion>1438314954</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>175583</size>
+    <type />
+    <uncompressedBytes>535268</uncompressedBytes>
+  </component>
+</componentData>
+

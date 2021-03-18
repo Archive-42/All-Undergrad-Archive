@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_desktop_integration</componentBaseName>
+    <componentFileName>simulink_desktop_integration_common_1439446234.enc</componentFileName>
+    <componentName>simulink_desktop_integration_common</componentName>
+    <componentVersion>1439446234</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>83100</size>
+    <type />
+    <uncompressedBytes>101806</uncompressedBytes>
+  </component>
+</componentData>
+

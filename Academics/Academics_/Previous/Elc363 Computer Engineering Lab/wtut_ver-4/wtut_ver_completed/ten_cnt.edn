@@ -1,0 +1,503 @@
+(edif test (edifVersion 2 0 0) (edifLevel 0) (keywordMap (keywordLevel 0))
+(status (written (timeStamp 2005 3 1 17 3 9)
+   (author "Xilinx, Inc.")
+   (program "Xilinx CORE Generator" (version "Xilinx CORE Generator 7.1i"))))
+   (comment "                                                                                
+      This file is owned and controlled by Xilinx and must be used              
+      solely for design, simulation, implementation and creation of             
+      design files limited to Xilinx devices or technologies. Use               
+      with non-Xilinx devices or technologies is expressly prohibited           
+      and immediately terminates your license.                                  
+                                                                                
+      XILINX IS PROVIDING THIS DESIGN, CODE, OR INFORMATION 'AS IS'             
+      SOLELY FOR USE IN DEVELOPING PROGRAMS AND SOLUTIONS FOR                   
+      XILINX DEVICES.  BY PROVIDING THIS DESIGN, CODE, OR INFORMATION           
+      AS ONE POSSIBLE IMPLEMENTATION OF THIS FEATURE, APPLICATION               
+      OR STANDARD, XILINX IS MAKING NO REPRESENTATION THAT THIS                 
+      IMPLEMENTATION IS FREE FROM ANY CLAIMS OF INFRINGEMENT,                   
+      AND YOU ARE RESPONSIBLE FOR OBTAINING ANY RIGHTS YOU MAY REQUIRE          
+      FOR YOUR IMPLEMENTATION.  XILINX EXPRESSLY DISCLAIMS ANY                  
+      WARRANTY WHATSOEVER WITH RESPECT TO THE ADEQUACY OF THE                   
+      IMPLEMENTATION, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OR            
+      REPRESENTATIONS THAT THIS IMPLEMENTATION IS FREE FROM CLAIMS OF           
+      INFRINGEMENT, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS           
+      FOR A PARTICULAR PURPOSE.                                                 
+                                                                                
+      Xilinx products are not intended for use in life support                  
+      appliances, devices, or systems. Use in such applications are             
+      expressly prohibited.                                                     
+                                                                                
+      (c) Copyright 1995-2004 Xilinx, Inc.                                      
+      All rights reserved.                                                      
+                                                                                
+   ")
+   (comment "Core parameters: ")
+       (comment "c_count_mode = 0 ")
+       (comment "c_load_enable = true ")
+       (comment "c_has_aset = false ")
+       (comment "c_load_low = false ")
+       (comment "c_count_to = 1001 ")
+       (comment "c_sync_priority = 1 ")
+       (comment "c_has_iv = false ")
+       (comment "c_restrict_count = true ")
+       (comment "c_has_sclr = false ")
+       (comment "c_width = 4 ")
+       (comment "c_has_q_thresh1 = false ")
+       (comment "c_enable_rlocs = true ")
+       (comment "c_has_q_thresh0 = true ")
+       (comment "c_thresh1_value = 1111111111111111 ")
+       (comment "c_has_load = false ")
+       (comment "c_thresh_early = true ")
+       (comment "c_has_up = false ")
+       (comment "c_has_thresh1 = false ")
+       (comment "c_has_thresh0 = false ")
+       (comment "c_ainit_val = 0000 ")
+       (comment "c_has_ce = true ")
+       (comment "c_pipe_stages = 0 ")
+       (comment "c_family = spartan3 ")
+       (comment "InstanceName = ten_cnt ")
+       (comment "c_has_aclr = false ")
+       (comment "c_sync_enable = 0 ")
+       (comment "c_has_ainit = true ")
+       (comment "c_sinit_val = 0 ")
+       (comment "c_has_sset = false ")
+       (comment "c_has_sinit = false ")
+       (comment "c_count_by = 0001 ")
+       (comment "c_has_l = false ")
+       (comment "c_thresh0_value = 1001 ")
+   (external xilinxun (edifLevel 0)
+      (technology (numberDefinition))
+       (cell VCC (cellType GENERIC)
+           (view view_1 (viewType NETLIST)
+               (interface
+                   (port P (direction OUTPUT))
+               )
+           )
+       )
+       (cell GND (cellType GENERIC)
+           (view view_1 (viewType NETLIST)
+               (interface
+                   (port G (direction OUTPUT))
+               )
+           )
+       )
+       (cell FDCE (cellType GENERIC)
+           (view view_1 (viewType NETLIST)
+               (interface
+                   (port D (direction INPUT))
+                   (port C (direction INPUT))
+                   (port CE (direction INPUT))
+                   (port CLR (direction INPUT))
+                   (port Q (direction OUTPUT))
+               )
+           )
+       )
+       (cell FDE (cellType GENERIC)
+           (view view_1 (viewType NETLIST)
+               (interface
+                   (port D (direction INPUT))
+                   (port C (direction INPUT))
+                   (port CE (direction INPUT))
+                   (port Q (direction OUTPUT))
+               )
+           )
+       )
+       (cell LUT4 (cellType GENERIC)
+           (view view_1 (viewType NETLIST)
+               (interface
+                   (port I0 (direction INPUT))
+                   (port I1 (direction INPUT))
+                   (port I2 (direction INPUT))
+                   (port I3 (direction INPUT))
+                   (port O (direction OUTPUT))
+               )
+           )
+       )
+       (cell MUXCY (cellType GENERIC)
+           (view view_1 (viewType NETLIST)
+               (interface
+                   (port DI (direction INPUT))
+                   (port CI (direction INPUT))
+                   (port S (direction INPUT))
+                   (port O (direction OUTPUT))
+               )
+           )
+       )
+       (cell XORCY (cellType GENERIC)
+           (view view_1 (viewType NETLIST)
+               (interface
+                   (port LI (direction INPUT))
+                   (port CI (direction INPUT))
+                   (port O (direction OUTPUT))
+               )
+           )
+       )
+   )
+(library test_lib (edifLevel 0) (technology (numberDefinition (scale 1 (E 1 -12) (unit Time))))
+(cell ten_cnt
+ (cellType GENERIC) (view view_1 (viewType NETLIST)
+  (interface
+   (port ( rename CLK "CLK") (direction INPUT))
+   (port ( rename CE "CE") (direction INPUT))
+   (port ( rename AINIT "AINIT") (direction INPUT))
+   (port ( array ( rename Q "Q<3:0>") 4 ) (direction OUTPUT))
+   (port ( rename Q_THRESH0 "Q_THRESH0") (direction OUTPUT))
+   )
+  (contents
+   (instance VCC (viewRef view_1 (cellRef VCC  (libraryRef xilinxun))))
+   (instance GND (viewRef view_1 (cellRef GND  (libraryRef xilinxun))))
+   (instance BU3
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x0y0"))
+      (property INIT (string "8888"))
+   )
+   (instance BU9
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x0y0"))
+      (property INIT (string "0200"))
+   )
+   (instance BU10
+      (viewRef view_1 (cellRef FDCE (libraryRef xilinxun)))
+      (property RLOC (string "x0y0"))
+   )
+   (instance BU16
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x0y1"))
+      (property INIT (string "0200"))
+   )
+   (instance BU17
+      (viewRef view_1 (cellRef FDE (libraryRef xilinxun)))
+      (property RLOC (string "x0y1"))
+   )
+   (instance BU20
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x0y2"))
+      (property INIT (string "eeee"))
+   )
+   (instance BU22
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x0y2"))
+      (property INIT (string "5555"))
+   )
+   (instance BU23
+      (viewRef view_1 (cellRef MUXCY (libraryRef xilinxun)))
+      (property RLOC (string "x0y2"))
+   )
+   (instance BU24
+      (viewRef view_1 (cellRef XORCY (libraryRef xilinxun)))
+      (property RLOC (string "x0y2"))
+   )
+   (instance BU27
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x1y2"))
+      (property INIT (string "2222"))
+   )
+   (instance BU28
+      (viewRef view_1 (cellRef FDCE (libraryRef xilinxun)))
+      (property RLOC (string "x1y2"))
+   )
+   (instance BU30
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x0y3"))
+      (property INIT (string "aaaa"))
+   )
+   (instance BU31
+      (viewRef view_1 (cellRef MUXCY (libraryRef xilinxun)))
+      (property RLOC (string "x0y3"))
+   )
+   (instance BU32
+      (viewRef view_1 (cellRef XORCY (libraryRef xilinxun)))
+      (property RLOC (string "x0y3"))
+   )
+   (instance BU35
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x1y3"))
+      (property INIT (string "2222"))
+   )
+   (instance BU36
+      (viewRef view_1 (cellRef FDCE (libraryRef xilinxun)))
+      (property RLOC (string "x1y3"))
+   )
+   (instance BU38
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x0y3"))
+      (property INIT (string "aaaa"))
+   )
+   (instance BU39
+      (viewRef view_1 (cellRef MUXCY (libraryRef xilinxun)))
+      (property RLOC (string "x0y3"))
+   )
+   (instance BU40
+      (viewRef view_1 (cellRef XORCY (libraryRef xilinxun)))
+      (property RLOC (string "x0y3"))
+   )
+   (instance BU43
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x1y3"))
+      (property INIT (string "2222"))
+   )
+   (instance BU44
+      (viewRef view_1 (cellRef FDCE (libraryRef xilinxun)))
+      (property RLOC (string "x1y3"))
+   )
+   (instance BU46
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x0y4"))
+      (property INIT (string "aaaa"))
+   )
+   (instance BU47
+      (viewRef view_1 (cellRef XORCY (libraryRef xilinxun)))
+      (property RLOC (string "x0y4"))
+   )
+   (instance BU50
+      (viewRef view_1 (cellRef LUT4 (libraryRef xilinxun)))
+      (property RLOC (string "x1y4"))
+      (property INIT (string "2222"))
+   )
+   (instance BU51
+      (viewRef view_1 (cellRef FDCE (libraryRef xilinxun)))
+      (property RLOC (string "x1y4"))
+   )
+   (net N0
+    (joined
+      (portRef G (instanceRef GND))
+      (portRef CI (instanceRef BU23))
+      (portRef CI (instanceRef BU24))
+      (portRef I2 (instanceRef BU3))
+      (portRef I3 (instanceRef BU3))
+      (portRef I2 (instanceRef BU20))
+      (portRef I3 (instanceRef BU20))
+      (portRef I1 (instanceRef BU22))
+      (portRef I2 (instanceRef BU22))
+      (portRef I3 (instanceRef BU22))
+      (portRef I2 (instanceRef BU27))
+      (portRef I3 (instanceRef BU27))
+      (portRef I1 (instanceRef BU30))
+      (portRef I2 (instanceRef BU30))
+      (portRef I3 (instanceRef BU30))
+      (portRef I2 (instanceRef BU35))
+      (portRef I3 (instanceRef BU35))
+      (portRef I1 (instanceRef BU38))
+      (portRef I2 (instanceRef BU38))
+      (portRef I3 (instanceRef BU38))
+      (portRef I2 (instanceRef BU43))
+      (portRef I3 (instanceRef BU43))
+      (portRef I1 (instanceRef BU46))
+      (portRef I2 (instanceRef BU46))
+      (portRef I3 (instanceRef BU46))
+      (portRef I2 (instanceRef BU50))
+      (portRef I3 (instanceRef BU50))
+    )
+   )
+   (net N2
+    (joined
+      (portRef I3 (instanceRef BU9))
+      (portRef I3 (instanceRef BU16))
+      (portRef O (instanceRef BU24))
+      (portRef I0 (instanceRef BU27))
+    )
+   )
+   (net N3
+    (joined
+      (portRef I2 (instanceRef BU9))
+      (portRef I2 (instanceRef BU16))
+      (portRef O (instanceRef BU32))
+      (portRef I0 (instanceRef BU35))
+    )
+   )
+   (net N4
+    (joined
+      (portRef I1 (instanceRef BU9))
+      (portRef I1 (instanceRef BU16))
+      (portRef O (instanceRef BU40))
+      (portRef I0 (instanceRef BU43))
+    )
+   )
+   (net N5
+    (joined
+      (portRef I0 (instanceRef BU9))
+      (portRef I0 (instanceRef BU16))
+      (portRef O (instanceRef BU47))
+      (portRef I0 (instanceRef BU50))
+    )
+   )
+   (net N6
+    (joined
+      (portRef I0 (instanceRef BU3))
+      (portRef Q (instanceRef BU10))
+    )
+   )
+   (net N7
+    (joined
+      (portRef O (instanceRef BU3))
+      (portRef I1 (instanceRef BU20))
+      (portRef I1 (instanceRef BU27))
+      (portRef I1 (instanceRef BU35))
+      (portRef I1 (instanceRef BU43))
+      (portRef I1 (instanceRef BU50))
+    )
+   )
+   (net (rename N9 "Q<0>")
+    (joined
+      (portRef (member Q 3))
+      (portRef DI (instanceRef BU23))
+      (portRef I0 (instanceRef BU22))
+      (portRef Q (instanceRef BU28))
+    )
+   )
+   (net (rename N10 "Q<1>")
+    (joined
+      (portRef (member Q 2))
+      (portRef DI (instanceRef BU31))
+      (portRef I0 (instanceRef BU30))
+      (portRef Q (instanceRef BU36))
+    )
+   )
+   (net (rename N11 "Q<2>")
+    (joined
+      (portRef (member Q 1))
+      (portRef DI (instanceRef BU39))
+      (portRef I0 (instanceRef BU38))
+      (portRef Q (instanceRef BU44))
+    )
+   )
+   (net (rename N12 "Q<3>")
+    (joined
+      (portRef (member Q 0))
+      (portRef I0 (instanceRef BU46))
+      (portRef Q (instanceRef BU51))
+    )
+   )
+   (net (rename N13 "CLK")
+    (joined
+      (portRef CLK)
+      (portRef C (instanceRef BU10))
+      (portRef C (instanceRef BU17))
+      (portRef C (instanceRef BU28))
+      (portRef C (instanceRef BU36))
+      (portRef C (instanceRef BU44))
+      (portRef C (instanceRef BU51))
+    )
+   )
+   (net (rename N14 "Q_THRESH0")
+    (joined
+      (portRef Q_THRESH0)
+      (portRef Q (instanceRef BU17))
+    )
+   )
+   (net (rename N15 "CE")
+    (joined
+      (portRef CE)
+      (portRef I1 (instanceRef BU3))
+      (portRef CE (instanceRef BU10))
+      (portRef CE (instanceRef BU17))
+      (portRef I0 (instanceRef BU20))
+    )
+   )
+   (net (rename N16 "AINIT")
+    (joined
+      (portRef AINIT)
+      (portRef CLR (instanceRef BU10))
+      (portRef CLR (instanceRef BU28))
+      (portRef CLR (instanceRef BU36))
+      (portRef CLR (instanceRef BU44))
+      (portRef CLR (instanceRef BU51))
+    )
+   )
+   (net N58
+    (joined
+      (portRef D (instanceRef BU10))
+      (portRef O (instanceRef BU9))
+    )
+   )
+   (net N106
+    (joined
+      (portRef D (instanceRef BU17))
+      (portRef O (instanceRef BU16))
+    )
+   )
+   (net N119
+    (joined
+      (portRef O (instanceRef BU20))
+      (portRef CE (instanceRef BU28))
+      (portRef CE (instanceRef BU36))
+      (portRef CE (instanceRef BU44))
+      (portRef CE (instanceRef BU51))
+    )
+   )
+   (net N120
+    (joined
+      (portRef S (instanceRef BU23))
+      (portRef LI (instanceRef BU24))
+      (portRef O (instanceRef BU22))
+    )
+   )
+   (net N122
+    (joined
+      (portRef O (instanceRef BU23))
+      (portRef CI (instanceRef BU31))
+      (portRef CI (instanceRef BU32))
+    )
+   )
+   (net N125
+    (joined
+      (portRef S (instanceRef BU31))
+      (portRef LI (instanceRef BU32))
+      (portRef O (instanceRef BU30))
+    )
+   )
+   (net N127
+    (joined
+      (portRef O (instanceRef BU31))
+      (portRef CI (instanceRef BU39))
+      (portRef CI (instanceRef BU40))
+    )
+   )
+   (net N130
+    (joined
+      (portRef S (instanceRef BU39))
+      (portRef LI (instanceRef BU40))
+      (portRef O (instanceRef BU38))
+    )
+   )
+   (net N132
+    (joined
+      (portRef O (instanceRef BU39))
+      (portRef CI (instanceRef BU47))
+    )
+   )
+   (net N135
+    (joined
+      (portRef LI (instanceRef BU47))
+      (portRef O (instanceRef BU46))
+    )
+   )
+   (net N165
+    (joined
+      (portRef D (instanceRef BU28))
+      (portRef O (instanceRef BU27))
+    )
+   )
+   (net N182
+    (joined
+      (portRef D (instanceRef BU36))
+      (portRef O (instanceRef BU35))
+    )
+   )
+   (net N199
+    (joined
+      (portRef D (instanceRef BU44))
+      (portRef O (instanceRef BU43))
+    )
+   )
+   (net N216
+    (joined
+      (portRef D (instanceRef BU51))
+      (portRef O (instanceRef BU50))
+    )
+   )
+))))
+(design ten_cnt (cellRef ten_cnt (libraryRef test_lib))
+  (property X_CORE_INFO (string "C_COUNTER_BINARY_V6_0, Coregen 7.1i"))
+  (property PART (string "xc3s200-ft256-4") (owner "Xilinx")))
+)

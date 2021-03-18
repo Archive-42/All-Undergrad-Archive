@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_sfcn_cov</componentBaseName>
+    <componentFileName>sl_sfcn_cov_maci64_1438347023.enc</componentFileName>
+    <componentName>sl_sfcn_cov_maci64</componentName>
+    <componentVersion>1438347023</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1760</size>
+    <type />
+    <uncompressedBytes>10856</uncompressedBytes>
+  </component>
+</componentData>
+

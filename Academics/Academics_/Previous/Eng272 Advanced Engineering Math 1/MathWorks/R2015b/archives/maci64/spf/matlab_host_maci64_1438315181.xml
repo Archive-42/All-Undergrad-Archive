@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>spf/matlab_host</componentBaseName>
+    <componentFileName>spf/matlab_host_maci64_1438315181.enc</componentFileName>
+    <componentName>spf/matlab_host_maci64</componentName>
+    <componentVersion>1438315181</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>18369</size>
+    <type />
+    <uncompressedBytes>71640</uncompressedBytes>
+  </component>
+</componentData>
+

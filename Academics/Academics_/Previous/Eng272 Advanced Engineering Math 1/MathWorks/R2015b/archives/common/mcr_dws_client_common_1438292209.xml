@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mcr_dws_client</componentBaseName>
+    <componentFileName>mcr_dws_client_common_1438292209.enc</componentFileName>
+    <componentName>mcr_dws_client_common</componentName>
+    <componentVersion>1438292209</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7657</size>
+    <type />
+    <uncompressedBytes>9751</uncompressedBytes>
+  </component>
+</componentData>
+

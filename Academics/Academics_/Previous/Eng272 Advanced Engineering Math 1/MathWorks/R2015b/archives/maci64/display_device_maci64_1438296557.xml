@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>display_device</componentBaseName>
+    <componentFileName>display_device_maci64_1438296557.enc</componentFileName>
+    <componentName>display_device_maci64</componentName>
+    <componentVersion>1438296557</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>10491</size>
+    <type />
+    <uncompressedBytes>35552</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_hardware_stubs_resources</componentBaseName>
+    <componentFileName>matlab_hardware_stubs_resources_common_1438291970.enc</componentFileName>
+    <componentName>matlab_hardware_stubs_resources_common</componentName>
+    <componentVersion>1438291970</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1199</size>
+    <type />
+    <uncompressedBytes>1263</uncompressedBytes>
+  </component>
+</componentData>
+

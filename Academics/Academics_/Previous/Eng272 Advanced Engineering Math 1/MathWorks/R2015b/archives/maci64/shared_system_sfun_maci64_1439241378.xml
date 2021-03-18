@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_system_sfun</componentBaseName>
+    <componentFileName>shared_system_sfun_maci64_1439241378.enc</componentFileName>
+    <componentName>shared_system_sfun_maci64</componentName>
+    <componentVersion>1439241378</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>281483</size>
+    <type />
+    <uncompressedBytes>853299</uncompressedBytes>
+  </component>
+</componentData>
+

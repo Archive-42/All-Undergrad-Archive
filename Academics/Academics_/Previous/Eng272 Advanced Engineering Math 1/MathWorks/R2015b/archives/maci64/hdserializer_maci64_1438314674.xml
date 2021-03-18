@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hdserializer</componentBaseName>
+    <componentFileName>hdserializer_maci64_1438314674.enc</componentFileName>
+    <componentName>hdserializer_maci64</componentName>
+    <componentVersion>1438314674</componentVersion>
+    <locale />
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>55448</size>
+    <type />
+    <uncompressedBytes>193138</uncompressedBytes>
+  </component>
+</componentData>
+

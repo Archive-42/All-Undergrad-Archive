@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>idelink/idelink_core</componentBaseName>
+    <componentFileName>idelink/idelink_core_common_1438306016.enc</componentFileName>
+    <componentName>idelink/idelink_core_common</componentName>
+    <componentVersion>1438306016</componentVersion>
+    <locale />
+    <numFiles>322</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>869705</size>
+    <type />
+    <uncompressedBytes>1362585</uncompressedBytes>
+  </component>
+</componentData>
+

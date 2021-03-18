@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>slexec_execspec</componentBaseName>
+    <componentFileName>slexec_execspec_maci64_1438318900.enc</componentFileName>
+    <componentName>slexec_execspec_maci64</componentName>
+    <componentVersion>1438318900</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>97372</size>
+    <type />
+    <uncompressedBytes>303364</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_helptools</componentBaseName>
+    <componentFileName>matlab_toolbox_helptools_common_1439446182.enc</componentFileName>
+    <componentName>matlab_toolbox_helptools_common</componentName>
+    <componentVersion>1439446182</componentVersion>
+    <locale />
+    <numFiles>125</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>337038</size>
+    <type />
+    <uncompressedBytes>905294</uncompressedBytes>
+  </component>
+</componentData>
+

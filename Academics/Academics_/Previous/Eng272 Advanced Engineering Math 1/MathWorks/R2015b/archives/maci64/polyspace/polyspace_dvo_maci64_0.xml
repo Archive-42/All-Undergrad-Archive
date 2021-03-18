@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/polyspace_dvo</componentBaseName>
+    <componentFileName>polyspace/polyspace_dvo_maci64_0.enc</componentFileName>
+    <componentName>polyspace/polyspace_dvo_maci64</componentName>
+    <componentVersion>0</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>170</size>
+    <type />
+    <uncompressedBytes>18</uncompressedBytes>
+  </component>
+</componentData>
+

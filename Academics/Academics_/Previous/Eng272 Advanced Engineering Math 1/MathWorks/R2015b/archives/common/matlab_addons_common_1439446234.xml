@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_addons</componentBaseName>
+    <componentFileName>matlab_addons_common_1439446234.enc</componentFileName>
+    <componentName>matlab_addons_common</componentName>
+    <componentVersion>1439446234</componentVersion>
+    <locale />
+    <numFiles>493</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1537394</size>
+    <type />
+    <uncompressedBytes>3582435</uncompressedBytes>
+  </component>
+</componentData>
+

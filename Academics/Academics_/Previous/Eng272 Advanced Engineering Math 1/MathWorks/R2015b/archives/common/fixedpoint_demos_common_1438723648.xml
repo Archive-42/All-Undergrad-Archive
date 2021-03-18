@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>fixedpoint_demos</componentBaseName>
+    <componentFileName>fixedpoint_demos_common_1438723648.enc</componentFileName>
+    <componentName>fixedpoint_demos_common</componentName>
+    <componentVersion>1438723648</componentVersion>
+    <locale />
+    <numFiles>105</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1425299</size>
+    <type />
+    <uncompressedBytes>1805719</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector_impl_java</componentBaseName>
+    <componentFileName>connector_impl_java_common_1436214243.enc</componentFileName>
+    <componentName>connector_impl_java_common</componentName>
+    <componentVersion>1436214243</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>839989</size>
+    <type />
+    <uncompressedBytes>1025766</uncompressedBytes>
+  </component>
+</componentData>
+

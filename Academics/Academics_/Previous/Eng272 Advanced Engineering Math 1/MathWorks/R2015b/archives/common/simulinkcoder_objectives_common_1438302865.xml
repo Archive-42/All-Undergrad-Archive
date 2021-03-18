@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulinkcoder_objectives</componentBaseName>
+    <componentFileName>simulinkcoder_objectives_common_1438302865.enc</componentFileName>
+    <componentName>simulinkcoder_objectives_common</componentName>
+    <componentVersion>1438302865</componentVersion>
+    <locale />
+    <numFiles>57</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>50830</size>
+    <type />
+    <uncompressedBytes>37246</uncompressedBytes>
+  </component>
+</componentData>
+

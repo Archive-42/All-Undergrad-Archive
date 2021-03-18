@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>dpvu</componentBaseName>
+    <componentFileName>dpvu_common_1438310206.enc</componentFileName>
+    <componentName>dpvu_common</componentName>
+    <componentVersion>1438310206</componentVersion>
+    <locale />
+    <numFiles>519</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1816856</size>
+    <type />
+    <uncompressedBytes>3949442</uncompressedBytes>
+  </component>
+</componentData>
+

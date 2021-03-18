@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_sta_report</componentBaseName>
+    <componentFileName>sl_sta_report_common_1438311025.enc</componentFileName>
+    <componentName>sl_sta_report_common</componentName>
+    <componentVersion>1438311025</componentVersion>
+    <locale />
+    <numFiles>17</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>23971</size>
+    <type />
+    <uncompressedBytes>23001</uncompressedBytes>
+  </component>
+</componentData>
+

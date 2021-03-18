@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_demos_fuelsys</componentBaseName>
+    <componentFileName>simulink_demos_fuelsys_common_1438723335.enc</componentFileName>
+    <componentName>simulink_demos_fuelsys_common</componentName>
+    <componentVersion>1438723335</componentVersion>
+    <locale />
+    <numFiles>14</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>215643</size>
+    <type />
+    <uncompressedBytes>238117</uncompressedBytes>
+  </component>
+</componentData>
+

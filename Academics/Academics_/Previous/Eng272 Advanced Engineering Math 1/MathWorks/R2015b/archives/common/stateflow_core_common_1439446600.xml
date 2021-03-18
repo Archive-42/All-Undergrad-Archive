@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>stateflow_core</componentBaseName>
+    <componentFileName>stateflow_core_common_1439446600.enc</componentFileName>
+    <componentName>stateflow_core_common</componentName>
+    <componentVersion>1439446600</componentVersion>
+    <locale />
+    <numFiles>3203</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>10730670</size>
+    <type />
+    <uncompressedBytes>23420566</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hdlsllib</componentBaseName>
+    <componentFileName>hdlsllib_common_1438311854.enc</componentFileName>
+    <componentName>hdlsllib_common</componentName>
+    <componentVersion>1438311854</componentVersion>
+    <locale />
+    <numFiles>64</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>360260</size>
+    <type />
+    <uncompressedBytes>899135</uncompressedBytes>
+  </component>
+</componentData>
+

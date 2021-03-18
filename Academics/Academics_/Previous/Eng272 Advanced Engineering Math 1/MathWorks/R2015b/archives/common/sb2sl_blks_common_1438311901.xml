@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sb2sl_blks</componentBaseName>
+    <componentFileName>sb2sl_blks_common_1438311901.enc</componentFileName>
+    <componentName>sb2sl_blks_common</componentName>
+    <componentVersion>1438311901</componentVersion>
+    <locale />
+    <numFiles>62</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>214786</size>
+    <type />
+    <uncompressedBytes>462396</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>examples/symbolic_product</componentBaseName>
+    <componentFileName>examples/symbolic_product_common_1438315137.enc</componentFileName>
+    <componentName>examples/symbolic_product_common</componentName>
+    <componentVersion>1438315137</componentVersion>
+    <locale />
+    <numFiles>174</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1805601</size>
+    <type />
+    <uncompressedBytes>1828986</uncompressedBytes>
+  </component>
+</componentData>
+

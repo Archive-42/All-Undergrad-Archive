@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/jxbrowser-chromium</componentBaseName>
+    <componentFileName>3p/jxbrowser-chromium_maci64_1431989956.enc</componentFileName>
+    <componentName>3p/jxbrowser-chromium_maci64</componentName>
+    <componentVersion>1431989956</componentVersion>
+    <locale />
+    <numFiles>81</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>56616499</size>
+    <type />
+    <uncompressedBytes>171498690</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sfcnlvl3</componentBaseName>
+    <componentFileName>sfcnlvl3_maci64_1439245145.enc</componentFileName>
+    <componentName>sfcnlvl3_maci64</componentName>
+    <componentVersion>1439245145</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3878861</size>
+    <type />
+    <uncompressedBytes>9017040</uncompressedBytes>
+  </component>
+</componentData>
+

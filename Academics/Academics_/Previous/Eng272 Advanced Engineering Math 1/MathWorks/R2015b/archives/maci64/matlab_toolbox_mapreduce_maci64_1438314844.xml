@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_mapreduce</componentBaseName>
+    <componentFileName>matlab_toolbox_mapreduce_maci64_1438314844.enc</componentFileName>
+    <componentName>matlab_toolbox_mapreduce_maci64</componentName>
+    <componentVersion>1438314844</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>116542</size>
+    <type />
+    <uncompressedBytes>506128</uncompressedBytes>
+  </component>
+</componentData>
+

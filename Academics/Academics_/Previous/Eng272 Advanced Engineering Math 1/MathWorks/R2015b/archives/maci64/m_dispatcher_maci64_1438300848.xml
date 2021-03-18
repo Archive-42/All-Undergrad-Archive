@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>m_dispatcher</componentBaseName>
+    <componentFileName>m_dispatcher_maci64_1438300848.enc</componentFileName>
+    <componentName>m_dispatcher_maci64</componentName>
+    <componentVersion>1438300848</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>291610</size>
+    <type />
+    <uncompressedBytes>855276</uncompressedBytes>
+  </component>
+</componentData>
+

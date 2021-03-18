@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>storage/gdsinmatlab</componentBaseName>
+    <componentFileName>storage/gdsinmatlab_common_1439446182.enc</componentFileName>
+    <componentName>storage/gdsinmatlab_common</componentName>
+    <componentVersion>1439446182</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>11291</size>
+    <type />
+    <uncompressedBytes>13250</uncompressedBytes>
+  </component>
+</componentData>
+

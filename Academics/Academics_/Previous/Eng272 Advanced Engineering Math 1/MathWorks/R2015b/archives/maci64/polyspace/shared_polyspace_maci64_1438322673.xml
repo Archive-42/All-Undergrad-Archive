@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/shared_polyspace</componentBaseName>
+    <componentFileName>polyspace/shared_polyspace_maci64_1438322673.enc</componentFileName>
+    <componentName>polyspace/shared_polyspace_maci64</componentName>
+    <componentVersion>1438322673</componentVersion>
+    <locale />
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>80954</size>
+    <type />
+    <uncompressedBytes>284276</uncompressedBytes>
+  </component>
+</componentData>
+

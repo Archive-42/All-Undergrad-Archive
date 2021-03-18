@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>3p/cximage_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296460</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/mut_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298107</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/communication_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300667</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/blei_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438724414</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/mdom_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298187</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/plotdom_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298332</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/graph2d_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438724441</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/vrs_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438724237</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/graph3d_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438724485</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/symiostream_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298178</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/mupadui_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1440100993</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/mupserviceslink_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298181</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/mupkernel_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1440100999</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/symengine_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301182</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/vcconv_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438725507</version>
+    </component>
+    <component>
+      <name>symbolic_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438728689</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <platform>maci64</platform>
+  <productBaseCode>SM</productBaseCode>
+  <productName>Symbolic Math Toolbox</productName>
+  <productNumber>15</productNumber>
+  <productVersion>6.3</productVersion>
+  <releaseDescription>R2015b</releaseDescription>
+  <releaseFamily>R2015b</releaseFamily>
+</productAdditionalComps>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_sta_repository</componentBaseName>
+    <componentFileName>sl_sta_repository_maci64_1438348050.enc</componentFileName>
+    <componentName>sl_sta_repository_maci64</componentName>
+    <componentVersion>1438348050</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>143423</size>
+    <type />
+    <uncompressedBytes>507376</uncompressedBytes>
+  </component>
+</componentData>
+

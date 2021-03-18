@@ -1,0 +1,12 @@
+<?xml version='1.0' standalone='yes'?>
+<contents>
+  <componentFiles>gcc_runtime_maci64_1438296495.enc</componentFiles>
+  <componentFiles>3p/flexnet_maci64_1438296440.enc</componentFiles>
+  <componentFiles>bin_utils_maci64_1438291957.enc</componentFiles>
+  <componentFiles>license_manager_maci64_1438297207.enc</componentFiles>
+  <definitions>gcc_runtime_maci64_1438296495.xml</definitions>
+  <definitions>3p/flexnet_maci64_1438296440.xml</definitions>
+  <definitions>bin_utils_maci64_1438291957.xml</definitions>
+  <definitions>license_manager_maci64_1438297207.xml</definitions>
+  <definitions>productdata_License_Manager111302_maci64.xml</definitions>
+</contents>

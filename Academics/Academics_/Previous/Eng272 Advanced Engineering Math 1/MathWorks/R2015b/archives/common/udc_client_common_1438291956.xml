@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>udc_client</componentBaseName>
+    <componentFileName>udc_client_common_1438291956.enc</componentFileName>
+    <componentName>udc_client_common</componentName>
+    <componentVersion>1438291956</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>8729</size>
+    <type />
+    <uncompressedBytes>11202</uncompressedBytes>
+  </component>
+</componentData>
+

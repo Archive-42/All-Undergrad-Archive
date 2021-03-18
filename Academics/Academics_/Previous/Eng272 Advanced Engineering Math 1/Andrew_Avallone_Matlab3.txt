@@ -1,0 +1,119 @@
+
+	Academic License
+
+>> a = dsolve('D2x+w^2*x=0','x(0)_0','Dx(0)=x_1')
+Error using symengine
+Unexpected 'identifier'.
+
+Error in sym>convertExpression (line 1449)
+s = mupadmex({x});
+
+Error in sym>convertChar (line 1364)
+    s = convertExpression(x);
+
+Error in sym>tomupad (line 1164)
+        S = convertChar(x);
+
+Error in sym (line 163)
+                S.s = tomupad(x);
+
+Error in dsolve>mupadDsolve (line 335)
+sys = [sys_sym sym(sys_str)];
+
+Error in dsolve (line 193)
+sol = mupadDsolve(args, options);
+ 
+>> a = dsolve('D2x+w^2*x=0','x(0)=x_0','Dx(0)=x_1','t')
+ 
+a =
+ 
+(exp(-t*w*1i)*(w*x_0 + x_1*1i))/(2*w) - (exp(t*w*1i)*(x_1*1i - w*x_0))/(2*w)
+ 
+>> %3.1.33
+>> 
+>> b = dsolve('D2y-4*Dy+4*y=2*exp(2*x)+4*x-12','x')
+ 
+b =
+ 
+C3*exp(2*x) - exp(2*x)*(2*exp(-2*x) + 4*x*exp(-2*x) - 2*x^2*exp(-2*x) + x^2) + C4*x*exp(2*x) + x*exp(2*x)*(2*x + 5*exp(-2*x) - 2*x*exp(-2*x))
+ 
+>> %3.4.25
+>> 
+>> c = dsolve('D4y+2*D2y+y=(x-1)^2','x')
+ 
+c =
+ 
+C5*cos(x) - 2*x + C7*sin(x) + x^2 + C8*x*sin(x) + C6*x*cos(x) - 3
+ 
+>> %3.4.33
+>> 
+>> d = dsolve('D2x+w^2*x=F_0*sin(w*t)','x(0)=0','Dx(0)=0')
+ 
+d =
+ 
+- exp(-t*w*1i)*((F_0*t)/(4*w) - (F_0*tan((t*w)/2))/(2*w^2*(- 1 + tan((t*w)/2)*1i)^2)) - exp(t*w*1i)*((F_0*t)/(4*w) - (F_0*tan((t*w)/2))/(2*w^2*(1 + tan((t*w)/2)*1i)^2))
+ 
+>> %3.4.37
+>> 
+>> e=dsolve('D2y+y=x^2+1','y(0)=5)','y(1)=0','x')
+Error using symengine
+Invalid input. ']' is expected.
+
+Error in sym>convertExpression (line 1449)
+s = mupadmex({x});
+
+Error in sym>convertChar (line 1364)
+    s = convertExpression(x);
+
+Error in sym>tomupad (line 1164)
+        S = convertChar(x);
+
+Error in sym (line 163)
+                S.s = tomupad(x);
+
+Error in dsolve>mupadDsolve (line 335)
+sys = [sys_sym sym(sys_str)];
+
+Error in dsolve (line 193)
+sol = mupadDsolve(args, options);
+ 
+>> e=dsolve('D2y+y=x^2+1','y(0)=5','y(1)=0','x')
+ 
+e =
+ 
+6*cos(x) + x^2 - (6*cos(1)*sin(x))/sin(1) - 1
+ 
+>> 
+>> %3.6.7
+>> 
+>> f = dsolve('x^2*D2y-3*x*Dy-2*y=0','x')
+ 
+f =
+ 
+C14*x^(6^(1/2) + 2) + C13*x^(2 - 6^(1/2))
+ 
+>> 
+>> %3.6.9
+>> 
+>> g = dsolve('25*x^2*D2y+25*x*Dy+y=0','x')
+ 
+g =
+ 
+C16*cos(log(x)/5) + C15*sin(log(x)/5)
+ 
+>> 
+>> %3.12.23
+>> 
+>> h = dsolve('m*D2x=0','t')
+ 
+h =
+ 
+C18 + C17*t
+ 
+>> i = dsolve('D2y=-g','t')
+ 
+i =
+ 
+C20 + C19*t - (g*t^2)/2
+ 
+>> 

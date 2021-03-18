@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/tbb</componentBaseName>
+    <componentFileName>3p/tbb_maci64_1438296439.enc</componentFileName>
+    <componentName>3p/tbb_maci64</componentName>
+    <componentVersion>1438296439</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>216846</size>
+    <type />
+    <uncompressedBytes>567744</uncompressedBytes>
+  </component>
+</componentData>
+

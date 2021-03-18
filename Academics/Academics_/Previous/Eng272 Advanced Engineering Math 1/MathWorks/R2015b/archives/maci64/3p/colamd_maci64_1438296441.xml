@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/colamd</componentBaseName>
+    <componentFileName>3p/colamd_maci64_1438296441.enc</componentFileName>
+    <componentName>3p/colamd_maci64</componentName>
+    <componentVersion>1438296441</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>11831</size>
+    <type />
+    <uncompressedBytes>25724</uncompressedBytes>
+  </component>
+</componentData>
+

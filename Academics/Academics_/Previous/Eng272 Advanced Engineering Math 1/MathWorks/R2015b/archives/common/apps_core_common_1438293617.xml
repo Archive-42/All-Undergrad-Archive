@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>apps_core</componentBaseName>
+    <componentFileName>apps_core_common_1438293617.enc</componentFileName>
+    <componentName>apps_core_common</componentName>
+    <componentVersion>1438293617</componentVersion>
+    <locale />
+    <numFiles>22</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>22707</size>
+    <type />
+    <uncompressedBytes>57837</uncompressedBytes>
+  </component>
+</componentData>
+

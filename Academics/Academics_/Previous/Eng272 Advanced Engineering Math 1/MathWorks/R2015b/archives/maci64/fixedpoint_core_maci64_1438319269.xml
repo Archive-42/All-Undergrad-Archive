@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>fixedpoint_core</componentBaseName>
+    <componentFileName>fixedpoint_core_maci64_1438319269.enc</componentFileName>
+    <componentName>fixedpoint_core_maci64</componentName>
+    <componentVersion>1438319269</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1060079</size>
+    <type />
+    <uncompressedBytes>3729800</uncompressedBytes>
+  </component>
+</componentData>
+

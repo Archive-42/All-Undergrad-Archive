@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder_profile_resources</componentBaseName>
+    <componentFileName>coder_profile_resources_common_1438292019.enc</componentFileName>
+    <componentName>coder_profile_resources_common</componentName>
+    <componentVersion>1438292019</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>10065</size>
+    <type />
+    <uncompressedBytes>34603</uncompressedBytes>
+  </component>
+</componentData>
+

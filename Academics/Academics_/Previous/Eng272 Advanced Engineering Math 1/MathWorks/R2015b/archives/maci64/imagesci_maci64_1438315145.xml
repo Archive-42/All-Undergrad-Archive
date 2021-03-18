@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>imagesci</componentBaseName>
+    <componentFileName>imagesci_maci64_1438315145.enc</componentFileName>
+    <componentName>imagesci_maci64</componentName>
+    <componentVersion>1438315145</componentVersion>
+    <locale />
+    <numFiles>34</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1812907</size>
+    <type />
+    <uncompressedBytes>6346408</uncompressedBytes>
+  </component>
+</componentData>
+

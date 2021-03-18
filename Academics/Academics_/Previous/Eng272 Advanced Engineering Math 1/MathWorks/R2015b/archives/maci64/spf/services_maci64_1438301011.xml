@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>spf/services</componentBaseName>
+    <componentFileName>spf/services_maci64_1438301011.enc</componentFileName>
+    <componentName>spf/services_maci64</componentName>
+    <componentVersion>1438301011</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>118625</size>
+    <type />
+    <uncompressedBytes>466864</uncompressedBytes>
+  </component>
+</componentData>
+

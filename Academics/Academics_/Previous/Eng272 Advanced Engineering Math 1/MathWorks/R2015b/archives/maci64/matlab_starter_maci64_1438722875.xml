@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_starter</componentBaseName>
+    <componentFileName>matlab_starter_maci64_1438722875.enc</componentFileName>
+    <componentName>matlab_starter_maci64</componentName>
+    <componentVersion>1438722875</componentVersion>
+    <locale />
+    <numFiles>38</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2796262</size>
+    <type />
+    <uncompressedBytes>3424767</uncompressedBytes>
+  </component>
+</componentData>
+

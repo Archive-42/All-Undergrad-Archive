@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_datastore</componentBaseName>
+    <componentFileName>matlab_toolbox_datastore_maci64_1438314795.enc</componentFileName>
+    <componentName>matlab_toolbox_datastore_maci64</componentName>
+    <componentVersion>1438314795</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>123882</size>
+    <type />
+    <uncompressedBytes>433432</uncompressedBytes>
+  </component>
+</componentData>
+

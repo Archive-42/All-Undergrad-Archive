@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/cef</componentBaseName>
+    <componentFileName>3p/cef_maci64_1432924057.enc</componentFileName>
+    <componentName>3p/cef_maci64</componentName>
+    <componentVersion>1432924057</componentVersion>
+    <locale />
+    <numFiles>73</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>36820791</size>
+    <type />
+    <uncompressedBytes>95766088</uncompressedBytes>
+  </component>
+</componentData>
+

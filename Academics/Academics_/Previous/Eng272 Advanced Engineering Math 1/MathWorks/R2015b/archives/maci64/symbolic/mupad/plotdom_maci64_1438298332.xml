@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>symbolic/mupad/plotdom</componentBaseName>
+    <componentFileName>symbolic/mupad/plotdom_maci64_1438298332.enc</componentFileName>
+    <componentName>symbolic/mupad/plotdom_maci64</componentName>
+    <componentVersion>1438298332</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>508911</size>
+    <type />
+    <uncompressedBytes>2132084</uncompressedBytes>
+  </component>
+</componentData>
+

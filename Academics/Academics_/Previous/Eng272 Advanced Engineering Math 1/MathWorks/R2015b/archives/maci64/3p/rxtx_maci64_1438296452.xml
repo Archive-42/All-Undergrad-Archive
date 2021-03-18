@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/rxtx</componentBaseName>
+    <componentFileName>3p/rxtx_maci64_1438296452.enc</componentFileName>
+    <componentName>3p/rxtx_maci64</componentName>
+    <componentVersion>1438296452</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>24013</size>
+    <type />
+    <uncompressedBytes>69868</uncompressedBytes>
+  </component>
+</componentData>
+

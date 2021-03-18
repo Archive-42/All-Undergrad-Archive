@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/mpfr</componentBaseName>
+    <componentFileName>3p/mpfr_maci64_1438296506.enc</componentFileName>
+    <componentName>3p/mpfr_maci64</componentName>
+    <componentVersion>1438296506</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>141971</size>
+    <type />
+    <uncompressedBytes>281583</uncompressedBytes>
+  </component>
+</componentData>
+

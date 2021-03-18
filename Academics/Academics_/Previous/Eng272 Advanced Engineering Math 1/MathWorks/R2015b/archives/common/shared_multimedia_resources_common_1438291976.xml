@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_multimedia_resources</componentBaseName>
+    <componentFileName>shared_multimedia_resources_common_1438291976.enc</componentFileName>
+    <componentName>shared_multimedia_resources_common</componentName>
+    <componentVersion>1438291976</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4082</size>
+    <type />
+    <uncompressedBytes>9192</uncompressedBytes>
+  </component>
+</componentData>
+

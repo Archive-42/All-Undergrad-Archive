@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>cgir_plc_core</componentBaseName>
+    <componentFileName>cgir_plc_core_maci64_1439241530.enc</componentFileName>
+    <componentName>cgir_plc_core_maci64</componentName>
+    <componentVersion>1439241530</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>416813</size>
+    <type />
+    <uncompressedBytes>1236656</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_graphics_hg</componentBaseName>
+    <componentFileName>matlab_graphics_hg_common_1438293336.enc</componentFileName>
+    <componentName>matlab_graphics_hg_common</componentName>
+    <componentVersion>1438293336</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3041</size>
+    <type />
+    <uncompressedBytes>9461</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_hwconnectinstaller_common</componentBaseName>
+    <componentFileName>shared_hwconnectinstaller_common_common_1439446216.enc</componentFileName>
+    <componentName>shared_hwconnectinstaller_common_common</componentName>
+    <componentVersion>1439446216</componentVersion>
+    <locale />
+    <numFiles>9</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>11468</size>
+    <type />
+    <uncompressedBytes>12939</uncompressedBytes>
+  </component>
+</componentData>
+

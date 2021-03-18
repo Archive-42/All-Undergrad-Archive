@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/tablelayout</componentBaseName>
+    <componentFileName>3p/tablelayout_common_1438291915.enc</componentFileName>
+    <componentName>3p/tablelayout_common</componentName>
+    <componentVersion>1438291915</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>9804</size>
+    <type />
+    <uncompressedBytes>10444</uncompressedBytes>
+  </component>
+</componentData>
+

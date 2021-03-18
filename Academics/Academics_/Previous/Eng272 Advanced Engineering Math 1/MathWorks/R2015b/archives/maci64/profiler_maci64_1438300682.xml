@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>profiler</componentBaseName>
+    <componentFileName>profiler_maci64_1438300682.enc</componentFileName>
+    <componentName>profiler_maci64</componentName>
+    <componentVersion>1438300682</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>74048</size>
+    <type />
+    <uncompressedBytes>215572</uncompressedBytes>
+  </component>
+</componentData>
+

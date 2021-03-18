@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mathspec</componentBaseName>
+    <componentFileName>mathspec_common_1438292781.enc</componentFileName>
+    <componentName>mathspec_common</componentName>
+    <componentVersion>1438292781</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>685</size>
+    <type />
+    <uncompressedBytes>6517</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_controllib_general</componentBaseName>
+    <componentFileName>shared_controllib_general_common_1439446232.enc</componentFileName>
+    <componentName>shared_controllib_general_common</componentName>
+    <componentVersion>1439446232</componentVersion>
+    <locale />
+    <numFiles>294</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>824252</size>
+    <type />
+    <uncompressedBytes>1287861</uncompressedBytes>
+  </component>
+</componentData>
+

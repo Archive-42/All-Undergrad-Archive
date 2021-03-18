@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mlapp_builtins</componentBaseName>
+    <componentFileName>mlapp_builtins_common_1438293003.enc</componentFileName>
+    <componentName>mlapp_builtins_common</componentName>
+    <componentVersion>1438293003</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>541</size>
+    <type />
+    <uncompressedBytes>1241</uncompressedBytes>
+  </component>
+</componentData>
+

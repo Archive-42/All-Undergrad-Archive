@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_install</componentBaseName>
+    <componentFileName>shared_install_common_1438292832.enc</componentFileName>
+    <componentName>shared_install_common</componentName>
+    <componentVersion>1438292832</componentVersion>
+    <locale />
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>202549</size>
+    <type />
+    <uncompressedBytes>236159</uncompressedBytes>
+  </component>
+</componentData>
+

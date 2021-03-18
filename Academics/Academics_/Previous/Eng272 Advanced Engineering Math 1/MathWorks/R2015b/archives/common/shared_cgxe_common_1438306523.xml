@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_cgxe</componentBaseName>
+    <componentFileName>shared_cgxe_common_1438306523.enc</componentFileName>
+    <componentName>shared_cgxe_common</componentName>
+    <componentVersion>1438306523</componentVersion>
+    <locale />
+    <numFiles>81</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>70184</size>
+    <type />
+    <uncompressedBytes>56816</uncompressedBytes>
+  </component>
+</componentData>
+

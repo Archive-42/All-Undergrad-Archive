@@ -1,0 +1,47 @@
+/*
+-----------------------------------
+TOC
+-----------------------------------
+
+Bootstrap Overrides:......Changes to base-Bootstrap CSS
+
+Globals:..................Styling of HTML and BODY
+
+Site Elements:............Re-usable site elements   
+
+Structure:................Site structural components
+
+Section Specific:.........Styles for Home and all Sub Pages
+
+Page/Element Specific:....Page, element or flow Specific CSS
+
+Responsive:...............Specific styles for Desktop, Tablet and Mobile
+
+Additive CSS:.............Additive/override CSS
+
+Browser Hacks:............Functionality Fixes for Older Browsers
+
+*/
+
+
+
+
+/*-----------------------------------
+   Structure
+-----------------------------------*/
+
+/* ---- Off-Canvas Actuator  ---- */
+
+  /* Off-Canvas Actuator: Labels */
+
+    /* Actuator Labels: Inctive */  
+    .offcanvas_actuator .offcanvas_actuator_close { display: none; }
+
+    /* Actuator Labels: Active */
+    .offcanvas_actuator.active .offcanvas_actuator_close { display: table-cell; }
+
+
+  /* ---- Header ---- */
+
+    /* Header: Mobile Subnav + Integrated Search */
+    .section_header .col-xs-3 .btn.icon-search { margin-top: 8px; background: transparent; color: #fff; }

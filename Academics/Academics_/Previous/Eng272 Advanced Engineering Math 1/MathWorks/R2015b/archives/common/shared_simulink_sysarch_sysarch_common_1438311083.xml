@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_simulink_sysarch_sysarch</componentBaseName>
+    <componentFileName>shared_simulink_sysarch_sysarch_common_1438311083.enc</componentFileName>
+    <componentName>shared_simulink_sysarch_sysarch_common</componentName>
+    <componentVersion>1438311083</componentVersion>
+    <locale />
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>12817</size>
+    <type />
+    <uncompressedBytes>11456</uncompressedBytes>
+  </component>
+</componentData>
+

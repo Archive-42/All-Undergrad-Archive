@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>tabcompletion</componentBaseName>
+    <componentFileName>tabcompletion_common_1438293313.enc</componentFileName>
+    <componentName>tabcompletion_common</componentName>
+    <componentVersion>1438293313</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3337</size>
+    <type />
+    <uncompressedBytes>14716</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mg</componentBaseName>
+    <componentFileName>mg_maci64_1438729660.enc</componentFileName>
+    <componentName>mg_maci64</componentName>
+    <componentVersion>1438729660</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1324965</size>
+    <type />
+    <uncompressedBytes>4403224</uncompressedBytes>
+  </component>
+</componentData>
+

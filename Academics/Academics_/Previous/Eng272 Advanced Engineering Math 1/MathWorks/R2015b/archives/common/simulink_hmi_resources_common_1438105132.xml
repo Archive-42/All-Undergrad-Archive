@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_hmi_resources</componentBaseName>
+    <componentFileName>simulink_hmi_resources_common_1438105132.enc</componentFileName>
+    <componentName>simulink_hmi_resources_common</componentName>
+    <componentVersion>1438105132</componentVersion>
+    <locale />
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>9093</size>
+    <type />
+    <uncompressedBytes>26557</uncompressedBytes>
+  </component>
+</componentData>
+

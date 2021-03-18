@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>symbolic/mupad/mupkernel</componentBaseName>
+    <componentFileName>symbolic/mupad/mupkernel_maci64_1440100999.enc</componentFileName>
+    <componentName>symbolic/mupad/mupkernel_maci64</componentName>
+    <componentVersion>1440100999</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1120138</size>
+    <type />
+    <uncompressedBytes>2722312</uncompressedBytes>
+  </component>
+</componentData>
+

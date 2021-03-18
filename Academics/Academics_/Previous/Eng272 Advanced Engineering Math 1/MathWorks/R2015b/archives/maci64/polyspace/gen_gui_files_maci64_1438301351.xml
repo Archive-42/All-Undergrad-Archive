@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/gen_gui_files</componentBaseName>
+    <componentFileName>polyspace/gen_gui_files_maci64_1438301351.enc</componentFileName>
+    <componentName>polyspace/gen_gui_files_maci64</componentName>
+    <componentVersion>1438301351</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3308229</size>
+    <type />
+    <uncompressedBytes>11547876</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_images</componentBaseName>
+    <componentFileName>matlab_images_maci64_1438314672.enc</componentFileName>
+    <componentName>matlab_images_maci64</componentName>
+    <componentVersion>1438314672</componentVersion>
+    <locale />
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>98438</size>
+    <type />
+    <uncompressedBytes>588416</uncompressedBytes>
+  </component>
+</componentData>
+

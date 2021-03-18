@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_iofile</componentBaseName>
+    <componentFileName>sl_iofile_maci64_1439246524.enc</componentFileName>
+    <componentName>sl_iofile_maci64</componentName>
+    <componentVersion>1439246524</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>202214</size>
+    <type />
+    <uncompressedBytes>718048</uncompressedBytes>
+  </component>
+</componentData>
+

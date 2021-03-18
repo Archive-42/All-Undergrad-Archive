@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>dsp_sl_core</componentBaseName>
+    <componentFileName>dsp_sl_core_maci64_1439241657.enc</componentFileName>
+    <componentName>dsp_sl_core_maci64</componentName>
+    <componentVersion>1439241657</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>678436</size>
+    <type />
+    <uncompressedBytes>2312716</uncompressedBytes>
+  </component>
+</componentData>
+

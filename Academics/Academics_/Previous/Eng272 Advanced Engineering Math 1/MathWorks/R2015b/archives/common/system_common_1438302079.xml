@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>system</componentBaseName>
+    <componentFileName>system_common_1438302079.enc</componentFileName>
+    <componentName>system_common</componentName>
+    <componentVersion>1438302079</componentVersion>
+    <locale />
+    <numFiles>151</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>103084</size>
+    <type />
+    <uncompressedBytes>94934</uncompressedBytes>
+  </component>
+</componentData>
+

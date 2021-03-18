@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>license_agreement_dialog</componentBaseName>
+    <componentFileName>license_agreement_dialog_common_1438293442.enc</componentFileName>
+    <componentName>license_agreement_dialog_common</componentName>
+    <componentVersion>1438293442</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>9703</size>
+    <type />
+    <uncompressedBytes>11608</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>foundation/storage/providerinterface</componentBaseName>
+    <componentFileName>foundation/storage/providerinterface_maci64_1438298276.enc</componentFileName>
+    <componentName>foundation/storage/providerinterface_maci64</componentName>
+    <componentVersion>1438298276</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>89242</size>
+    <type />
+    <uncompressedBytes>364864</uncompressedBytes>
+  </component>
+</componentData>
+

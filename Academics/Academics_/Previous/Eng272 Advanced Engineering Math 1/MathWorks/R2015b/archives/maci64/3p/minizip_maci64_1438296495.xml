@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/minizip</componentBaseName>
+    <componentFileName>3p/minizip_maci64_1438296495.enc</componentFileName>
+    <componentName>3p/minizip_maci64</componentName>
+    <componentVersion>1438296495</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>21101</size>
+    <type />
+    <uncompressedBytes>55448</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>foundation/legacy</componentBaseName>
+    <componentFileName>foundation/legacy_maci64_1438298229.enc</componentFileName>
+    <componentName>foundation/legacy_maci64</componentName>
+    <componentVersion>1438298229</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>214549</size>
+    <type />
+    <uncompressedBytes>590443</uncompressedBytes>
+  </component>
+</componentData>
+

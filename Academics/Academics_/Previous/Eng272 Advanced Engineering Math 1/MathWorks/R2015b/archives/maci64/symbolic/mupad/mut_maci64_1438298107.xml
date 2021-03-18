@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>symbolic/mupad/mut</componentBaseName>
+    <componentFileName>symbolic/mupad/mut_maci64_1438298107.enc</componentFileName>
+    <componentName>symbolic/mupad/mut_maci64</componentName>
+    <componentVersion>1438298107</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>18666</size>
+    <type />
+    <uncompressedBytes>54048</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>targetpkg/codertarget_resources</componentBaseName>
+    <componentFileName>targetpkg/codertarget_resources_common_1438291993.enc</componentFileName>
+    <componentName>targetpkg/codertarget_resources_common</componentName>
+    <componentVersion>1438291993</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>13063</size>
+    <type />
+    <uncompressedBytes>50673</uncompressedBytes>
+  </component>
+</componentData>
+

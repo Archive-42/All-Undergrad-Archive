@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/back_end</componentBaseName>
+    <componentFileName>polyspace/back_end_maci64_1438301575.enc</componentFileName>
+    <componentName>polyspace/back_end_maci64</componentName>
+    <componentVersion>1438301575</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>25039844</size>
+    <type />
+    <uncompressedBytes>87657748</uncompressedBytes>
+  </component>
+</componentData>
+

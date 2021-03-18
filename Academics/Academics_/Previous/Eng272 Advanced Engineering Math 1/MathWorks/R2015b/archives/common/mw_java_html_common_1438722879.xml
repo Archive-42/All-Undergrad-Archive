@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mw_java_html</componentBaseName>
+    <componentFileName>mw_java_html_common_1438722879.enc</componentFileName>
+    <componentName>mw_java_html_common</componentName>
+    <componentVersion>1438722879</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>345632</size>
+    <type />
+    <uncompressedBytes>406835</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>slhdltemplates</componentBaseName>
+    <componentFileName>slhdltemplates_common_1438723333.enc</componentFileName>
+    <componentName>slhdltemplates_common</componentName>
+    <componentVersion>1438723333</componentVersion>
+    <locale />
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>294383</size>
+    <type />
+    <uncompressedBytes>298063</uncompressedBytes>
+  </component>
+</componentData>
+

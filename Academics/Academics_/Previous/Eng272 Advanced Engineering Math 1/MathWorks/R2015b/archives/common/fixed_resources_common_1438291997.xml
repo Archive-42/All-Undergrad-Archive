@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>fixed_resources</componentBaseName>
+    <componentFileName>fixed_resources_common_1438291997.enc</componentFileName>
+    <componentName>fixed_resources_common</componentName>
+    <componentVersion>1438291997</componentVersion>
+    <locale />
+    <numFiles>40</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>60785</size>
+    <type />
+    <uncompressedBytes>182389</uncompressedBytes>
+  </component>
+</componentData>
+

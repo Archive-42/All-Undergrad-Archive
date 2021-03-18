@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>slvm</componentBaseName>
+    <componentFileName>slvm_maci64_1439240467.enc</componentFileName>
+    <componentName>slvm_maci64</componentName>
+    <componentVersion>1439240467</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7819</size>
+    <type />
+    <uncompressedBytes>26632</uncompressedBytes>
+  </component>
+</componentData>
+

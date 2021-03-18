@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_testmeaslib_general</componentBaseName>
+    <componentFileName>shared_testmeaslib_general_maci64_1438318010.enc</componentFileName>
+    <componentName>shared_testmeaslib_general_maci64</componentName>
+    <componentVersion>1438318010</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>26316</size>
+    <type />
+    <uncompressedBytes>105676</uncompressedBytes>
+  </component>
+</componentData>
+

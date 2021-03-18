@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/daskr</componentBaseName>
+    <componentFileName>3p/daskr_maci64_1438296453.enc</componentFileName>
+    <componentName>3p/daskr_maci64</componentName>
+    <componentVersion>1438296453</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>90782</size>
+    <type />
+    <uncompressedBytes>274008</uncompressedBytes>
+  </component>
+</componentData>
+

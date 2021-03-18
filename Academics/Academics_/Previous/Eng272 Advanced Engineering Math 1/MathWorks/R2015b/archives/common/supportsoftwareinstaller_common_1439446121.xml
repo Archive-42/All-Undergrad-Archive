@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>supportsoftwareinstaller</componentBaseName>
+    <componentFileName>supportsoftwareinstaller_common_1439446121.enc</componentFileName>
+    <componentName>supportsoftwareinstaller_common</componentName>
+    <componentVersion>1439446121</componentVersion>
+    <locale />
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>41046</size>
+    <type />
+    <uncompressedBytes>47037</uncompressedBytes>
+  </component>
+</componentData>
+

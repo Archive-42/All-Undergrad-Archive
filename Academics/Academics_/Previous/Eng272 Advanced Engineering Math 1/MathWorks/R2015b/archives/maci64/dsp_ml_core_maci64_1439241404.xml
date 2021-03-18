@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>dsp_ml_core</componentBaseName>
+    <componentFileName>dsp_ml_core_maci64_1439241404.enc</componentFileName>
+    <componentName>dsp_ml_core_maci64</componentName>
+    <componentVersion>1439241404</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>250747</size>
+    <type />
+    <uncompressedBytes>1057444</uncompressedBytes>
+  </component>
+</componentData>
+

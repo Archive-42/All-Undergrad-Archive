@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/arpack</componentBaseName>
+    <componentFileName>3p/arpack_maci64_1438296534.enc</componentFileName>
+    <componentName>3p/arpack_maci64</componentName>
+    <componentVersion>1438296534</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>134112</size>
+    <type />
+    <uncompressedBytes>341608</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder_connectivity</componentBaseName>
+    <componentFileName>coder_connectivity_common_1438307570.enc</componentFileName>
+    <componentName>coder_connectivity_common</componentName>
+    <componentVersion>1438307570</componentVersion>
+    <locale />
+    <numFiles>135</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>295425</size>
+    <type />
+    <uncompressedBytes>864593</uncompressedBytes>
+  </component>
+</componentData>
+

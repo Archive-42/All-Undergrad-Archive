@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_sid</componentBaseName>
+    <componentFileName>simulink_sid_maci64_1438299192.enc</componentFileName>
+    <componentName>simulink_sid_maci64</componentName>
+    <componentVersion>1438299192</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>34699</size>
+    <type />
+    <uncompressedBytes>131856</uncompressedBytes>
+  </component>
+</componentData>
+

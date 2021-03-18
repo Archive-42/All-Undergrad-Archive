@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_continuous_blocks</componentBaseName>
+    <componentFileName>sl_continuous_blocks_common_1438293945.enc</componentFileName>
+    <componentName>sl_continuous_blocks_common</componentName>
+    <componentVersion>1438293945</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>578</size>
+    <type />
+    <uncompressedBytes>898</uncompressedBytes>
+  </component>
+</componentData>
+

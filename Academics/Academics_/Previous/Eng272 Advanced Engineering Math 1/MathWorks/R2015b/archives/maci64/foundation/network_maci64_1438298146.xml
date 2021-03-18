@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>foundation/network</componentBaseName>
+    <componentFileName>foundation/network_maci64_1438298146.enc</componentFileName>
+    <componentName>foundation/network_maci64</componentName>
+    <componentVersion>1438298146</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>223945</size>
+    <type />
+    <uncompressedBytes>1179220</uncompressedBytes>
+  </component>
+</componentData>
+

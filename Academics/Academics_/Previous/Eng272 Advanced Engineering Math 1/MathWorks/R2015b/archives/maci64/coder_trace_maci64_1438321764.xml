@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder_trace</componentBaseName>
+    <componentFileName>coder_trace_maci64_1438321764.enc</componentFileName>
+    <componentName>coder_trace_maci64</componentName>
+    <componentVersion>1438321764</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>326244</size>
+    <type />
+    <uncompressedBytes>1423112</uncompressedBytes>
+  </component>
+</componentData>
+

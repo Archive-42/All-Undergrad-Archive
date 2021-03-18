@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>desuite_daskr</componentBaseName>
+    <componentFileName>desuite_daskr_maci64_1438302532.enc</componentFileName>
+    <componentName>desuite_daskr_maci64</componentName>
+    <componentVersion>1438302532</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>61560</size>
+    <type />
+    <uncompressedBytes>235716</uncompressedBytes>
+  </component>
+</componentData>
+

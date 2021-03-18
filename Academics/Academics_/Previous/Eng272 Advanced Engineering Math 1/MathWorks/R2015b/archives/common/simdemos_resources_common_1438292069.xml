@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simdemos_resources</componentBaseName>
+    <componentFileName>simdemos_resources_common_1438292069.enc</componentFileName>
+    <componentName>simdemos_resources_common</componentName>
+    <componentVersion>1438292069</componentVersion>
+    <locale />
+    <numFiles>36</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>18030</size>
+    <type />
+    <uncompressedBytes>21399</uncompressedBytes>
+  </component>
+</componentData>
+

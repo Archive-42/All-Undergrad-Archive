@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>xmlcore</componentBaseName>
+    <componentFileName>xmlcore_maci64_1438299213.enc</componentFileName>
+    <componentName>xmlcore_maci64</componentName>
+    <componentVersion>1438299213</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>119434</size>
+    <type />
+    <uncompressedBytes>403772</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>cgir_core</componentBaseName>
+    <componentFileName>cgir_core_maci64_1439572523.enc</componentFileName>
+    <componentName>cgir_core_maci64</componentName>
+    <componentVersion>1439572523</componentVersion>
+    <locale />
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>6237065</size>
+    <type />
+    <uncompressedBytes>19191620</uncompressedBytes>
+  </component>
+</componentData>
+

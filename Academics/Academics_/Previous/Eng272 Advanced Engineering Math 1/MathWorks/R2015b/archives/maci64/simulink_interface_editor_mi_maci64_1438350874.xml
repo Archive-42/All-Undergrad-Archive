@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_interface_editor_mi</componentBaseName>
+    <componentFileName>simulink_interface_editor_mi_maci64_1438350874.enc</componentFileName>
+    <componentName>simulink_interface_editor_mi_maci64</componentName>
+    <componentVersion>1438350874</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>234980</size>
+    <type />
+    <uncompressedBytes>1055192</uncompressedBytes>
+  </component>
+</componentData>
+

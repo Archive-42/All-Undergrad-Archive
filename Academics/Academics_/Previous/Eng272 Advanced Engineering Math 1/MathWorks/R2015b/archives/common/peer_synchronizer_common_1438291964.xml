@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>peer_synchronizer</componentBaseName>
+    <componentFileName>peer_synchronizer_common_1438291964.enc</componentFileName>
+    <componentName>peer_synchronizer_common</componentName>
+    <componentVersion>1438291964</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>50789</size>
+    <type />
+    <uncompressedBytes>56160</uncompressedBytes>
+  </component>
+</componentData>
+

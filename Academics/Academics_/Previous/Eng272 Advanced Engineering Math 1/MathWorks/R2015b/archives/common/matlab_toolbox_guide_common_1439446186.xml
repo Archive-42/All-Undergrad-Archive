@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_guide</componentBaseName>
+    <componentFileName>matlab_toolbox_guide_common_1439446186.enc</componentFileName>
+    <componentName>matlab_toolbox_guide_common</componentName>
+    <componentVersion>1439446186</componentVersion>
+    <locale />
+    <numFiles>44</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>260192</size>
+    <type />
+    <uncompressedBytes>662697</uncompressedBytes>
+  </component>
+</componentData>
+

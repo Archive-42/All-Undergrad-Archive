@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_mapreduce_resources</componentBaseName>
+    <componentFileName>matlab_toolbox_mapreduce_resources_common_1438291966.enc</componentFileName>
+    <componentName>matlab_toolbox_mapreduce_resources_common</componentName>
+    <componentVersion>1438291966</componentVersion>
+    <locale />
+    <numFiles>17</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>11885</size>
+    <type />
+    <uncompressedBytes>23326</uncompressedBytes>
+  </component>
+</componentData>
+

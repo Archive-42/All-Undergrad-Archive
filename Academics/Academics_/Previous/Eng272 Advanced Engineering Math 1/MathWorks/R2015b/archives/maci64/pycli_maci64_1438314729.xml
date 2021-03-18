@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>pycli</componentBaseName>
+    <componentFileName>pycli_maci64_1438314729.enc</componentFileName>
+    <componentName>pycli_maci64</componentName>
+    <componentVersion>1438314729</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>231212</size>
+    <type />
+    <uncompressedBytes>756356</uncompressedBytes>
+  </component>
+</componentData>
+

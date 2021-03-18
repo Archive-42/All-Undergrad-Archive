@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>storage/mirrorfsa</componentBaseName>
+    <componentFileName>storage/mirrorfsa_maci64_1438298689.enc</componentFileName>
+    <componentName>storage/mirrorfsa_maci64</componentName>
+    <componentVersion>1438298689</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>31755</size>
+    <type />
+    <uncompressedBytes>109348</uncompressedBytes>
+  </component>
+</componentData>
+

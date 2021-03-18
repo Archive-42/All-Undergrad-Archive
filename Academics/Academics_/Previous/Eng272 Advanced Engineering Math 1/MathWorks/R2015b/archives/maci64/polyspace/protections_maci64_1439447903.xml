@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/protections</componentBaseName>
+    <componentFileName>polyspace/protections_maci64_1439447903.enc</componentFileName>
+    <componentName>polyspace/protections_maci64</componentName>
+    <componentVersion>1439447903</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>14659</size>
+    <type />
+    <uncompressedBytes>43584</uncompressedBytes>
+  </component>
+</componentData>
+

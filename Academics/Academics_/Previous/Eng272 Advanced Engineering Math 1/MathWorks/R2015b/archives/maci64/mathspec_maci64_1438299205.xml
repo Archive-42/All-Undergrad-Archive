@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mathspec</componentBaseName>
+    <componentFileName>mathspec_maci64_1438299205.enc</componentFileName>
+    <componentName>mathspec_maci64</componentName>
+    <componentVersion>1438299205</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>200864</size>
+    <type />
+    <uncompressedBytes>759632</uncompressedBytes>
+  </component>
+</componentData>
+

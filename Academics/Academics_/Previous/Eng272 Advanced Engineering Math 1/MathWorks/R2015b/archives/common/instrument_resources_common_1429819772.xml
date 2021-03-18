@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>instrument_resources</componentBaseName>
+    <componentFileName>instrument_resources_common_1429819772.enc</componentFileName>
+    <componentName>instrument_resources_common</componentName>
+    <componentVersion>1429819772</componentVersion>
+    <locale />
+    <numFiles>177</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>84741</size>
+    <type />
+    <uncompressedBytes>125617</uncompressedBytes>
+  </component>
+</componentData>
+

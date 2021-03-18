@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_mask</componentBaseName>
+    <componentFileName>sl_mask_common_1438293905.enc</componentFileName>
+    <componentName>sl_mask_common</componentName>
+    <componentVersion>1438293905</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>697</size>
+    <type />
+    <uncompressedBytes>2440</uncompressedBytes>
+  </component>
+</componentData>
+

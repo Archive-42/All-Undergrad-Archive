@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>storage/sharedlib</componentBaseName>
+    <componentFileName>storage/sharedlib_maci64_1438298722.enc</componentFileName>
+    <componentName>storage/sharedlib_maci64</componentName>
+    <componentVersion>1438298722</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>28356</size>
+    <type />
+    <uncompressedBytes>106008</uncompressedBytes>
+  </component>
+</componentData>
+

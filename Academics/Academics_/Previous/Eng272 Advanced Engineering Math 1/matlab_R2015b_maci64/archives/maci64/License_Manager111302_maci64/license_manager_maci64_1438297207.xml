@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>license_manager</componentBaseName>
+    <componentFileName>license_manager_maci64_1438297207.enc</componentFileName>
+    <componentName>license_manager_maci64</componentName>
+    <componentVersion>1438297207</componentVersion>
+    <locale></locale>
+    <numFiles>28</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7939201</size>
+    <type></type>
+    <uncompressedBytes>22880560</uncompressedBytes>
+  </component>
+</componentData>

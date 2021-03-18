@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Simplified Chinese strings -->
+<strings language="zh_CN">
+  <string key="all_support">所有支持</string>
+  <string key="all_products">所有产品</string>
+  <string key="current_locale_in_parenthesis">(中文)</string>
+  <string key="documentation_center">文档</string>
+  <string key="installation">安装</string>
+  <string key="release_notes">发行说明</string>
+  <string key="pdf_documentation">PDF 文档</string>
+  <string key="search_documentation">搜索文档</string>
+  <string key="search_latest_documentation">搜索最新文档</string>
+  <string key="supplemental_software">补充软件</string>
+  <string key="acknowledgments">致谢</string>
+  <string key="trademarks">商标</string>
+  <string key="patents">专利</string>
+  <string key="terms_of_use">使用条款</string>
+  <string key="home">主页</string>
+  <string key="other_releases">其他版本</string>
+  <string key="page_not_avail">本版文档中不存在您要查找的页面。</string>
+  <string key="use_search_box_or_browse">您可以使用搜索框或通过浏览产品来查看相关信息。</string>
+  <!--string key="view_archive_doc">您也可以查看以前版本的归档文档。</string-->
+  <string key="accessing_restricted_doc"></string><!--Only applicable for restricted doc, should be empty for non-restricted doc-->
+  <!--string key="transl_doc_is_avail_incr">我们将逐步连续地提供翻译文档，这样您不必等到下一版本后便可看到更新的内容。</string-->
+  <string key="transl_doc_is_avail_incr">如果文档已翻译，会显示翻译文档；如果文档未翻译，则会显示英文文档。</string>
+  <!--string key="you_can_download_doc">您也可下载并安装更新的翻译文档。</string-->
+  <string key="view_archive_doc"></string>  <!-- Not applicable for Chinese -->
+  <string key="you_can_download_doc"></string><!-- Not applicable for Chinese -->
+  <!--string key="refer_to_other_releases">请参阅 &quot;其他版本&quot; 获取以前版本的翻译文档。</string-->
+  <string key="refer_to_other_releases"></string>  <!-- Not relevant for Chinese -->
+  <string key="when_transl_doc_is_avail_you_will_see_it">我们为许可用户提供了有关 MATLAB 的中文文档。这些用户可以通过以下两种方式来查阅中文文档：<br></br><br></br>1) 在 MATLAB 帮助浏览器中，点击“预设项”图标，在出现的“预设项”窗口右窗格的“文档位置”部分下选择“在 mathworks.com 网站上（需要 Internet 连接）”，然后在“语言”部分下选择“简体中文”。<br></br>2) 通过系统本身的浏览器访问 <a href="http://www.mathworks.com/help">www.mathworks.com/help</a>。点击网站左下方的国家/地区链接，从中选取“中国”，然后才能查阅中文内容。 </string>
+  <string key="installed_support_packages">已安装的支持包</string>
+  <string key="hardware_catalog">有关硬件解决方案的完整列表，请参阅<a href="http://www.mathworks.com/hardware">硬件支持</a>。</string>
+  <string key="trial_software">试用软件</string>
+  <string key="product_updates">产品更新</string>
+</strings>

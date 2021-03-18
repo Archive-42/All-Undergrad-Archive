@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>rs232_serial</componentBaseName>
+    <componentFileName>rs232_serial_common_1438293648.enc</componentFileName>
+    <componentName>rs232_serial_common</componentName>
+    <componentVersion>1438293648</componentVersion>
+    <locale />
+    <numFiles>49</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>63762</size>
+    <type />
+    <uncompressedBytes>169655</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_testmeaslib_graphics</componentBaseName>
+    <componentFileName>shared_testmeaslib_graphics_common_1439446189.enc</componentFileName>
+    <componentName>shared_testmeaslib_graphics_common</componentName>
+    <componentVersion>1439446189</componentVersion>
+    <locale />
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>271710</size>
+    <type />
+    <uncompressedBytes>345545</uncompressedBytes>
+  </component>
+</componentData>
+

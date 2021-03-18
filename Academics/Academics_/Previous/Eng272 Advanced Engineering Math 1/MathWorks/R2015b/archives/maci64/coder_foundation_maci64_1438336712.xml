@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder_foundation</componentBaseName>
+    <componentFileName>coder_foundation_maci64_1438336712.enc</componentFileName>
+    <componentName>coder_foundation_maci64</componentName>
+    <componentVersion>1438336712</componentVersion>
+    <locale />
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>250450</size>
+    <type />
+    <uncompressedBytes>719388</uncompressedBytes>
+  </component>
+</componentData>
+

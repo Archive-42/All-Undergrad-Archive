@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/fftw</componentBaseName>
+    <componentFileName>3p/fftw_maci64_1438296542.enc</componentFileName>
+    <componentName>3p/fftw_maci64</componentName>
+    <componentVersion>1438296542</componentVersion>
+    <locale />
+    <numFiles>8</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2078593</size>
+    <type />
+    <uncompressedBytes>5407906</uncompressedBytes>
+  </component>
+</componentData>
+

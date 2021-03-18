@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_measure</componentBaseName>
+    <componentFileName>shared_measure_common_1439446505.enc</componentFileName>
+    <componentName>shared_measure_common</componentName>
+    <componentVersion>1439446505</componentVersion>
+    <locale />
+    <numFiles>109</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>194322</size>
+    <type />
+    <uncompressedBytes>684375</uncompressedBytes>
+  </component>
+</componentData>
+

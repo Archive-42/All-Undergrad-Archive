@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>fixedpointcore_resources</componentBaseName>
+    <componentFileName>fixedpointcore_resources_common_1438291981.enc</componentFileName>
+    <componentName>fixedpointcore_resources_common</componentName>
+    <componentVersion>1438291981</componentVersion>
+    <locale />
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3573</size>
+    <type />
+    <uncompressedBytes>3901</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>symbolic/mupad/mupserviceslink</componentBaseName>
+    <componentFileName>symbolic/mupad/mupserviceslink_maci64_1438298181.enc</componentFileName>
+    <componentName>symbolic/mupad/mupserviceslink_maci64</componentName>
+    <componentVersion>1438298181</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2477</size>
+    <type />
+    <uncompressedBytes>9204</uncompressedBytes>
+  </component>
+</componentData>
+

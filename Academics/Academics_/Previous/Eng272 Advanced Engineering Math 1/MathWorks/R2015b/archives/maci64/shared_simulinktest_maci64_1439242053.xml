@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_simulinktest</componentBaseName>
+    <componentFileName>shared_simulinktest_maci64_1439242053.enc</componentFileName>
+    <componentName>shared_simulinktest_maci64</componentName>
+    <componentVersion>1439242053</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>147680</size>
+    <type />
+    <uncompressedBytes>486372</uncompressedBytes>
+  </component>
+</componentData>
+

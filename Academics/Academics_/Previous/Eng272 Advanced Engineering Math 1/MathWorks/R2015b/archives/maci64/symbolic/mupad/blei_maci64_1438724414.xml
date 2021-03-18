@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>symbolic/mupad/blei</componentBaseName>
+    <componentFileName>symbolic/mupad/blei_maci64_1438724414.enc</componentFileName>
+    <componentName>symbolic/mupad/blei_maci64</componentName>
+    <componentVersion>1438724414</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>298045</size>
+    <type />
+    <uncompressedBytes>907916</uncompressedBytes>
+  </component>
+</componentData>
+

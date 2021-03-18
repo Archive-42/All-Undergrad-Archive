@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/results_api_cxx</componentBaseName>
+    <componentFileName>polyspace/results_api_cxx_maci64_1438297614.enc</componentFileName>
+    <componentName>polyspace/results_api_cxx_maci64</componentName>
+    <componentVersion>1438297614</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>138294</size>
+    <type />
+    <uncompressedBytes>637964</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sql_mcos_api_resources</componentBaseName>
+    <componentFileName>sql_mcos_api_resources_common_1421091650.enc</componentFileName>
+    <componentName>sql_mcos_api_resources_common</componentName>
+    <componentVersion>1421091650</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1813</size>
+    <type />
+    <uncompressedBytes>5470</uncompressedBytes>
+  </component>
+</componentData>
+

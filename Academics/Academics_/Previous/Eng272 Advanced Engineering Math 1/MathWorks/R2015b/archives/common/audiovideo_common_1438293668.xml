@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>audiovideo</componentBaseName>
+    <componentFileName>audiovideo_common_1438293668.enc</componentFileName>
+    <componentName>audiovideo_common</componentName>
+    <componentVersion>1438293668</componentVersion>
+    <locale />
+    <numFiles>108</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1701027</size>
+    <type />
+    <uncompressedBytes>2014096</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_sta_resources</componentBaseName>
+    <componentFileName>sl_sta_resources_common_1438292004.enc</componentFileName>
+    <componentName>sl_sta_resources_common</componentName>
+    <componentVersion>1438292004</componentVersion>
+    <locale />
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>16397</size>
+    <type />
+    <uncompressedBytes>51919</uncompressedBytes>
+  </component>
+</componentData>
+

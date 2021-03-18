@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mw_java_helpsearch</componentBaseName>
+    <componentFileName>mw_java_helpsearch_common_1438292209.enc</componentFileName>
+    <componentName>mw_java_helpsearch_common</componentName>
+    <componentVersion>1438292209</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>386018</size>
+    <type />
+    <uncompressedBytes>435168</uncompressedBytes>
+  </component>
+</componentData>
+

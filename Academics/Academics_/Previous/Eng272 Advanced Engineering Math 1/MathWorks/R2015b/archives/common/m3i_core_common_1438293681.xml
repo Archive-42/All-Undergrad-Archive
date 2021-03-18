@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>m3i_core</componentBaseName>
+    <componentFileName>m3i_core_common_1438293681.enc</componentFileName>
+    <componentName>m3i_core_common</componentName>
+    <componentVersion>1438293681</componentVersion>
+    <locale />
+    <numFiles>30</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>23491</size>
+    <type />
+    <uncompressedBytes>67096</uncompressedBytes>
+  </component>
+</componentData>
+

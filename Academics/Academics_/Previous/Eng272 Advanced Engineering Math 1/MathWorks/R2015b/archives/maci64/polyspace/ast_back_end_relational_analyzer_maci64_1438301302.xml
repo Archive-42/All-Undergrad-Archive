@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/ast_back_end_relational_analyzer</componentBaseName>
+    <componentFileName>polyspace/ast_back_end_relational_analyzer_maci64_1438301302.enc</componentFileName>
+    <componentName>polyspace/ast_back_end_relational_analyzer_maci64</componentName>
+    <componentVersion>1438301302</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3074265</size>
+    <type />
+    <uncompressedBytes>10834776</uncompressedBytes>
+  </component>
+</componentData>
+

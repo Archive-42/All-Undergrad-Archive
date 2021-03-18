@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- American English strings -->
+<strings language="en_US">
+  <string key="all_support">All Support</string>
+  <string key="all_products">All Products</string>
+  <string key="current_locale_in_parenthesis">(English)</string>
+  <string key="documentation_center">Documentation</string>
+  <string key="installation">Installation</string>
+  <string key="release_notes">Release Notes</string>
+  <string key="pdf_documentation">PDF Documentation</string>
+  <string key="search_documentation">Search Documentation</string>
+  <string key="search_latest_documentation">Search the latest documentation</string>
+  <string key="supplemental_software">Supplemental Software</string>
+  <string key="acknowledgments">Acknowledgments</string>
+  <string key="trademarks">Trademarks</string>
+  <string key="patents">Patents</string>
+  <string key="terms_of_use">Terms of Use</string>
+  <string key="home">Home</string>
+  <string key="other_releases">Other Releases</string>
+  <string key="page_not_avail">The page you were looking for is not available in this version of the documentation.</string>
+  <string key="use_search_box_or_browse">You can use the search box or browse the products to find related information.</string>
+  <string key="view_archive_doc">You can also view archived documentation for prior releases.</string>
+  <string key="accessing_restricted_doc"></string><!--Only applicable for restricted doc, should be empty for non-restricted doc-->
+  <string key="transl_doc_is_avail_incr">Translated documentation is now available incrementally so you no longer have to wait for the next release to see updated content.</string>
+  <string key="you_can_download_doc">You can also download the documentation to install updated translated documentation.</string>
+  <string key="refer_to_other_releases">Refer to &quot;Other Releases&quot; for translated documentation prior to the current release.</string>
+  <string key="when_transl_doc_is_avail_you_will_see_it">Whenever translated documentation is available, you will see it; if no translation is available, you will see English documentation.</string>
+  <string key="installed_support_packages">Installed Support Packages</string>
+  <string key="hardware_catalog">For a complete list of hardware solutions, see <a href="http://www.mathworks.com/hardware">Hardware Support</a>.</string>
+  <string key="trial_software">Trial Software</string>
+  <string key="product_updates">Product Updates</string>
+</strings>

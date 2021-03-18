@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_tlmgenerator_resources</componentBaseName>
+    <componentFileName>shared_tlmgenerator_resources_common_1435173830.enc</componentFileName>
+    <componentName>shared_tlmgenerator_resources_common</componentName>
+    <componentVersion>1435173830</componentVersion>
+    <locale />
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7917</size>
+    <type />
+    <uncompressedBytes>33392</uncompressedBytes>
+  </component>
+</componentData>
+

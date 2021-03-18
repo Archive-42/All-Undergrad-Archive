@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_lib_browse2</componentBaseName>
+    <componentFileName>sl_lib_browse2_maci64_1438740724.enc</componentFileName>
+    <componentName>sl_lib_browse2_maci64</componentName>
+    <componentVersion>1438740724</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>220893</size>
+    <type />
+    <uncompressedBytes>692532</uncompressedBytes>
+  </component>
+</componentData>
+

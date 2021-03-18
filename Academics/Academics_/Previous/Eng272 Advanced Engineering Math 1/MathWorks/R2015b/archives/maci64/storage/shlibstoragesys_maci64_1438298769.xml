@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>storage/shlibstoragesys</componentBaseName>
+    <componentFileName>storage/shlibstoragesys_maci64_1438298769.enc</componentFileName>
+    <componentName>storage/shlibstoragesys_maci64</componentName>
+    <componentVersion>1438298769</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>56471</size>
+    <type />
+    <uncompressedBytes>256924</uncompressedBytes>
+  </component>
+</componentData>
+

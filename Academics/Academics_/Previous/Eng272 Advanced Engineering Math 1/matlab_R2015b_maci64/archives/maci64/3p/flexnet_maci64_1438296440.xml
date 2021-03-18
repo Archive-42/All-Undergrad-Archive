@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/flexnet</componentBaseName>
+    <componentFileName>3p/flexnet_maci64_1438296440.enc</componentFileName>
+    <componentName>3p/flexnet_maci64</componentName>
+    <componentVersion>1438296440</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2134418</size>
+    <type></type>
+    <uncompressedBytes>6099304</uncompressedBytes>
+  </component>
+</componentData>

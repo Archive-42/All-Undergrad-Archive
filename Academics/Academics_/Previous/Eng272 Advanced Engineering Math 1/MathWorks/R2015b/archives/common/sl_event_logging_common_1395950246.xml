@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_event_logging</componentBaseName>
+    <componentFileName>sl_event_logging_common_1395950246.enc</componentFileName>
+    <componentName>sl_event_logging_common</componentName>
+    <componentVersion>1395950246</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>460</size>
+    <type />
+    <uncompressedBytes>354</uncompressedBytes>
+  </component>
+</componentData>
+

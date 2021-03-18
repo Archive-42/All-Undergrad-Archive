@@ -1,0 +1,45 @@
+<?xml version='1.0' standalone='yes'?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>gcc_runtime_maci64</name>
+      <locale></locale>
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296495</version>
+    </component>
+    <component>
+      <name>3p/flexnet_maci64</name>
+      <locale></locale>
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296440</version>
+    </component>
+    <component>
+      <name>bin_utils_maci64</name>
+      <locale></locale>
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438291957</version>
+    </component>
+    <component>
+      <name>license_manager_maci64</name>
+      <locale></locale>
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438297207</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <platform>maci64</platform>
+  <productBaseCode></productBaseCode>
+  <productName>License Manager</productName>
+  <productNumber>0</productNumber>
+  <productVersion>11.13.0.2</productVersion>
+  <releaseDescription>R2015b</releaseDescription>
+  <releaseFamily>R2015b</releaseFamily>
+</productAdditionalComps>

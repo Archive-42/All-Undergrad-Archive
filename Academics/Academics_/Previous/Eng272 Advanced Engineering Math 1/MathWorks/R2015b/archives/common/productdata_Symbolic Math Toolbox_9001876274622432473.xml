@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <dependsOn>
+    <component>
+      <name>symbolic/resources_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1438292220</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/library_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1438292136</version>
+    </component>
+    <component>
+      <name>symbolic/mupad/mupad_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1438292997</version>
+    </component>
+    <component>
+      <name>symbolic_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1439446264</version>
+    </component>
+    <component>
+      <name>symbolic/demos_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1438293728</version>
+    </component>
+    <component>
+      <name>examples/symbolic_product_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1438315137</version>
+    </component>
+    <component>
+      <name>examples/symbolic_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1438316616</version>
+    </component>
+    <component>
+      <name>symbolic_doc_en_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1438309175</version>
+    </component>
+    <component>
+      <name>symbolic_editor_support_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1439446119</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maci64</platform>
+    <platform>win32</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>SM</productBaseCode>
+  <productName>Symbolic Math Toolbox</productName>
+  <productNumber>15</productNumber>
+  <productVersion>6.3</productVersion>
+  <releaseDescription>R2015b</releaseDescription>
+  <releaseFamily>R2015b</releaseFamily>
+  <requiredProducts>
+    <product>
+      <isControllingProduct>true</isControllingProduct>
+      <productBaseCode>ML</productBaseCode>
+      <productName>MATLAB</productName>
+      <productNumber>1</productNumber>
+      <productVersion>8.6</productVersion>
+      <releaseDescription>R2015b</releaseDescription>
+      <releaseFamily>R2015b</releaseFamily>
+    </product>
+  </requiredProducts>
+</productData>
+

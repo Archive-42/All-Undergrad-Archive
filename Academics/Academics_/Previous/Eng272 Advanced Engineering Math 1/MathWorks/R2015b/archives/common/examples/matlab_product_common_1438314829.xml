@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>examples/matlab_product</componentBaseName>
+    <componentFileName>examples/matlab_product_common_1438314829.enc</componentFileName>
+    <componentName>examples/matlab_product_common</componentName>
+    <componentVersion>1438314829</componentVersion>
+    <locale />
+    <numFiles>342</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>9444992</size>
+    <type />
+    <uncompressedBytes>9720114</uncompressedBytes>
+  </component>
+</componentData>
+

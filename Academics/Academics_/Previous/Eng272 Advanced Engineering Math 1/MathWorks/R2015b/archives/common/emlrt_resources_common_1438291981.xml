@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>emlrt_resources</componentBaseName>
+    <componentFileName>emlrt_resources_common_1438291981.enc</componentFileName>
+    <componentName>emlrt_resources_common</componentName>
+    <componentVersion>1438291981</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7909</size>
+    <type />
+    <uncompressedBytes>27656</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+
+<!-- The following are our tag-libs.  They must be included first-->
+
+
+
+
+
+
+
+
+<!-- The following are some standard variables to be used in all of our web pages-->
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Your IP Address is - 159.91.228.183</title>
+    
+    <style>
+		.waitingForRefreshIcon {
+			display: none;
+			position: fixed;
+			z-index: 1000;
+			top: 0;
+			left: 0;
+			height: 100%;
+			width: 100%;
+			background: rgba( 255, 255, 255, .5 ) url('/images/ajax-loader.gif') 50% 50% no-repeat !important;
+			background: url('/images/ajax-loader.gif') 50% 50% no-repeat;
+		}
+		body.waitingForRefresh {
+			overflow: hidden;   
+		}
+		body.waitingForRefresh .waitingForRefreshIcon {
+			display: block;
+		}
+    </style>
+    
+  <script language="JavaScript" src="/js/util.js"></script>
+
+    <link href="/cssResponsive/bootstrap.min.css" rel="stylesheet">
+    <link href="/cssResponsive/bootstrapValidator.min.css" rel="stylesheet">
+    <link href="/cssResponsive/styles.css" rel="stylesheet">
+    <link href="/cssResponsive/client-custom.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+    <!-- JAVASCRIPT -->
+    <script language="JavaScript" type="text/javascript">
+	    function submitAuthRequest() {
+	    	var form = document.getElementById("loginForm");
+	    	
+	    	//extra validation, because we can get in a state where the submit button is enabled, but should be disabled because of form validation
+	    	//in this case when we click submit the button immediately disables itself according to the bootstrap validators
+	    	//we want to determine if this is being executed and do nothing in that case
+	    	var platform = navigator.platform;
+		    var appversion = navigator.appVersion;
+		    var username = form.userId.value;
+		    var password = form.pass.value;
+		    var acceptedCheckBox = form.accptPlcy.checked;
+		    if (username.length==0 || password.length==0 || !acceptedCheckBox) {
+		    	//form validation is failing, don't actually submit anything
+		    	return;
+		    }
+	    	
+	    	var errorMessage = document.getElementById("errorMessage");
+	    	var errorMessageFromModel = document.getElementById("errorMessageFromModel");
+	    	var submitButton = document.getElementById("subBtn");
+	    	submitButton.disabled = true;
+	    	
+	    	//put up the waiting icon
+	    	$("body").addClass("waitingForRefresh");
+	    	
+	    	//hide any error message that we got from the model, because this will no longer be the relevent error message
+	    	if (errorMessageFromModel!=null) {
+	    		errorMessageFromModel.style.display = "none";
+	    	}
+	    	
+	    	//actually make the RESTful call
+	      	$.ajax({
+		    	url:"/api/authRest",
+		    	type:"POST",
+		    	data:JSON.stringify({
+		    		platform:navigator.platform,
+		    		appversion:navigator.appVersion,
+		    		username:form.userId.value,
+		    		password:form.pass.value
+		    	}),
+		    	dataType:"json",
+		    	contentType:"application/json",
+		    	mimeType:"application/json"
+		    }).done(function(data) {
+		    	//this function is called when the authentication was successful
+		    	response = data;
+		    	//hide the error message DOM element
+	    		errorMessage.style.display = "none";
+	    		//invoke a redirect after the given delay
+	    		var delay = response.refreshDelay;
+	    		if (typeof delay === 'undefined') {
+	    			delay = 0;
+	    		}
+	    		var callback = function() {
+	    			window.location = "/clientStatus.!^";
+	    		}
+	    		if (delay>0) {
+	    			setTimeout(callback,delay*1000);
+	    		} else {
+	    			callback();
+	    		}
+		    }).fail(function(xhr) {
+		    	//this function is called when the authentication failed
+		    	//in this case we must first parse the response manually
+		    	response = $.parseJSON(xhr.responseText);
+		    	//hide the waiting icon
+		    	$("body").removeClass("waitingForRefresh");
+		    	//we want to put the error message in the appropriate DOM element and make it visible
+		    	errorMessage.innerHTML = response.error;
+	    		errorMessage.style.display = "block";
+	    		submitButton.disabled = false;
+		    });
+	    }
+	    
+	    function popupWithReducedSize(url) {
+		    var width = window.innerWidth*2/3;
+		    if (width<200) {
+		    	width = 200;
+		    }
+		    var height = window.outerHeight-100;
+		    if (height<100) {
+		    	height = 100;
+		    }
+	    	window.open(url, '', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width='+width+',height='+height);
+	    }
+    </script>
+
+
+  </head>
+  <header>
+    <img src="/imagesResponsive/logo.png" alt="logo" style="max-width: 320px; max-height: 80px; height: 100%">
+  </header>
+<body>
+
+  <div class="container">
+    <div class="row info-bottom">
+      <div class="col-md-4 info-pane">
+        <h1>Welcome to the <span class="universityinit"/> Network</h1>
+        <p>To access network resources, please sign in.</p>
+        <!--
+        <hr />
+        <p>Do you have a game console, DVR, or other Internet enabled device? If so, you'll need to <a href="/enroll">enroll it for Internet access</a>.</p>
+        -->
+      </div>
+      <div class="col-md-5 action-area-flush">
+        <h1>Sign In</h1>
+		
+		
+		<p id="errorMessage" class="alert alert-danger" style="display: none"></p>
+
+        <form id="loginForm" name="loginForm" method="post" class="form-horizontal" onsubmit="return false">
+          <div class="form-group">
+            <input type="text" class="form-control" name="userId" id="   " tabindex="1" accesskey="u" value="" size="16" placeholder="Network Username" autofocus="autofocus"/>
+          </div>
+          <div class="form-group">
+            <input type="password" class="form-control" name="pass" id="password" tabindex="2" accesskey="p" value="" size="16" placeholder="Password"/>
+          </div>
+          <div class="form-group">
+          <div class="checkbox">
+            <label><input type="checkbox" name="accptPlcy" id="accptPlcy" tabindex="3" value="accept" /> I accept the <a href="javascript:popupWithReducedSize('/html/aup.html')">Acceptable Use Policy</a></label>
+          </div>
+          </div>
+
+          <INPUT TYPE="HIDDEN" NAME="platform">
+          <INPUT TYPE="HIDDEN" NAME="appversion">
+
+          <div class="form-group">
+            <button type="submit" class="btn btn-primary" id="subBtn" tabindex="4" accesskey="l" value="Submit" disabled onclick="submitAuthRequest()">Sign In</button>
+          </div>
+        </form>
+        
+        <hr>
+        <p>
+        For assistance, please contact the TCNJ Helpdesk at 609-771-2660.
+        <p>
+        <!--
+        <button type="button" class="btn btn-alt" onclick="window.location='/enroll'">Register a Device</button>
+        -->
+      </div>
+    </div>
+  </div>
+  
+  <div class="waitingForRefreshIcon"></div>
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrapValidator.min.js"></script>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/validation.js"></script>
+    
+    <script src="/js/jquery.placeholder.min.js"></script>
+<script type="text/javascript">
+	$('input, textarea').placeholder();
+</script>
+
+  </body>
+<footer>
+<style>
+.sc-footer-color {
+	color:#777;
+	font-size:12px;
+}
+</style>
+<div class="footer1">
+	<p><a href="javascript:pop('/html/faq.html')" class="sc-footer-color">Frequently Asked Questions</a></p>
+	<p><a href="javascript:pop('/html/aup.html')" class="sc-footer-color">Acceptable Use Policy</a></p>
+	<p class="universityname sc-footer-color"></p>
+</div>
+<div class="footer2">
+	<p>Your IP Address is: 159.91.228.183</p>
+</div>
+<HEAD>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+</HEAD>
+</footer>
+</html>

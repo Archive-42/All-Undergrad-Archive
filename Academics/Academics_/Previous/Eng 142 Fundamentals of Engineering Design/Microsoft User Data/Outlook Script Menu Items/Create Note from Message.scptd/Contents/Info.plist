@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleGetInfoString</key>
+	<string>14.0.0, © 2010 Microsoft Corporation. All rights reserved.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2010 Microsoft Corporation. All rights reserved.</string>
+	<key>CFBundleShortVersionString</key>
+	<string>14.0.0</string>
+</dict>
+</plist>

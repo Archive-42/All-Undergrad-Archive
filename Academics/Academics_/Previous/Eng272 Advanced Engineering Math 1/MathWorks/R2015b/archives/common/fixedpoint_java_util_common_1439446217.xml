@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>fixedpoint_java_util</componentBaseName>
+    <componentFileName>fixedpoint_java_util_common_1439446217.enc</componentFileName>
+    <componentName>fixedpoint_java_util_common</componentName>
+    <componentVersion>1439446217</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>35682</size>
+    <type />
+    <uncompressedBytes>42336</uncompressedBytes>
+  </component>
+</componentData>
+

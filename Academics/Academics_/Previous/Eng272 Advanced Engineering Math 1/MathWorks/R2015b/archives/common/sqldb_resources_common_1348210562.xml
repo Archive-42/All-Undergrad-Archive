@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sqldb_resources</componentBaseName>
+    <componentFileName>sqldb_resources_common_1348210562.enc</componentFileName>
+    <componentName>sqldb_resources_common</componentName>
+    <componentVersion>1348210562</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>851</size>
+    <type />
+    <uncompressedBytes>1933</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulation_data_repository</componentBaseName>
+    <componentFileName>simulation_data_repository_maci64_1439565157.enc</componentFileName>
+    <componentName>simulation_data_repository_maci64</componentName>
+    <componentVersion>1439565157</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>732574</size>
+    <type />
+    <uncompressedBytes>2504892</uncompressedBytes>
+  </component>
+</componentData>
+

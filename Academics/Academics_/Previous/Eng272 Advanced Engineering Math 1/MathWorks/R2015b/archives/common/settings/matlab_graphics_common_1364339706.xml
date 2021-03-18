@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>settings/matlab_graphics</componentBaseName>
+    <componentFileName>settings/matlab_graphics_common_1364339706.enc</componentFileName>
+    <componentName>settings/matlab_graphics_common</componentName>
+    <componentVersion>1364339706</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1771</size>
+    <type />
+    <uncompressedBytes>17092</uncompressedBytes>
+  </component>
+</componentData>
+

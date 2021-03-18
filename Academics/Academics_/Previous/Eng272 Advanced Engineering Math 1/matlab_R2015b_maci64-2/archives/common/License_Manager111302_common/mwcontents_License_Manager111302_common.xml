@@ -1,0 +1,8 @@
+<?xml version='1.0' standalone='yes'?>
+<contents>
+  <componentFiles>matlab_license_common_1438291957.enc</componentFiles>
+  <componentFiles>3p/flexnet_common_1438291910.enc</componentFiles>
+  <definitions>matlab_license_common_1438291957.xml</definitions>
+  <definitions>3p/flexnet_common_1438291910.xml</definitions>
+  <definitions>productdata_License_Manager111302_common.xml</definitions>
+</contents>

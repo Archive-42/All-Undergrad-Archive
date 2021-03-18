@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_slreportgen_reportexplorer</componentBaseName>
+    <componentFileName>shared_slreportgen_reportexplorer_common_1438302701.enc</componentFileName>
+    <componentName>shared_slreportgen_reportexplorer_common</componentName>
+    <componentVersion>1438302701</componentVersion>
+    <locale />
+    <numFiles>984</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>585871</size>
+    <type />
+    <uncompressedBytes>475552</uncompressedBytes>
+  </component>
+</componentData>
+

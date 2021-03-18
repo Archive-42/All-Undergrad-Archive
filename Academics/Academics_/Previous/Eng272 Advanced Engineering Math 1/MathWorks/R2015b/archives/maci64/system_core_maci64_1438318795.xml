@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>system_core</componentBaseName>
+    <componentFileName>system_core_maci64_1438318795.enc</componentFileName>
+    <componentName>system_core_maci64</componentName>
+    <componentVersion>1438318795</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>242436</size>
+    <type />
+    <uncompressedBytes>784200</uncompressedBytes>
+  </component>
+</componentData>
+

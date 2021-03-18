@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_demos</componentBaseName>
+    <componentFileName>matlab_demos_common_1440102340.enc</componentFileName>
+    <componentName>matlab_demos_common</componentName>
+    <componentVersion>1440102340</componentVersion>
+    <locale />
+    <numFiles>331</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>10000200</size>
+    <type />
+    <uncompressedBytes>20219600</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>symbolic/mupad/graph3d</componentBaseName>
+    <componentFileName>symbolic/mupad/graph3d_maci64_1438724485.enc</componentFileName>
+    <componentName>symbolic/mupad/graph3d_maci64</componentName>
+    <componentVersion>1438724485</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>301076</size>
+    <type />
+    <uncompressedBytes>977132</uncompressedBytes>
+  </component>
+</componentData>
+

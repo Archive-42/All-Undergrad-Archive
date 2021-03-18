@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_autosar</componentBaseName>
+    <componentFileName>sl_autosar_maci64_1439244826.enc</componentFileName>
+    <componentName>sl_autosar_maci64</componentName>
+    <componentVersion>1439244826</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>181314</size>
+    <type />
+    <uncompressedBytes>604872</uncompressedBytes>
+  </component>
+</componentData>
+

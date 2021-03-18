@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_java_core</componentBaseName>
+    <componentFileName>matlab_java_core_maci64_1439448074.enc</componentFileName>
+    <componentName>matlab_java_core_maci64</componentName>
+    <componentVersion>1439448074</componentVersion>
+    <locale />
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>898963</size>
+    <type />
+    <uncompressedBytes>3662648</uncompressedBytes>
+  </component>
+</componentData>
+

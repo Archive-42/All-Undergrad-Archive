@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>ws_restful</componentBaseName>
+    <componentFileName>ws_restful_maci64_1438314700.enc</componentFileName>
+    <componentName>ws_restful_maci64</componentName>
+    <componentVersion>1438314700</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>98329</size>
+    <type />
+    <uncompressedBytes>321548</uncompressedBytes>
+  </component>
+</componentData>
+

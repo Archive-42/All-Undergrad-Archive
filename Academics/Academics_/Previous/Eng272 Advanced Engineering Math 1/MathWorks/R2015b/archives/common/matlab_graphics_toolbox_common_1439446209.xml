@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_graphics_toolbox</componentBaseName>
+    <componentFileName>matlab_graphics_toolbox_common_1439446209.enc</componentFileName>
+    <componentName>matlab_graphics_toolbox_common</componentName>
+    <componentVersion>1439446209</componentVersion>
+    <locale />
+    <numFiles>1465</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2451690</size>
+    <type />
+    <uncompressedBytes>5055216</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder_foundation</componentBaseName>
+    <componentFileName>coder_foundation_common_1438725832.enc</componentFileName>
+    <componentName>coder_foundation_common</componentName>
+    <componentVersion>1438725832</componentVersion>
+    <locale />
+    <numFiles>1700</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3331396</size>
+    <type />
+    <uncompressedBytes>53925747</uncompressedBytes>
+  </component>
+</componentData>
+

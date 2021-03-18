@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_system_coreblocks</componentBaseName>
+    <componentFileName>shared_system_coreblocks_common_1438307093.enc</componentFileName>
+    <componentName>shared_system_coreblocks_common</componentName>
+    <componentVersion>1438307093</componentVersion>
+    <locale />
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2527</size>
+    <type />
+    <uncompressedBytes>2455</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_core_blocks</componentBaseName>
+    <componentFileName>simulink_core_blocks_maci64_1439245469.enc</componentFileName>
+    <componentName>simulink_core_blocks_maci64</componentName>
+    <componentVersion>1439245469</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2339147</size>
+    <type />
+    <uncompressedBytes>10333136</uncompressedBytes>
+  </component>
+</componentData>
+

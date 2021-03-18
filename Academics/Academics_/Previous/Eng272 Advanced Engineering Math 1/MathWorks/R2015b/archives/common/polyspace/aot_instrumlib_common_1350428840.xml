@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/aot_instrumlib</componentBaseName>
+    <componentFileName>polyspace/aot_instrumlib_common_1350428840.enc</componentFileName>
+    <componentName>polyspace/aot_instrumlib_common</componentName>
+    <componentVersion>1350428840</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4516</size>
+    <type />
+    <uncompressedBytes>18761</uncompressedBytes>
+  </component>
+</componentData>
+

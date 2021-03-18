@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_fixedandfloat</componentBaseName>
+    <componentFileName>sl_fixedandfloat_maci64_1439246517.enc</componentFileName>
+    <componentName>sl_fixedandfloat_maci64</componentName>
+    <componentVersion>1439246517</componentVersion>
+    <locale />
+    <numFiles>12</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>195686</size>
+    <type />
+    <uncompressedBytes>651700</uncompressedBytes>
+  </component>
+</componentData>
+

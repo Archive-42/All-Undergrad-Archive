@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_simulink_execution_resources</componentBaseName>
+    <componentFileName>shared_simulink_execution_resources_common_1438292000.enc</componentFileName>
+    <componentName>shared_simulink_execution_resources_common</componentName>
+    <componentVersion>1438292000</componentVersion>
+    <locale />
+    <numFiles>29</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>28565</size>
+    <type />
+    <uncompressedBytes>62366</uncompressedBytes>
+  </component>
+</componentData>
+

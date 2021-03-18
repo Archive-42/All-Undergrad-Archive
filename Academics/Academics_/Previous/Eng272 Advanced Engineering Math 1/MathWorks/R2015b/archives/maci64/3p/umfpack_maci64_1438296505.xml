@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/umfpack</componentBaseName>
+    <componentFileName>3p/umfpack_maci64_1438296505.enc</componentFileName>
+    <componentName>3p/umfpack_maci64</componentName>
+    <componentVersion>1438296505</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>138453</size>
+    <type />
+    <uncompressedBytes>299028</uncompressedBytes>
+  </component>
+</componentData>
+

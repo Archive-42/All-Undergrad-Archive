@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_types</componentBaseName>
+    <componentFileName>sl_types_common_1432233529.enc</componentFileName>
+    <componentName>sl_types_common</componentName>
+    <componentVersion>1432233529</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>11418</size>
+    <type />
+    <uncompressedBytes>11650</uncompressedBytes>
+  </component>
+</componentData>
+

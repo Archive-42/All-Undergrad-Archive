@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hdllink_resources</componentBaseName>
+    <componentFileName>hdllink_resources_common_1432924067.enc</componentFileName>
+    <componentName>hdllink_resources_common</componentName>
+    <componentVersion>1432924067</componentVersion>
+    <locale />
+    <numFiles>43</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>24294</size>
+    <type />
+    <uncompressedBytes>40352</uncompressedBytes>
+  </component>
+</componentData>
+

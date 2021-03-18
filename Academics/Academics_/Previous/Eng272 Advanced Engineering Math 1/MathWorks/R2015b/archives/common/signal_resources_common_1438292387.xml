@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>signal_resources</componentBaseName>
+    <componentFileName>signal_resources_common_1438292387.enc</componentFileName>
+    <componentName>signal_resources_common</componentName>
+    <componentVersion>1438292387</componentVersion>
+    <locale />
+    <numFiles>2238</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1149752</size>
+    <type />
+    <uncompressedBytes>1329253</uncompressedBytes>
+  </component>
+</componentData>
+

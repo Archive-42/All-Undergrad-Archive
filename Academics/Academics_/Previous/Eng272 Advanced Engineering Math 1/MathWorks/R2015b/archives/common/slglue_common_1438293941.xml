@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>slglue</componentBaseName>
+    <componentFileName>slglue_common_1438293941.enc</componentFileName>
+    <componentName>slglue_common</componentName>
+    <componentVersion>1438293941</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1422</size>
+    <type />
+    <uncompressedBytes>2627</uncompressedBytes>
+  </component>
+</componentData>
+

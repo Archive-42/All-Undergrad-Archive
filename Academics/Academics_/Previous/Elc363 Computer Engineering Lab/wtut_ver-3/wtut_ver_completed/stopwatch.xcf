@@ -1,0 +1,19 @@
+NET "CLK" TNM_NET = "CLK";
+TIMESPEC "TS_CLK" = PERIOD "CLK" 20 ns;
+BEGIN MODEL stopwatch
+  NET "CLK"  LOC = "T9";
+  NET "AN<0>" LOC = "d14";
+  NET "AN<1>" LOC = "g14";
+  NET "AN<2>" LOC = "f14";
+  NET "AN<3>" LOC = "e13";
+  NET "RESET" LOC = "L13";
+  NET "SEG_A" LOC = "e14";
+  NET "SEG_B" LOC = "g13";
+  NET "SEG_C" LOC = "n15";
+  NET "SEG_D" LOC = "p15";
+  NET "SEG_E" LOC = "r16";
+  NET "SEG_F" LOC = "f13";
+  NET "SEG_G" LOC = "n16";
+  NET "SEG_DP" LOC = "P16";
+  NET "STRTSTOP"  LOC = "M13";
+END;

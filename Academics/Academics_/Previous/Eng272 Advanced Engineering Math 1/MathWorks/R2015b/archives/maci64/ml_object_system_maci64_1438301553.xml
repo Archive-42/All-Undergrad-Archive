@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>ml_object_system</componentBaseName>
+    <componentFileName>ml_object_system_maci64_1438301553.enc</componentFileName>
+    <componentName>ml_object_system_maci64</componentName>
+    <componentVersion>1438301553</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1427991</size>
+    <type />
+    <uncompressedBytes>4645572</uncompressedBytes>
+  </component>
+</componentData>
+

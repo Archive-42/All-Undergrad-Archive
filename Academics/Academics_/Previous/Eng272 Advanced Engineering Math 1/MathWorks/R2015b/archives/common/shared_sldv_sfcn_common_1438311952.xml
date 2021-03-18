@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_sldv_sfcn</componentBaseName>
+    <componentFileName>shared_sldv_sfcn_common_1438311952.enc</componentFileName>
+    <componentName>shared_sldv_sfcn_common</componentName>
+    <componentVersion>1438311952</componentVersion>
+    <locale />
+    <numFiles>33</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>48799</size>
+    <type />
+    <uncompressedBytes>41969</uncompressedBytes>
+  </component>
+</componentData>
+

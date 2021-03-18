@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_sl_async_streaming</componentBaseName>
+    <componentFileName>shared_sl_async_streaming_maci64_1440101667.enc</componentFileName>
+    <componentName>shared_sl_async_streaming_maci64</componentName>
+    <componentVersion>1440101667</componentVersion>
+    <locale />
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1064894</size>
+    <type />
+    <uncompressedBytes>3704760</uncompressedBytes>
+  </component>
+</componentData>
+

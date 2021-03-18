@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_ipp</componentBaseName>
+    <componentFileName>shared_ipp_common_1279646680.enc</componentFileName>
+    <componentName>shared_ipp_common</componentName>
+    <componentVersion>1279646680</componentVersion>
+    <locale />
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4447</size>
+    <type />
+    <uncompressedBytes>22898</uncompressedBytes>
+  </component>
+</componentData>
+

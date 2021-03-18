@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hdlcoder_resources</componentBaseName>
+    <componentFileName>hdlcoder_resources_common_1438722779.enc</componentFileName>
+    <componentName>hdlcoder_resources_common</componentName>
+    <componentVersion>1438722779</componentVersion>
+    <locale />
+    <numFiles>77</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>150266</size>
+    <type />
+    <uncompressedBytes>501827</uncompressedBytes>
+  </component>
+</componentData>
+

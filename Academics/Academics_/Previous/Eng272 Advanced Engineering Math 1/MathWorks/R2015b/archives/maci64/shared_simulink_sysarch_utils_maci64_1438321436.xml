@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_simulink_sysarch_utils</componentBaseName>
+    <componentFileName>shared_simulink_sysarch_utils_maci64_1438321436.enc</componentFileName>
+    <componentName>shared_simulink_sysarch_utils_maci64</componentName>
+    <componentVersion>1438321436</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>26018</size>
+    <type />
+    <uncompressedBytes>100524</uncompressedBytes>
+  </component>
+</componentData>
+

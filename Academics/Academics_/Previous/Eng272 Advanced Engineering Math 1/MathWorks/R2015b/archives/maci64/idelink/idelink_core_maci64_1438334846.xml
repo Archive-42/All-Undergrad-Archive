@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>idelink/idelink_core</componentBaseName>
+    <componentFileName>idelink/idelink_core_maci64_1438334846.enc</componentFileName>
+    <componentName>idelink/idelink_core_maci64</componentName>
+    <componentVersion>1438334846</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>116853</size>
+    <type />
+    <uncompressedBytes>459872</uncompressedBytes>
+  </component>
+</componentData>
+

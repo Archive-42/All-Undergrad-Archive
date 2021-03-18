@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sldd</componentBaseName>
+    <componentFileName>sldd_common_1438302188.enc</componentFileName>
+    <componentName>sldd_common</componentName>
+    <componentVersion>1438302188</componentVersion>
+    <locale />
+    <numFiles>118</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>100624</size>
+    <type />
+    <uncompressedBytes>194588</uncompressedBytes>
+  </component>
+</componentData>
+

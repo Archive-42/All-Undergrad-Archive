@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_randfun</componentBaseName>
+    <componentFileName>matlab_toolbox_randfun_common_1438293335.enc</componentFileName>
+    <componentName>matlab_toolbox_randfun_common</componentName>
+    <componentVersion>1438293335</componentVersion>
+    <locale />
+    <numFiles>15</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>23477</size>
+    <type />
+    <uncompressedBytes>75528</uncompressedBytes>
+  </component>
+</componentData>
+

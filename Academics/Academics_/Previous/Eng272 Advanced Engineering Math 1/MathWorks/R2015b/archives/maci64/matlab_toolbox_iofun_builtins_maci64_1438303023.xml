@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_iofun_builtins</componentBaseName>
+    <componentFileName>matlab_toolbox_iofun_builtins_maci64_1438303023.enc</componentFileName>
+    <componentName>matlab_toolbox_iofun_builtins_maci64</componentName>
+    <componentVersion>1438303023</componentVersion>
+    <locale />
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>600096</size>
+    <type />
+    <uncompressedBytes>2030448</uncompressedBytes>
+  </component>
+</componentData>
+

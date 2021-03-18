@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_system_coder</componentBaseName>
+    <componentFileName>shared_system_coder_common_1438306352.enc</componentFileName>
+    <componentName>shared_system_coder_common</componentName>
+    <componentVersion>1438306352</componentVersion>
+    <locale />
+    <numFiles>18</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>22005</size>
+    <type />
+    <uncompressedBytes>18396</uncompressedBytes>
+  </component>
+</componentData>
+

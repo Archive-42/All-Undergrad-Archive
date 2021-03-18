@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_demos_features</componentBaseName>
+    <componentFileName>simulink_demos_features_maci64_1438795740.enc</componentFileName>
+    <componentName>simulink_demos_features_maci64</componentName>
+    <componentVersion>1438795740</componentVersion>
+    <locale />
+    <numFiles>101</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1245669</size>
+    <type />
+    <uncompressedBytes>3868012</uncompressedBytes>
+  </component>
+</componentData>
+

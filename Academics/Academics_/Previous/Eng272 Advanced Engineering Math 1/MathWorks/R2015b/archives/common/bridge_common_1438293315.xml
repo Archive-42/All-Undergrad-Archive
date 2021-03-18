@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>bridge</componentBaseName>
+    <componentFileName>bridge_common_1438293315.enc</componentFileName>
+    <componentName>bridge_common</componentName>
+    <componentVersion>1438293315</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>558</size>
+    <type />
+    <uncompressedBytes>1106</uncompressedBytes>
+  </component>
+</componentData>
+

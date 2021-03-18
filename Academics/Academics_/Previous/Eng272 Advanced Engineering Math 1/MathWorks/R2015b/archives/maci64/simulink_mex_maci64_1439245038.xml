@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_mex</componentBaseName>
+    <componentFileName>simulink_mex_maci64_1439245038.enc</componentFileName>
+    <componentName>simulink_mex_maci64</componentName>
+    <componentVersion>1439245038</componentVersion>
+    <locale />
+    <numFiles>11</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>179390</size>
+    <type />
+    <uncompressedBytes>549168</uncompressedBytes>
+  </component>
+</componentData>
+

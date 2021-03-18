@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>desuite_resources</componentBaseName>
+    <componentFileName>desuite_resources_common_1330461151.enc</componentFileName>
+    <componentName>desuite_resources_common</componentName>
+    <componentVersion>1330461151</componentVersion>
+    <locale />
+    <numFiles>9</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4240</size>
+    <type />
+    <uncompressedBytes>7733</uncompressedBytes>
+  </component>
+</componentData>
+

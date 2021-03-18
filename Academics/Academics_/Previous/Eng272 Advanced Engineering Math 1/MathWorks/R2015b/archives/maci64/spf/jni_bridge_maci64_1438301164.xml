@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>spf/jni_bridge</componentBaseName>
+    <componentFileName>spf/jni_bridge_maci64_1438301164.enc</componentFileName>
+    <componentName>spf/jni_bridge_maci64</componentName>
+    <componentVersion>1438301164</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>20974</size>
+    <type />
+    <uncompressedBytes>74412</uncompressedBytes>
+  </component>
+</componentData>
+

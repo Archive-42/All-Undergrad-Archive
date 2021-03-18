@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_event_logging</componentBaseName>
+    <componentFileName>sl_event_logging_maci64_1439450063.enc</componentFileName>
+    <componentName>sl_event_logging_maci64</componentName>
+    <componentVersion>1439450063</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>283844</size>
+    <type />
+    <uncompressedBytes>947476</uncompressedBytes>
+  </component>
+</componentData>
+

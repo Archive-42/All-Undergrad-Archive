@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>classic_ml_front_end</componentBaseName>
+    <componentFileName>classic_ml_front_end_common_1438293290.enc</componentFileName>
+    <componentName>classic_ml_front_end_common</componentName>
+    <componentVersion>1438293290</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7657</size>
+    <type />
+    <uncompressedBytes>181290</uncompressedBytes>
+  </component>
+</componentData>
+

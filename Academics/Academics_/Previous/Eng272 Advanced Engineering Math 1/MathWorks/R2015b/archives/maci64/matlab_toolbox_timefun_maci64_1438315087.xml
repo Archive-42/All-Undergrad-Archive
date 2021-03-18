@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_timefun</componentBaseName>
+    <componentFileName>matlab_toolbox_timefun_maci64_1438315087.enc</componentFileName>
+    <componentName>matlab_toolbox_timefun_maci64</componentName>
+    <componentVersion>1438315087</componentVersion>
+    <locale />
+    <numFiles>20</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>439934</size>
+    <type />
+    <uncompressedBytes>1583744</uncompressedBytes>
+  </component>
+</componentData>
+

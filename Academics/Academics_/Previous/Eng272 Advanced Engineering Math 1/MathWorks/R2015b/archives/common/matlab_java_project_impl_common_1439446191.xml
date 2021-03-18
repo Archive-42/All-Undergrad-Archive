@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_java_project_impl</componentBaseName>
+    <componentFileName>matlab_java_project_impl_common_1439446191.enc</componentFileName>
+    <componentName>matlab_java_project_impl_common</componentName>
+    <componentVersion>1439446191</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1550544</size>
+    <type />
+    <uncompressedBytes>1762272</uncompressedBytes>
+  </component>
+</componentData>
+

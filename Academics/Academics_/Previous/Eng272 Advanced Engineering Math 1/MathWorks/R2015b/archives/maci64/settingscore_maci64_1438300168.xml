@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>settingscore</componentBaseName>
+    <componentFileName>settingscore_maci64_1438300168.enc</componentFileName>
+    <componentName>settingscore_maci64</componentName>
+    <componentVersion>1438300168</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>664759</size>
+    <type />
+    <uncompressedBytes>2912716</uncompressedBytes>
+  </component>
+</componentData>
+

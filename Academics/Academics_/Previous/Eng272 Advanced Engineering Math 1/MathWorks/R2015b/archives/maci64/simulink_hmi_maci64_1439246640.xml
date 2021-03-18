@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_hmi</componentBaseName>
+    <componentFileName>simulink_hmi_maci64_1439246640.enc</componentFileName>
+    <componentName>simulink_hmi_maci64</componentName>
+    <componentVersion>1439246640</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>758292</size>
+    <type />
+    <uncompressedBytes>2967156</uncompressedBytes>
+  </component>
+</componentData>
+

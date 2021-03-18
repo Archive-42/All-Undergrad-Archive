@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_system_simulink</componentBaseName>
+    <componentFileName>shared_system_simulink_common_1438310150.enc</componentFileName>
+    <componentName>shared_system_simulink_common</componentName>
+    <componentVersion>1438310150</componentVersion>
+    <locale />
+    <numFiles>48</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>48952</size>
+    <type />
+    <uncompressedBytes>38271</uncompressedBytes>
+  </component>
+</componentData>
+

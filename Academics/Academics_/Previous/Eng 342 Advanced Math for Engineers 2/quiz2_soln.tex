@@ -1,0 +1,168 @@
+\documentclass[11pt]{article}
+\setlength\parindent{0pt}
+
+\pagestyle{empty}
+
+\usepackage{comment}
+\usepackage{amsmath}
+\usepackage{stfloats}
+\usepackage{subfig}
+\usepackage{graphicx}
+\usepackage{pgf}
+\usepackage{tikz}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,%
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=black
+}
+
+\newcommand{\eg}{{\em e.g.}, }
+\newcommand{\ie}{{\em i.e.}, }
+\newcommand{\etal}{{\em et al.}}
+
+\begin{document}
+\title{ENG 342: Advanced Engineering Math II}
+\author{Quiz 2}
+\date{9/27/16}
+
+{\Large ENG 342: Advanced Engineering Math II} \\
+
+{\large Quiz \#2} \\
+
+September 27, 2016 \\
+
+\newpage
+
+\textbf{Problem 1} [5 pts]
+
+\vspace{0.1in}
+
+Let $f(x) = \begin{cases} 0 & 0 < x <  1/2 \\  1 & 1/2 \leq x < 1 \end{cases}$ \\
+
+(a) Expand $f(x)$ as a complex Fourier series. Write it as a summation. [3 pts] \\
+
+To calculate $c_n$ in the series, we identify the period $T = 1$, and therefore $p = T/2 = 1/2$ in the formula. Then:
+\begin{eqnarray*}
+c_n &=& \frac{1}{2p} \int_{-p}^{p} f(x) e^{-i n \pi x / p} \; dt = \frac{1}{2 \times \frac{1}{2} } \int_0^1 f(t) e^{-2 i n \pi x} \; dx \\
+	&=& \frac{1}{1} \int_0^{1/2} 0 e^{-2 i n \pi x} \; dx + \frac{1}{1} \int_{1/2}^{1} 1 e^{-2 i n \pi x} \; dx \\
+	&=& - \frac{1}{2 i n \pi} e^{-2 i n \pi x} \biggr \rvert_{1/2}^1 = \frac{i}{2 n \pi} \left( e^{-2 i n \pi} - e^{-i n \pi} \right) \\
+	&=& \frac{i}{2 n \pi} \left( 1 - (-1)^n \right) 
+\end{eqnarray*}
+
+This term is not defined for $n = 0$. So we must calculate that one separately:
+\begin{equation*}
+c_0 = \frac{1}{1} \int_0^1 f(x) \; dx = \int_{1/2}^1 1 \; dx = \frac{1}{2}
+\end{equation*}
+
+Therefore, the complex Fourier series is:
+\begin{equation*}
+f(x) = \frac{1}{2} + \sum_{\substack{n = -\infty \\ n \neq 0}}^{\infty} \frac{i}{2 n \pi} \left( 1 - (-1)^n \right) e^{2 i n \pi x}
+\end{equation*}
+
+(b) Suppose $f(x)$ is expanded in a cosine series, a sine series, and a Fourier series. Sketch what these three series will converge to over $(-3, 3)$. [2 pts] \\
+
+In all cases, the Fourier series will be periodic; the question is what the periodic function will look like.
+\begin{itemize}
+\item Expanding $f(x)$ as a Fourier series (as above) will lead to a repeated version of the function outside of $(0,1)$, shown in (a) below.
+\item Expanding it as a cosine series will lead to the even function in (b), or repeated versions of the function reflected over the y-axis on $(-1,1)$.
+\item Expanding it as a sine series will lead to the odd function in (c), or repeated versions of the function reflected over the origin on $(-1,1)$.
+\end{itemize}
+
+\begin{figure}[h]
+\hspace{-0.5in}
+\subfloat[Fourier series]{\includegraphics[scale=0.55]{fourier}}
+\subfloat[Cosine series]{\includegraphics[scale=0.55]{cosine}}
+\subfloat[Sine series]{\includegraphics[scale=0.55]{sine}}
+\end{figure}
+
+(c) If $x$ is time, then the fundamental period is $T = 1$, so the fundamental angular frequency is $w = 2 \pi / T = 2 \pi$. The frequency components of the signal are at multiples of $w$, \ie $n w$ for $n$ in the Fourier series expansion. The magnitudes at these points are:
+\begin{equation*}
+|c_n| = \begin{cases} 1/2 & n = 0 \\  1 / n \pi & n = \pm 1, \pm 3, \pm 5, ... \\ 0 & n = \pm 2, \pm 4, \pm 6, ... \end{cases}
+\end{equation*}
+
+Which gives the following spectrum plot:
+
+\begin{figure}[h]
+\centering
+\includegraphics[scale=1.25]{spectrum}
+\end{figure}
+
+\vspace{0.5in}
+
+\textbf{Problem 2} [5 pts]
+
+\vspace{0.1in}
+
+Solve the partial differential equation
+\begin{equation*}
+\frac{ \partial^2 u}{ \partial x^2 } + 4 \frac{ \partial^2 u}{ \partial y^2} = 0
+\end{equation*}
+using the separation of variables method. (There are three cases to consider.) \\
+
+Assuming $u(x,y) = X(x)Y(y)$, with the shorthand $u = XY$, the PDE becomes $X''Y + 4XY'' = 0$, or $X''Y = -4XY''$. Dividing both sides by $X$ and $Y$, we have:
+\begin{equation*}
+\frac{X''}{X} = -4 \frac{Y''}{Y} = - \lambda
+\end{equation*}
+for the separation constant $\lambda \in (-\infty, +\infty)$. We then have two differential equations
+\begin{equation*}
+X'' + \lambda X = 0 \;\;\;\;\;\;\;\;\;\; Y'' - \frac{\lambda}{4} Y = 0
+\end{equation*}
+For which the auxiliary equations are
+\begin{equation*}
+m^2 + \lambda = 0 \;\;\;\;\;\;\;\;\;\; m^2 - \frac{\lambda}{4} = 0
+\end{equation*}
+
+There are three cases of $\lambda$ that will change the nature of the solution: $\lambda < 0$, $\lambda = 0$, and $\lambda > 0$. We must consider each of them separately. \\
+
+\textbf{Case I}: $\lambda = - \alpha^2 < 0, \alpha > 0$
+
+The roots of the auxiliary equations are
+\begin{equation*}
+m = \pm \alpha \;\;\;\;\;\;\;\;\;\; m = \pm \frac{\alpha}{2} i
+\end{equation*}
+Which give the solutions
+\begin{equation*}
+X(x) = c_1 e^{\alpha x} + c_2 e^{-\alpha x} \;\;\;\;\;\;\;\;\;\; Y(y) = c_3 \cos \frac{\alpha}{2} y + c_4 \sin \frac{\alpha}{2} y
+\end{equation*}
+And the product solution
+\begin{eqnarray*}
+u(x,y) &=& \left( c_1 e^{\alpha x} + c_2 e^{-\alpha x} \right) \left( c_3 \cos \frac{\alpha}{2} y + c_4 \sin \frac{\alpha}{2} y \right) \\
+	&=& A e^{\alpha x} \cos \frac{\alpha}{2} y + B e^{-\alpha x} \cos \frac{\alpha}{2} y + C e^{\alpha x} \sin \frac{\alpha}{2} y + D c_2 e^{-\alpha x} \sin \frac{\alpha}{2} y
+\end{eqnarray*}
+
+\textbf{Case II}: $\lambda = 0$
+
+The roots of the auxiliary equations are
+\begin{equation*}
+m = \pm 0 \;\;\;\;\;\;\;\;\;\; m = \pm 0
+\end{equation*}
+Which give the solutions
+\begin{equation*}
+X(x) = c_1 + c_2 x \;\;\;\;\;\;\;\;\;\; Y(y) = c_3 + c_4 y
+\end{equation*}
+And the product solution
+\begin{eqnarray*}
+u(x,y) &=& \left( c_1 + c_2 x \right) \left( c_3 + c_4 y \right) \\
+	&=& A + B x + C y + D xy
+\end{eqnarray*}
+
+\textbf{Case III}: $\lambda = +\alpha^2 > 0$, $\alpha > 0$
+
+The roots of the auxiliary equations are
+\begin{equation*}
+m = \pm \alpha i \;\;\;\;\;\;\;\;\;\; m = \pm \frac{\alpha}{2}
+\end{equation*}
+Which give the solutions
+\begin{equation*}
+X(x) = c_1 \cos \alpha x + c_2 \sin \alpha x \;\;\;\;\;\;\;\;\;\; Y(y) = c_3 e^{\alpha y / 2} + c_4 e^{- \alpha y / 2}
+\end{equation*}
+And the product solution
+\begin{eqnarray*}
+u(x,y) &=& \left( c_1 \cos \alpha x + c_2 \sin \alpha x \right) \left( c_3 e^{\alpha y / 2} + c_4 e^{- \alpha y / 2} \right) \\
+	&=& A e^{\alpha y / 2} \cos \alpha x + B e^{\alpha y / 2} \sin \alpha x + C e^{- \alpha y / 2} \cos \alpha x + D e^{- \alpha y / 2} \sin \alpha x
+\end{eqnarray*}
+
+\end{document}

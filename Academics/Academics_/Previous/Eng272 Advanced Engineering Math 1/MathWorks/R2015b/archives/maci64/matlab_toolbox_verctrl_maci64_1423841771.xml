@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_verctrl</componentBaseName>
+    <componentFileName>matlab_toolbox_verctrl_maci64_1423841771.enc</componentFileName>
+    <componentName>matlab_toolbox_verctrl_maci64</componentName>
+    <componentVersion>1423841771</componentVersion>
+    <locale />
+    <numFiles>12</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>11314</size>
+    <type />
+    <uncompressedBytes>27522</uncompressedBytes>
+  </component>
+</componentData>
+

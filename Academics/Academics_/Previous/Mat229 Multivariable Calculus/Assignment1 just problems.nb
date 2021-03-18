@@ -1,0 +1,205 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.4' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      7773,        195]
+NotebookOptionsPosition[      7478,        180]
+NotebookOutlinePosition[      7836,        196]
+CellTagsIndexPosition[      7793,        193]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[{
+ "levelset[e_,k_]:=Module[{k1,set1},k1=k;set1=ContourPlot[e\[Equal]k1,{x,-8,8}\
+,{y,-8,8},Axes\[Rule]True];Return[set1]]\nC. Place the answer to a question \
+right after it. \nD. Remember to use alt + 7 to format cells in which you \
+will be typing text. You don\[CloseCurlyQuote] t need to format cells in \
+which you will be writing Mathematica code.\n",
+ StyleBox["To submit\n",
+  FontWeight->"Bold"],
+ "E. Save the notebook as ",
+ StyleBox["yourname_assignment 1.nb",
+  FontSlant->"Italic"],
+ "\nF. Evaluate entire notebook.\nG. Save as a .pdf file.\nH. Submit to \
+Canvas These are due on Friday, March 11.\n",
+ StyleBox["## In new cells, experiment by typing and evaluating the \
+following:\n\n        A. Solve[2x=7]\n        B. a=9; Solve[2x==a] (that\
+\[CloseCurlyQuote]s a semicolon in there)\n        C. a=9 [Return] \
+Solve[2x==a] (the carriage return is not Shift+Return).\n        \nSum up \
+what you have deduced about semi-colons, the Solve command, and use of equal \
+signs. In particular, what\[CloseCurlyQuote]s the difference between B and C?\
+\n",
+  FontColor->GrayLevel[0]],
+ "## In new cells, experiment with this by typing and evaluating the \
+following:\n\n      C. Solve [3x==y]\n      D. Solve[3x==y,{x}].\n\nSum up \
+what you have deduced about the Solve command and solving for particular \
+variables.",
+ StyleBox["\n",
+  FontColor->GrayLevel[0]],
+ "## What are the pros and cons of using NSolve instead of Solve?",
+ StyleBox["\n## Play around with the ContourPlot command:",
+  FontColor->GrayLevel[0]],
+ StyleBox[" use ContourPlot to draw a parabola, a hyperbola, a line, and a \
+cubic, some with and some without axes. \n",
+  FontWeight->"Plain",
+  FontColor->GrayLevel[0]],
+ "## Change the bounds on\n\n",
+ Cell[BoxData[
+  RowBox[{"Show", "[", 
+   RowBox[{
+    RowBox[{"ContourPlot", "[", 
+     RowBox[{
+      RowBox[{
+       RowBox[{
+        SuperscriptBox[
+         RowBox[{"(", 
+          RowBox[{"x", "-", "1"}], ")"}], "2"], "+", 
+        SuperscriptBox[
+         RowBox[{"(", 
+          RowBox[{"y", "-", "7"}], ")"}], "2"]}], "\[Equal]", "10"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"x", ",", 
+        RowBox[{"-", "3"}], ",", "5"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"y", ",", "0", ",", "12"}], "}"}], ",", 
+      RowBox[{"Axes", "\[Rule]", "True"}]}], "]"}], ",", 
+    RowBox[{"ContourPlot", "[", 
+     RowBox[{
+      RowBox[{"y", "==", 
+       RowBox[{
+        RowBox[{"3", 
+         SuperscriptBox["x", "2"]}], "+", "1"}]}], ",", 
+      RowBox[{"{", 
+       RowBox[{"x", ",", 
+        RowBox[{"-", "3"}], ",", "5"}], "}"}], ",", 
+      RowBox[{"{", 
+       RowBox[{"y", ",", "0", ",", "12"}], "}"}], ",", 
+      RowBox[{"Axes", "\[Rule]", "True"}]}], "]"}]}], "]"}]],
+  CellChangeTimes->{{3.631533874040453*^9, 3.63153387831487*^9}, {
+   3.6315339288632765`*^9, 3.6315339667555656`*^9}}],
+ "\n\nso that the circle comes out looking circular. (You\[CloseCurlyQuote]ll \
+need to cut-and-paste it into a cell that isn\[CloseCurlyQuote]t formatted \
+for text.) Briefly sum up what you think is happening.",
+ StyleBox["\n",
+  FontWeight->"Plain",
+  FontColor->GrayLevel[0]],
+ "## Get ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " to draw a picture of a parabola and a line tangent to the parabola at some \
+point other than the vertex. If you want to show off, include a (visible) \
+point of tangency in your picture. (You may need to look up the command \
+\[OpenCurlyDoubleQuote]Point\[CloseCurlyDoubleQuote] in the documentation \
+under the Help tab.)\n## Play a little. Is it the case that every level set \
+for f(x,y)=3xy+2y is a hyperbola? Explain.\n\n## Change the input expression \
+so that the corresponding level set is a parabola. \n\n## How about two lines \
+intersecting lines? Two parallel lines? The goal here is to only use one \
+levelset command.\n\n## Next change the module itself. Write a module called \
+levelsetwithbounds that takes as input an expression ",
+ Cell[BoxData[
+  FormBox["e", TraditionalForm]]],
+ ", a value ",
+ Cell[BoxData[
+  FormBox["k", TraditionalForm]]],
+ " and a number ",
+ Cell[BoxData[
+  FormBox["M", TraditionalForm]]],
+ " and has as output the level set of ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{"f", "(", 
+     RowBox[{"x", ",", "y"}], ")"}], "=", "e"}], TraditionalForm]]],
+ " corresponding to the level ",
+ Cell[BoxData[
+  FormBox["k", TraditionalForm]]],
+ " between the ranges ",
+ Cell[BoxData[
+  FormBox[
+   RowBox[{
+    RowBox[{
+     RowBox[{"-", "M"}], "\[LessEqual]", " ", "x"}], ",", 
+    RowBox[{"y", "\[LessEqual]", " ", "M"}]}], TraditionalForm]]],
+ ". (Our levelset module only draws the picture where M=8.) Use your module \
+to draw a picture of part of parabola containing the vertex where the vertex \
+is more than 40 away from the origin. \nFor the next question, you need the \
+following module. Be sure to evaluate it.\nlog[n_]:=Module[{index},\nIf[n\
+\[LessEqual] 0,Return[\[OpenCurlyDoubleQuote]Please enter a positive number\
+\[CloseCurlyDoubleQuote]],Return[Log10[n]]]\n(*This is the If command. It \
+looks like this: \nIf[_____,______,______] where the first entry is a \
+condition and the second and third entries are actions. *)\n(* It works like \
+this:\nIf the condition in the first entry holds, it does the thing in the \
+second entry. If the condition doesn\[CloseCurlyQuote]t hold, it does the \
+thing in the third entry.*)\n]\n## Evaluate the module. Then enter and \
+evaluate the following: \nlog[100]\nlog[100000]\nlog[13.4]\nlog[-6]\nExplain \
+your results.\n## Plug a bunch of different kinds of numbers into the module \
+below (after evaluating it).\n\
+ilikeevennumbers[n_]:=Module[{a},a=RandomInteger[2];\nIf[EvenQ[n],Return[{\
+\[OpenCurlyDoubleQuote]Yippee!\[CloseCurlyDoubleQuote],\
+\[CloseCurlyDoubleQuote]Wonderful\[CloseCurlyDoubleQuote],\
+\[CloseCurlyDoubleQuote]Fantastic\[CloseCurlyDoubleQuote]}[[a+1]]]]\n]\n\
+Explain what the module does.\n",
+ StyleBox["##  Write a module that takes as input a positive integer ",
+  FontColor->GrayLevel[0]],
+ Cell[BoxData[
+  FormBox["m", TraditionalForm]],
+  FontColor->GrayLevel[0]],
+ StyleBox[" prints the first ",
+  FontColor->GrayLevel[0]],
+ Cell[BoxData[
+  FormBox["m", TraditionalForm]],
+  FontColor->GrayLevel[0]],
+ StyleBox[" positive odd numbers and returns the square root of the sum of \
+the numbers it printed. You should use the Print command in the module. Look \
+it up in the Wolfram Documentation center available under the Help tab.  Run \
+your module for 3 different numbers between 20 and 50. Do you have any \
+thoughts about the output?",
+  FontColor->GrayLevel[0]],
+ "\n",
+ StyleBox["\n",
+  FontColor->GrayLevel[0]]
+}], "Text",
+ CellChangeTimes->{3.666819965068434*^9}],
+
+Cell[BoxData[
+ RowBox[{"\n", 
+  StyleBox["\n",
+   FontColor->GrayLevel[0]], 
+  StyleBox["\n",
+   FontColor->GrayLevel[0]]}]], "Input",
+ CellChangeTimes->{{3.666819939566854*^9, 3.666819956840955*^9}}]
+},
+WindowSize->{808, 604},
+WindowMargins->{{20, Automatic}, {Automatic, 44}},
+FrontEndVersion->"10.4 for Mac OS X x86 (32-bit, 64-bit Kernel) (February 25, \
+2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 6713, 150, 1391, "Text"],
+Cell[7274, 172, 200, 6, 80, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
+

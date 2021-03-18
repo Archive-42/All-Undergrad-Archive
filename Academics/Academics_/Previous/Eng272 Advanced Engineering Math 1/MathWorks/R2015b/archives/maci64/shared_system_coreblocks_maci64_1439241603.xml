@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_system_coreblocks</componentBaseName>
+    <componentFileName>shared_system_coreblocks_maci64_1439241603.enc</componentFileName>
+    <componentName>shared_system_coreblocks_maci64</componentName>
+    <componentVersion>1439241603</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>119163</size>
+    <type />
+    <uncompressedBytes>369476</uncompressedBytes>
+  </component>
+</componentData>
+

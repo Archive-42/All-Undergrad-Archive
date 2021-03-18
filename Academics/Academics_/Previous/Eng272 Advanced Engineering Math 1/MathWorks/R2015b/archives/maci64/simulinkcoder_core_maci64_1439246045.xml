@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulinkcoder_core</componentBaseName>
+    <componentFileName>simulinkcoder_core_maci64_1439246045.enc</componentFileName>
+    <componentName>simulinkcoder_core_maci64</componentName>
+    <componentVersion>1439246045</componentVersion>
+    <locale />
+    <numFiles>18</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1738132</size>
+    <type />
+    <uncompressedBytes>7527584</uncompressedBytes>
+  </component>
+</componentData>
+

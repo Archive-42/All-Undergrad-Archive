@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>ssi_dws_client</componentBaseName>
+    <componentFileName>ssi_dws_client_common_1438292014.enc</componentFileName>
+    <componentName>ssi_dws_client_common</componentName>
+    <componentVersion>1438292014</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>8906</size>
+    <type />
+    <uncompressedBytes>11592</uncompressedBytes>
+  </component>
+</componentData>
+

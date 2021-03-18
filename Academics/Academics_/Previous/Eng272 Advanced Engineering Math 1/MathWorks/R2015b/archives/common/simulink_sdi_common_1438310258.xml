@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_sdi</componentBaseName>
+    <componentFileName>simulink_sdi_common_1438310258.enc</componentFileName>
+    <componentName>simulink_sdi_common</componentName>
+    <componentVersion>1438310258</componentVersion>
+    <locale />
+    <numFiles>43</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>38291</size>
+    <type />
+    <uncompressedBytes>29046</uncompressedBytes>
+  </component>
+</componentData>
+

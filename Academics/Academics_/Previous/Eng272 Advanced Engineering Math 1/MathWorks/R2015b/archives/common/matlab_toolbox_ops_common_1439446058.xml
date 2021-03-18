@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_ops</componentBaseName>
+    <componentFileName>matlab_toolbox_ops_common_1439446058.enc</componentFileName>
+    <componentName>matlab_toolbox_ops_common</componentName>
+    <componentVersion>1439446058</componentVersion>
+    <locale />
+    <numFiles>88</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>205369</size>
+    <type />
+    <uncompressedBytes>359936</uncompressedBytes>
+  </component>
+</componentData>
+

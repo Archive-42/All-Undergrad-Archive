@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/tex-archive</componentBaseName>
+    <componentFileName>3p/tex-archive_common_1412857748.enc</componentFileName>
+    <componentName>3p/tex-archive_common</componentName>
+    <componentVersion>1412857748</componentVersion>
+    <locale />
+    <numFiles>342</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4827285</size>
+    <type />
+    <uncompressedBytes>6805586</uncompressedBytes>
+  </component>
+</componentData>
+

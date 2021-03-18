@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_lib_browse2</componentBaseName>
+    <componentFileName>sl_lib_browse2_common_1438723245.enc</componentFileName>
+    <componentName>sl_lib_browse2_common</componentName>
+    <componentVersion>1438723245</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2215</size>
+    <type />
+    <uncompressedBytes>7010</uncompressedBytes>
+  </component>
+</componentData>
+

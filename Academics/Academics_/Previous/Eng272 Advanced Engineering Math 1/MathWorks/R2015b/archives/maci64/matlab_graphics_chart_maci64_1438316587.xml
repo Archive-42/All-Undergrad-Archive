@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_graphics_chart</componentBaseName>
+    <componentFileName>matlab_graphics_chart_maci64_1438316587.enc</componentFileName>
+    <componentName>matlab_graphics_chart_maci64</componentName>
+    <componentVersion>1438316587</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>516243</size>
+    <type />
+    <uncompressedBytes>2321360</uncompressedBytes>
+  </component>
+</componentData>
+

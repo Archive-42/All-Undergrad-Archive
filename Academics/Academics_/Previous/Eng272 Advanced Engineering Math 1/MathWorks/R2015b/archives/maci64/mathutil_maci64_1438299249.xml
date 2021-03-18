@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mathutil</componentBaseName>
+    <componentFileName>mathutil_maci64_1438299249.enc</componentFileName>
+    <componentName>mathutil_maci64</componentName>
+    <componentVersion>1438299249</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>290722</size>
+    <type />
+    <uncompressedBytes>1038772</uncompressedBytes>
+  </component>
+</componentData>
+

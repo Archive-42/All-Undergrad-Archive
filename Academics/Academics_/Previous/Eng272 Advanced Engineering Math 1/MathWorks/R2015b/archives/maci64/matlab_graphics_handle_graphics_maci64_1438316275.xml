@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_graphics_handle_graphics</componentBaseName>
+    <componentFileName>matlab_graphics_handle_graphics_maci64_1438316275.enc</componentFileName>
+    <componentName>matlab_graphics_handle_graphics_maci64</componentName>
+    <componentVersion>1438316275</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4785646</size>
+    <type />
+    <uncompressedBytes>22279876</uncompressedBytes>
+  </component>
+</componentData>
+

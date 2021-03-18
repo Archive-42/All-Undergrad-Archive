@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_sl_mlconnector_bridge</componentBaseName>
+    <componentFileName>shared_sl_mlconnector_bridge_maci64_1438339130.enc</componentFileName>
+    <componentName>shared_sl_mlconnector_bridge_maci64</componentName>
+    <componentVersion>1438339130</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>16110</size>
+    <type />
+    <uncompressedBytes>51232</uncompressedBytes>
+  </component>
+</componentData>
+

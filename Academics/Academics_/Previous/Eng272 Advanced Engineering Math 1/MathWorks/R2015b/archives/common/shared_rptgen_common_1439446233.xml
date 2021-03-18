@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_rptgen</componentBaseName>
+    <componentFileName>shared_rptgen_common_1439446233.enc</componentFileName>
+    <componentName>shared_rptgen_common</componentName>
+    <componentVersion>1439446233</componentVersion>
+    <locale />
+    <numFiles>1317</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>899371</size>
+    <type />
+    <uncompressedBytes>1253722</uncompressedBytes>
+  </component>
+</componentData>
+

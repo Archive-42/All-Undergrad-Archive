@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>activation</componentBaseName>
+    <componentFileName>activation_common_1438292838.enc</componentFileName>
+    <componentName>activation_common</componentName>
+    <componentVersion>1438292838</componentVersion>
+    <locale />
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>155525</size>
+    <type />
+    <uncompressedBytes>181660</uncompressedBytes>
+  </component>
+</componentData>
+

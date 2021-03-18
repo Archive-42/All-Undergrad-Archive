@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>coder_core</componentBaseName>
+    <componentFileName>coder_core_common_1438293818.enc</componentFileName>
+    <componentName>coder_core_common</componentName>
+    <componentVersion>1438293818</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>794</size>
+    <type />
+    <uncompressedBytes>1704</uncompressedBytes>
+  </component>
+</componentData>
+

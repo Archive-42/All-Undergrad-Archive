@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hwsmanagement</componentBaseName>
+    <componentFileName>hwsmanagement_common_1439446330.enc</componentFileName>
+    <componentName>hwsmanagement_common</componentName>
+    <componentVersion>1439446330</componentVersion>
+    <locale />
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>10255</size>
+    <type />
+    <uncompressedBytes>11373</uncompressedBytes>
+  </component>
+</componentData>
+

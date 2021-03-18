@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>mathcgeo</componentBaseName>
+    <componentFileName>mathcgeo_maci64_1438302249.enc</componentFileName>
+    <componentName>mathcgeo_maci64</componentName>
+    <componentVersion>1438302249</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1781089</size>
+    <type />
+    <uncompressedBytes>8609856</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>slexec_util_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299247</version>
+    </component>
+    <component>
+      <name>slexec_parallel_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318647</version>
+    </component>
+    <component>
+      <name>slexec_execspec_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318900</version>
+    </component>
+    <component>
+      <name>simulink_solver_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438318928</version>
+    </component>
+    <component>
+      <name>desuite_kernel_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302471</version>
+    </component>
+    <component>
+      <name>slexec_solver_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438320312</version>
+    </component>
+    <component>
+      <name>slexec_runtime_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438320933</version>
+    </component>
+    <component>
+      <name>src_fixpoint_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438320768</version>
+    </component>
+    <component>
+      <name>sigstream_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438320995</version>
+    </component>
+    <component>
+      <name>slexec_simbridge_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438321186</version>
+    </component>
+    <component>
+      <name>simulink_observer_api_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438319035</version>
+    </component>
+    <component>
+      <name>sl_loadsave_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438320576</version>
+    </component>
+    <component>
+      <name>performance_tracer_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317412</version>
+    </component>
+    <component>
+      <name>sldd_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438319251</version>
+    </component>
+    <component>
+      <name>shared_configset_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438728811</version>
+    </component>
+    <component>
+      <name>shared_code_manager_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438322842</version>
+    </component>
+    <component>
+      <name>cgir_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439572523</version>
+    </component>
+    <component>
+      <name>eml_inference_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240722</version>
+    </component>
+    <component>
+      <name>cgir_algorithm_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240893</version>
+    </component>
+    <component>
+      <name>3p/clang_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296455</version>
+    </component>
+    <component>
+      <name>cgir_vm_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240433</version>
+    </component>
+    <component>
+      <name>shared_cgxe_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240983</version>
+    </component>
+    <component>
+      <name>m2t_dmr_runtime_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438319618</version>
+    </component>
+    <component>
+      <name>slcg_dmr_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438320200</version>
+    </component>
+    <component>
+      <name>slcg_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438335207</version>
+    </component>
+    <component>
+      <name>coder_trace_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438321764</version>
+    </component>
+    <component>
+      <name>slvm_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240467</version>
+    </component>
+    <component>
+      <name>coder_codedescriptor_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438335314</version>
+    </component>
+    <component>
+      <name>rtwcg_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241293</version>
+    </component>
+    <component>
+      <name>sl_block_graphics_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438322594</version>
+    </component>
+    <component>
+      <name>shared_simulink_block_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241560</version>
+    </component>
+    <component>
+      <name>simulink_sid_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438299192</version>
+    </component>
+    <component>
+      <name>sl_logging_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438730852</version>
+    </component>
+    <component>
+      <name>sl_SimInput_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438339074</version>
+    </component>
+    <component>
+      <name>sl_fileio_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438321164</version>
+    </component>
+    <component>
+      <name>sl_LogLoadBlockAPI_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241586</version>
+    </component>
+    <component>
+      <name>sl_blk_dlg_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438339084</version>
+    </component>
+    <component>
+      <name>shared_simulink_sysarch_utils_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438321436</version>
+    </component>
+    <component>
+      <name>shared_simulink_sysarch_metamodel_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438322367</version>
+    </component>
+    <component>
+      <name>shared_simulink_sysarch_mi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438323061</version>
+    </component>
+    <component>
+      <name>shared_simulink_sysarch_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438339575</version>
+    </component>
+    <component>
+      <name>sl_graphical_classes_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438340720</version>
+    </component>
+    <component>
+      <name>sl_prm_engine_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438340798</version>
+    </component>
+    <component>
+      <name>sl_engine_classes_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241705</version>
+    </component>
+    <component>
+      <name>sl_propagation_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438341116</version>
+    </component>
+    <component>
+      <name>shared_simulink_lang_blocks_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439242009</version>
+    </component>
+    <component>
+      <name>sl_link_bd_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439242041</version>
+    </component>
+    <component>
+      <name>sl_diagnostic_ui_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438319499</version>
+    </component>
+    <component>
+      <name>shared_simulinktest_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439242053</version>
+    </component>
+    <component>
+      <name>glue_layout_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438728748</version>
+    </component>
+    <component>
+      <name>simulinkcoder_capi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438298705</version>
+    </component>
+    <component>
+      <name>sl_ViewingDeviceAPI_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438339134</version>
+    </component>
+    <component>
+      <name>shared_sl_mlconnector_bridge_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438339130</version>
+    </component>
+    <component>
+      <name>shared_system_fixedpoint_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438334744</version>
+    </component>
+    <component>
+      <name>simulation_data_repository_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439565157</version>
+    </component>
+    <component>
+      <name>shared_sl_async_streaming_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1440101667</version>
+    </component>
+    <component>
+      <name>sl_event_logging_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439450063</version>
+    </component>
+    <component>
+      <name>sl_messages_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439242100</version>
+    </component>
+    <component>
+      <name>shared_diagram_resolver_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438319042</version>
+    </component>
+    <component>
+      <name>shared_diagram_style_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438326515</version>
+    </component>
+    <component>
+      <name>sl_graphics_services_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438326430</version>
+    </component>
+    <component>
+      <name>shared_codeinstrum_utils_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300956</version>
+    </component>
+    <component>
+      <name>3p/sundials_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296454</version>
+    </component>
+    <component>
+      <name>desuite_sundials_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302534</version>
+    </component>
+    <component>
+      <name>3p/daskr_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296453</version>
+    </component>
+    <component>
+      <name>desuite_daskr_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302532</version>
+    </component>
+    <component>
+      <name>sl_main_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439453028</version>
+    </component>
+    <component>
+      <name>sl_autosar_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439244826</version>
+    </component>
+    <component>
+      <name>sl_mask_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438347398</version>
+    </component>
+    <component>
+      <name>simulinktest_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439244856</version>
+    </component>
+    <component>
+      <name>shared_sdi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438733232</version>
+    </component>
+    <component>
+      <name>3p/ipp_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296455</version>
+    </component>
+    <component>
+      <name>sl_compiled_model_interface_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439244740</version>
+    </component>
+    <component>
+      <name>simulink_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439244992</version>
+    </component>
+    <component>
+      <name>simulink_metamodel_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439239600</version>
+    </component>
+    <component>
+      <name>simulink_core_blocks_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439245469</version>
+    </component>
+    <component>
+      <name>simulink_resolver_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438347774</version>
+    </component>
+    <component>
+      <name>mg_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438729660</version>
+    </component>
+    <component>
+      <name>glue2_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438730527</version>
+    </component>
+    <component>
+      <name>simulink_sysarch_metamodel_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438334489</version>
+    </component>
+    <component>
+      <name>slglue_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439245895</version>
+    </component>
+    <component>
+      <name>class_modeling_mcos_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302789</version>
+    </component>
+    <component>
+      <name>sl_continuous_blocks_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439246029</version>
+    </component>
+    <component>
+      <name>hwconnection_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1440101494</version>
+    </component>
+    <component>
+      <name>shared_spcuilib_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438326742</version>
+    </component>
+    <component>
+      <name>shared_measure_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438341518</version>
+    </component>
+    <component>
+      <name>shared_slscopes_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439244784</version>
+    </component>
+    <component>
+      <name>sltemplate_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438347756</version>
+    </component>
+    <component>
+      <name>simulink_desktop_integration_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439449316</version>
+    </component>
+    <component>
+      <name>cgir_eml_emitter_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240829</version>
+    </component>
+    <component>
+      <name>cgir_plc_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241530</version>
+    </component>
+    <component>
+      <name>cgir_float2fixed_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240769</version>
+    </component>
+    <component>
+      <name>ir_interp_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302211</version>
+    </component>
+    <component>
+      <name>polyspace/miscutils_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296724</version>
+    </component>
+    <component>
+      <name>polyspace/results_api_cxx_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438297614</version>
+    </component>
+    <component>
+      <name>polyspace/cxx_front_end_kernel_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438297708</version>
+    </component>
+    <component>
+      <name>polyspace/shared_cxxfe_mi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438317513</version>
+    </component>
+    <component>
+      <name>shared_cgir_cxxfe_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240305</version>
+    </component>
+    <component>
+      <name>coder_foundation_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438336712</version>
+    </component>
+    <component>
+      <name>coder_connectivity_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438302839</version>
+    </component>
+    <component>
+      <name>coder_rtiostream_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438322640</version>
+    </component>
+    <component>
+      <name>coder_profile_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438340584</version>
+    </component>
+    <component>
+      <name>coder_connectivity_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438340674</version>
+    </component>
+    <component>
+      <name>simulink_sysarch_modelsync_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439246027</version>
+    </component>
+    <component>
+      <name>sl_async_streaming_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439245050</version>
+    </component>
+    <component>
+      <name>simulinkcoder_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439246045</version>
+    </component>
+    <component>
+      <name>sl_sfcn_cov_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438347023</version>
+    </component>
+    <component>
+      <name>polyspace/drs_parser_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296760</version>
+    </component>
+    <component>
+      <name>polyspace/sml_library_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438300970</version>
+    </component>
+    <component>
+      <name>polyspace/aot_instrumlib_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301172</version>
+    </component>
+    <component>
+      <name>polyspace/suif_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301538</version>
+    </component>
+    <component>
+      <name>polyspace/c_front_end_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301595</version>
+    </component>
+    <component>
+      <name>polyspace/shared_polyspace_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438322673</version>
+    </component>
+    <component>
+      <name>polyspace/configure_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296792</version>
+    </component>
+    <component>
+      <name>polyspace/shared_codeinstrum_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438340715</version>
+    </component>
+    <component>
+      <name>sl_event_exec_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438342024</version>
+    </component>
+    <component>
+      <name>sl_event_engine_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439245283</version>
+    </component>
+    <component>
+      <name>sl_event_blocks_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439245397</version>
+    </component>
+    <component>
+      <name>stateflow_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439246414</version>
+    </component>
+    <component>
+      <name>shared_system_sfun_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241378</version>
+    </component>
+    <component>
+      <name>dsp_ml_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241404</version>
+    </component>
+    <component>
+      <name>dsp_sl_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241657</version>
+    </component>
+    <component>
+      <name>shared_system_coreblocks_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241603</version>
+    </component>
+    <component>
+      <name>systemblock_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439245111</version>
+    </component>
+    <component>
+      <name>sl_fixedandfloat_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439246517</version>
+    </component>
+    <component>
+      <name>slexec_rteblks_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439244721</version>
+    </component>
+    <component>
+      <name>sl_sta_adaptor_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439245019</version>
+    </component>
+    <component>
+      <name>sl_sta_repository_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438348050</version>
+    </component>
+    <component>
+      <name>sl_iofile_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439246524</version>
+    </component>
+    <component>
+      <name>sl_sta_ds_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241780</version>
+    </component>
+    <component>
+      <name>simulink_blocks_library_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438790492</version>
+    </component>
+    <component>
+      <name>simulink_mex_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439245038</version>
+    </component>
+    <component>
+      <name>cgir_mi_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240292</version>
+    </component>
+    <component>
+      <name>shared_system_coder_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438336564</version>
+    </component>
+    <component>
+      <name>cgir_hdl_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439241474</version>
+    </component>
+    <component>
+      <name>coder_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439242012</version>
+    </component>
+    <component>
+      <name>simulink_interface_editor_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438350712</version>
+    </component>
+    <component>
+      <name>simulink_interface_editor_mi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438350874</version>
+    </component>
+    <component>
+      <name>sfcnlvl3_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439245145</version>
+    </component>
+    <component>
+      <name>sl_lib_browse2_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438740724</version>
+    </component>
+    <component>
+      <name>simulink_hmi_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439246640</version>
+    </component>
+    <component>
+      <name>shared_sldv_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438352009</version>
+    </component>
+    <component>
+      <name>sl_coverage_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438352380</version>
+    </component>
+    <component>
+      <name>shared_reqmgt_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438352499</version>
+    </component>
+    <component>
+      <name>sb2sl_blks_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438352031</version>
+    </component>
+    <component>
+      <name>mldatx_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438322681</version>
+    </component>
+    <component>
+      <name>sl_sta_scenario_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438790494</version>
+    </component>
+    <component>
+      <name>sl_sta_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438790510</version>
+    </component>
+    <component>
+      <name>simulink_demos_aerospace_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438359414</version>
+    </component>
+    <component>
+      <name>simulink_demos_automotive_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438359933</version>
+    </component>
+    <component>
+      <name>simulink_demos_general_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438359279</version>
+    </component>
+    <component>
+      <name>simulink_demos_features_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438795740</version>
+    </component>
+    <component>
+      <name>simulink_demos_fuelsys_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438352874</version>
+    </component>
+    <component>
+      <name>simulink_doc_en_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438361205</version>
+    </component>
+    <component>
+      <name>stateflow_demos_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438361756</version>
+    </component>
+    <component>
+      <name>fixpoint_demos_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438795914</version>
+    </component>
+    <component>
+      <name>3p/openal_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438615362</version>
+    </component>
+    <component>
+      <name>sl3d_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1440102052</version>
+    </component>
+    <component>
+      <name>fixedpoint_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438340983</version>
+    </component>
+    <component>
+      <name>cgir_dvir_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439240209</version>
+    </component>
+    <component>
+      <name>polyspace/il_to_cgel_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301352</version>
+    </component>
+    <component>
+      <name>polyspace/ast_back_end_relational_analyzer_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301302</version>
+    </component>
+    <component>
+      <name>polyspace/ast_back_end_IL_interface_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301545</version>
+    </component>
+    <component>
+      <name>polyspace/back_end_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301575</version>
+    </component>
+    <component>
+      <name>polyspace/geometric_aa_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301181</version>
+    </component>
+    <component>
+      <name>polyspace/packaging_wrappers_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1417600589</version>
+    </component>
+    <component>
+      <name>polyspace/c_middle_end_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301389</version>
+    </component>
+    <component>
+      <name>polyspace/cxx_middle_end_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301381</version>
+    </component>
+    <component>
+      <name>polyspace/protections_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439447903</version>
+    </component>
+    <component>
+      <name>polyspace/packaging_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438725579</version>
+    </component>
+    <component>
+      <name>shared_sldv_sfcn_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439246513</version>
+    </component>
+    <component>
+      <name>polyspace/cgel_to_IL_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301310</version>
+    </component>
+    <component>
+      <name>polyspace/gen_gui_files_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438301351</version>
+    </component>
+    <component>
+      <name>polyspace/polyspace_dvo_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>0</version>
+    </component>
+    <component>
+      <name>dvoanalyzer_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296865</version>
+    </component>
+    <component>
+      <name>sldv_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439247635</version>
+    </component>
+    <component>
+      <name>dvofxp_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438296874</version>
+    </component>
+    <component>
+      <name>idelink/idelink_core_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438334846</version>
+    </component>
+    <component>
+      <name>shared_dspblks_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1439246683</version>
+    </component>
+    <component>
+      <name>realtime_maci64</name>
+      <locale />
+      <platformList>
+        <platform>maci64</platform>
+      </platformList>
+      <version>1438791533</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <platform>maci64</platform>
+  <productBaseCode>SL</productBaseCode>
+  <productName>Simulink</productName>
+  <productNumber>2</productNumber>
+  <productVersion>8.6</productVersion>
+  <releaseDescription>R2015b</releaseDescription>
+  <releaseFamily>R2015b</releaseFamily>
+</productAdditionalComps>
+

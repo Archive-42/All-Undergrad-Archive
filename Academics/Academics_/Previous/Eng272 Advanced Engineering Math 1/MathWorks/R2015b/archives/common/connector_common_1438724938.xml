@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>connector</componentBaseName>
+    <componentFileName>connector_common_1438724938.enc</componentFileName>
+    <componentName>connector_common</componentName>
+    <componentVersion>1438724938</componentVersion>
+    <locale />
+    <numFiles>290</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>7691406</size>
+    <type />
+    <uncompressedBytes>8485807</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_glue_resources</componentBaseName>
+    <componentFileName>sl_glue_resources_common_1438292014.enc</componentFileName>
+    <componentName>sl_glue_resources_common</componentName>
+    <componentVersion>1438292014</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>5875</size>
+    <type />
+    <uncompressedBytes>19400</uncompressedBytes>
+  </component>
+</componentData>
+

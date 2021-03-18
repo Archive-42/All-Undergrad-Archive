@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>udd_jmi</componentBaseName>
+    <componentFileName>udd_jmi_common_1438293322.enc</componentFileName>
+    <componentName>udd_jmi_common</componentName>
+    <componentVersion>1438293322</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>491</size>
+    <type />
+    <uncompressedBytes>642</uncompressedBytes>
+  </component>
+</componentData>
+

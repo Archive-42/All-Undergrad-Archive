@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/cpp11compat</componentBaseName>
+    <componentFileName>3p/cpp11compat_maci64_1438296440.enc</componentFileName>
+    <componentName>3p/cpp11compat_maci64</componentName>
+    <componentVersion>1438296440</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>19857</size>
+    <type />
+    <uncompressedBytes>100032</uncompressedBytes>
+  </component>
+</componentData>
+

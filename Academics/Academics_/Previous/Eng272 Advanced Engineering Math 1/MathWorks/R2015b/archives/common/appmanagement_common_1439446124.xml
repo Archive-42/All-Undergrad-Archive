@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>appmanagement</componentBaseName>
+    <componentFileName>appmanagement_common_1439446124.enc</componentFileName>
+    <componentName>appmanagement_common</componentName>
+    <componentVersion>1439446124</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>94556</size>
+    <type />
+    <uncompressedBytes>109677</uncompressedBytes>
+  </component>
+</componentData>
+

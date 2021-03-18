@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>eml_inference</componentBaseName>
+    <componentFileName>eml_inference_maci64_1439240722.enc</componentFileName>
+    <componentName>eml_inference_maci64</componentName>
+    <componentVersion>1439240722</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>2241642</size>
+    <type />
+    <uncompressedBytes>6559640</uncompressedBytes>
+  </component>
+</componentData>
+

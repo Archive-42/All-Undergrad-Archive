@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_dependency_analysis</componentBaseName>
+    <componentFileName>simulink_dependency_analysis_common_1439446556.enc</componentFileName>
+    <componentName>simulink_dependency_analysis_common</componentName>
+    <componentVersion>1439446556</componentVersion>
+    <locale />
+    <numFiles>183</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>202009</size>
+    <type />
+    <uncompressedBytes>254274</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_reqmgt</componentBaseName>
+    <componentFileName>shared_reqmgt_common_1439450451.enc</componentFileName>
+    <componentName>shared_reqmgt_common</componentName>
+    <componentVersion>1439450451</componentVersion>
+    <locale />
+    <numFiles>428</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>519686</size>
+    <type />
+    <uncompressedBytes>530624</uncompressedBytes>
+  </component>
+</componentData>
+

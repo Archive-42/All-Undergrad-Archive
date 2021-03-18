@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/saxon</componentBaseName>
+    <componentFileName>3p/saxon_common_1438291909.enc</componentFileName>
+    <componentName>3p/saxon_common</componentName>
+    <componentVersion>1438291909</componentVersion>
+    <locale />
+    <numFiles>20</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1922105</size>
+    <type />
+    <uncompressedBytes>5398906</uncompressedBytes>
+  </component>
+</componentData>
+

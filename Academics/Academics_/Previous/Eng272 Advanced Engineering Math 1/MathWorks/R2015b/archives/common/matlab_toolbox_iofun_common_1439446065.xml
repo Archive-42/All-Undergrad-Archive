@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_iofun</componentBaseName>
+    <componentFileName>matlab_toolbox_iofun_common_1439446065.enc</componentFileName>
+    <componentName>matlab_toolbox_iofun_common</componentName>
+    <componentVersion>1439446065</componentVersion>
+    <locale />
+    <numFiles>113</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>226929</size>
+    <type />
+    <uncompressedBytes>564326</uncompressedBytes>
+  </component>
+</componentData>
+

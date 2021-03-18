@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/kakadu</componentBaseName>
+    <componentFileName>3p/kakadu_maci64_1438296449.enc</componentFileName>
+    <componentName>3p/kakadu_maci64</componentName>
+    <componentVersion>1438296449</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1091340</size>
+    <type />
+    <uncompressedBytes>2547512</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_block_graphics</componentBaseName>
+    <componentFileName>sl_block_graphics_maci64_1438322594.enc</componentFileName>
+    <componentName>sl_block_graphics_maci64</componentName>
+    <componentVersion>1438322594</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>28668</size>
+    <type />
+    <uncompressedBytes>124560</uncompressedBytes>
+  </component>
+</componentData>
+

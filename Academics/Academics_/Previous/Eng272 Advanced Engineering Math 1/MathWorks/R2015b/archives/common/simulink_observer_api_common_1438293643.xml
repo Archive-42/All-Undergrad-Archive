@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_observer_api</componentBaseName>
+    <componentFileName>simulink_observer_api_common_1438293643.enc</componentFileName>
+    <componentName>simulink_observer_api_common</componentName>
+    <componentVersion>1438293643</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>546</size>
+    <type />
+    <uncompressedBytes>803</uncompressedBytes>
+  </component>
+</componentData>
+

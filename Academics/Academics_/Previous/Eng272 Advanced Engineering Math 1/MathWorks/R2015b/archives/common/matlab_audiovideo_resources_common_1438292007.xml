@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_audiovideo_resources</componentBaseName>
+    <componentFileName>matlab_audiovideo_resources_common_1438292007.enc</componentFileName>
+    <componentName>matlab_audiovideo_resources_common</componentName>
+    <componentVersion>1438292007</componentVersion>
+    <locale />
+    <numFiles>90</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>64503</size>
+    <type />
+    <uncompressedBytes>111043</uncompressedBytes>
+  </component>
+</componentData>
+

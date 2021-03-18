@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>glue_layout</componentBaseName>
+    <componentFileName>glue_layout_maci64_1438728748.enc</componentFileName>
+    <componentName>glue_layout_maci64</componentName>
+    <componentVersion>1438728748</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>146304</size>
+    <type />
+    <uncompressedBytes>399684</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_dastudio</componentBaseName>
+    <componentFileName>shared_dastudio_common_1439446241.enc</componentFileName>
+    <componentName>shared_dastudio_common</componentName>
+    <componentVersion>1439446241</componentVersion>
+    <locale />
+    <numFiles>2219</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4882801</size>
+    <type />
+    <uncompressedBytes>8844664</uncompressedBytes>
+  </component>
+</componentData>
+

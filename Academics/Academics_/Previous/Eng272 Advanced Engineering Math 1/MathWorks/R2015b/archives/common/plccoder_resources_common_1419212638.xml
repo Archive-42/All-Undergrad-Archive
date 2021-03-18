@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>plccoder_resources</componentBaseName>
+    <componentFileName>plccoder_resources_common_1419212638.enc</componentFileName>
+    <componentName>plccoder_resources_common</componentName>
+    <componentVersion>1419212638</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>1175</size>
+    <type />
+    <uncompressedBytes>3431</uncompressedBytes>
+  </component>
+</componentData>
+

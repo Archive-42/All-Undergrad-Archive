@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_sysarch_modelsync</componentBaseName>
+    <componentFileName>simulink_sysarch_modelsync_common_1438293945.enc</componentFileName>
+    <componentName>simulink_sysarch_modelsync_common</componentName>
+    <componentVersion>1438293945</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>552</size>
+    <type />
+    <uncompressedBytes>751</uncompressedBytes>
+  </component>
+</componentData>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulinkcoder_capi</componentBaseName>
+    <componentFileName>simulinkcoder_capi_maci64_1438298705.enc</componentFileName>
+    <componentName>simulinkcoder_capi_maci64</componentName>
+    <componentVersion>1438298705</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>15534</size>
+    <type />
+    <uncompressedBytes>44728</uncompressedBytes>
+  </component>
+</componentData>
+

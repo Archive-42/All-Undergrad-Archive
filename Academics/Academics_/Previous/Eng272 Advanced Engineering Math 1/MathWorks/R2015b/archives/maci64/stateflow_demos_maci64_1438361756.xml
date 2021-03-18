@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>stateflow_demos</componentBaseName>
+    <componentFileName>stateflow_demos_maci64_1438361756.enc</componentFileName>
+    <componentName>stateflow_demos_maci64</componentName>
+    <componentVersion>1438361756</componentVersion>
+    <locale />
+    <numFiles>105</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3242964</size>
+    <type />
+    <uncompressedBytes>10683564</uncompressedBytes>
+  </component>
+</componentData>
+

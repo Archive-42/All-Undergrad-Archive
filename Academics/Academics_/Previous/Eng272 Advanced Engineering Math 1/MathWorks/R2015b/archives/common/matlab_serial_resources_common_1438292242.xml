@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_serial_resources</componentBaseName>
+    <componentFileName>matlab_serial_resources_common_1438292242.enc</componentFileName>
+    <componentName>matlab_serial_resources_common</componentName>
+    <componentVersion>1438292242</componentVersion>
+    <locale />
+    <numFiles>76</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>38554</size>
+    <type />
+    <uncompressedBytes>46566</uncompressedBytes>
+  </component>
+</componentData>
+

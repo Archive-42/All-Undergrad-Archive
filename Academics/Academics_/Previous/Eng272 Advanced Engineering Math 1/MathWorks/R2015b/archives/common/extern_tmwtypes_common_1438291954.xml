@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>extern_tmwtypes</componentBaseName>
+    <componentFileName>extern_tmwtypes_common_1438291954.enc</componentFileName>
+    <componentName>extern_tmwtypes_common</componentName>
+    <componentVersion>1438291954</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>5406</size>
+    <type />
+    <uncompressedBytes>21583</uncompressedBytes>
+  </component>
+</componentData>
+

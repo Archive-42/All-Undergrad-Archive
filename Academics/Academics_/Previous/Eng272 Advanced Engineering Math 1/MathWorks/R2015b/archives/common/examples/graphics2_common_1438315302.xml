@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>examples/graphics2</componentBaseName>
+    <componentFileName>examples/graphics2_common_1438315302.enc</componentFileName>
+    <componentName>examples/graphics2_common</componentName>
+    <componentVersion>1438315302</componentVersion>
+    <locale />
+    <numFiles>429</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4952592</size>
+    <type />
+    <uncompressedBytes>5101585</uncompressedBytes>
+  </component>
+</componentData>
+

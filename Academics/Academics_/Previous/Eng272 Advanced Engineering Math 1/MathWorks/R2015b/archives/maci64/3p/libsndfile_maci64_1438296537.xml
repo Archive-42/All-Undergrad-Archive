@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/libsndfile</componentBaseName>
+    <componentFileName>3p/libsndfile_maci64_1438296537.enc</componentFileName>
+    <componentName>3p/libsndfile_maci64</componentName>
+    <componentVersion>1438296537</componentVersion>
+    <locale />
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>160944</size>
+    <type />
+    <uncompressedBytes>400180</uncompressedBytes>
+  </component>
+</componentData>
+

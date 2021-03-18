@@ -1,0 +1,9 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#2D3006",
+    "titleBar.activeBackground": "#3F4308",
+    "titleBar.activeForeground": "#FAFCE6"
+  },
+  "files.exclude": {},
+  "explorerExclude.backup": null
+}

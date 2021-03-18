@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_toolbox_funfun</componentBaseName>
+    <componentFileName>matlab_toolbox_funfun_common_1438293332.enc</componentFileName>
+    <componentName>matlab_toolbox_funfun_common</componentName>
+    <componentVersion>1438293332</componentVersion>
+    <locale />
+    <numFiles>99</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>235575</size>
+    <type />
+    <uncompressedBytes>671535</uncompressedBytes>
+  </component>
+</componentData>
+

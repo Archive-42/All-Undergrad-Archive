@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>polyspace/cxx_middle_end</componentBaseName>
+    <componentFileName>polyspace/cxx_middle_end_maci64_1438301381.enc</componentFileName>
+    <componentName>polyspace/cxx_middle_end_maci64</componentName>
+    <componentVersion>1438301381</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>5404665</size>
+    <type />
+    <uncompressedBytes>24773184</uncompressedBytes>
+  </component>
+</componentData>
+

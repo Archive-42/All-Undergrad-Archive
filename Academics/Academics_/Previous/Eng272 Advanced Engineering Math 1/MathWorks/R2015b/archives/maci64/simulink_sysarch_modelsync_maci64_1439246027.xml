@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_sysarch_modelsync</componentBaseName>
+    <componentFileName>simulink_sysarch_modelsync_maci64_1439246027.enc</componentFileName>
+    <componentName>simulink_sysarch_modelsync_maci64</componentName>
+    <componentVersion>1439246027</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>119755</size>
+    <type />
+    <uncompressedBytes>467584</uncompressedBytes>
+  </component>
+</componentData>
+

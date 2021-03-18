@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>gcc_runtime</componentBaseName>
+    <componentFileName>gcc_runtime_maci64_1438296495.enc</componentFileName>
+    <componentName>gcc_runtime_maci64</componentName>
+    <componentVersion>1438296495</componentVersion>
+    <locale></locale>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>235991</size>
+    <type></type>
+    <uncompressedBytes>889000</uncompressedBytes>
+  </component>
+</componentData>

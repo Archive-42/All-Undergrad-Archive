@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_algorithmlowering</componentBaseName>
+    <componentFileName>shared_algorithmlowering_common_1438307638.enc</componentFileName>
+    <componentName>shared_algorithmlowering_common</componentName>
+    <componentVersion>1438307638</componentVersion>
+    <locale />
+    <numFiles>37</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>24083</size>
+    <type />
+    <uncompressedBytes>15318</uncompressedBytes>
+  </component>
+</componentData>
+

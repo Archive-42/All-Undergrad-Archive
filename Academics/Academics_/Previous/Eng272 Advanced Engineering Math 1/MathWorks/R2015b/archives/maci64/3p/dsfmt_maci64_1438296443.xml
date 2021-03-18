@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/dsfmt</componentBaseName>
+    <componentFileName>3p/dsfmt_maci64_1438296443.enc</componentFileName>
+    <componentName>3p/dsfmt_maci64</componentName>
+    <componentVersion>1438296443</componentVersion>
+    <locale />
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>4422</size>
+    <type />
+    <uncompressedBytes>15013</uncompressedBytes>
+  </component>
+</componentData>
+

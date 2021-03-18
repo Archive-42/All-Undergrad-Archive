@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>webcam_resources</componentBaseName>
+    <componentFileName>webcam_resources_common_1438291978.enc</componentFileName>
+    <componentName>webcam_resources_common</componentName>
+    <componentVersion>1438291978</componentVersion>
+    <locale />
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>3637</size>
+    <type />
+    <uncompressedBytes>6258</uncompressedBytes>
+  </component>
+</componentData>
+

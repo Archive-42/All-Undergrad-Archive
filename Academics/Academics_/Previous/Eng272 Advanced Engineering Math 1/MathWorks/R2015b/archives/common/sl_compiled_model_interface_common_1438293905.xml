@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_compiled_model_interface</componentBaseName>
+    <componentFileName>sl_compiled_model_interface_common_1438293905.enc</componentFileName>
+    <componentName>sl_compiled_model_interface_common</componentName>
+    <componentVersion>1438293905</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>527</size>
+    <type />
+    <uncompressedBytes>676</uncompressedBytes>
+  </component>
+</componentData>
+

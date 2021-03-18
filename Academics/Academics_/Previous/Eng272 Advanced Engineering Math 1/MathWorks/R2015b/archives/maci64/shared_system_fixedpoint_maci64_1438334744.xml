@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>shared_system_fixedpoint</componentBaseName>
+    <componentFileName>shared_system_fixedpoint_maci64_1438334744.enc</componentFileName>
+    <componentName>shared_system_fixedpoint_maci64</componentName>
+    <componentVersion>1438334744</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>14171</size>
+    <type />
+    <uncompressedBytes>50092</uncompressedBytes>
+  </component>
+</componentData>
+

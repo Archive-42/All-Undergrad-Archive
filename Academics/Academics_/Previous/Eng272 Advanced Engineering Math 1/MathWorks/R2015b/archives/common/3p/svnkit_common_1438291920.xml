@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/svnkit</componentBaseName>
+    <componentFileName>3p/svnkit_common_1438291920.enc</componentFileName>
+    <componentName>3p/svnkit_common</componentName>
+    <componentVersion>1438291920</componentVersion>
+    <locale />
+    <numFiles>11</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>6355003</size>
+    <type />
+    <uncompressedBytes>7871609</uncompressedBytes>
+  </component>
+</componentData>
+

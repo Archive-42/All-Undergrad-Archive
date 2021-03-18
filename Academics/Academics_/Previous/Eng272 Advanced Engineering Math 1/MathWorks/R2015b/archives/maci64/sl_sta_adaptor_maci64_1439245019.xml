@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>sl_sta_adaptor</componentBaseName>
+    <componentFileName>sl_sta_adaptor_maci64_1439245019.enc</componentFileName>
+    <componentName>sl_sta_adaptor_maci64</componentName>
+    <componentVersion>1439245019</componentVersion>
+    <locale />
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2015b</releaseFamily>
+    <size>18589</size>
+    <type />
+    <uncompressedBytes>61056</uncompressedBytes>
+  </component>
+</componentData>
+
