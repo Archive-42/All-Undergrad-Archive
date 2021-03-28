@@ -1,0 +1,10 @@
+H:/343\ lab\ 6/Workspace01/Design01.cydsn/CortexM3/ARM_GCC_493/Debug/CyBootAsmGnu.o : H:/343\ lab\ 6/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s H:/343\ lab\ 6/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydevicegnu.inc H:/343\ lab\ 6/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc H:/343\ lab\ 6/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cyfittergnu.inc 
+
+H:/343\ lab\ 6/Workspace01/Design01.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s : 
+
+H:/343\ lab\ 6/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydevicegnu.inc : 
+
+H:/343\ lab\ 6/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc : 
+
+H:/343\ lab\ 6/Workspace01/Design01.cydsn/Generated_Source/PSoC5/cyfittergnu.inc : 
+

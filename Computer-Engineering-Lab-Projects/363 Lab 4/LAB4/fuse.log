@@ -1,0 +1,47 @@
+Running: C:\Xilinx\14.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o H:/LAB 4/LAB4/TB3_isim_beh.exe -prj H:/LAB 4/LAB4/TB3_beh.prj TB3 work.glbl 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "H:/LAB 4/LAB4/signextend.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/ShiftLeft2.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/REG_FILE.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/MUX4.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/MUX3.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/MUX2.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/MUX1.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/MemoryData.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/Instruction_mem.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/ControlUnit.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/ALUcontrol.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/ALU.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/Adder.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/Main.v" into library work
+Analyzing Verilog file "H:/LAB 4/LAB4/TB3.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:329 - "H:/LAB 4/LAB4/Main.v" Line 131: Target <mux3out> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:189 - "H:/LAB 4/LAB4/Main.v" Line 65: Size mismatch in connection of port <in1>. Formal port size is 64-bit while actual signal size is 32-bit.
+Completed static elaboration
+Compiling module Adder
+Compiling module Instruction_mem
+Compiling module ControlUnit
+Compiling module RegFile
+Compiling module MUX1
+Compiling module signextend
+Compiling module ShiftLeft2
+Compiling module MUX2
+Compiling module ALUcontrol
+Compiling module ALU
+Compiling module MUX3
+Compiling module MemoryData
+Compiling module MUX4
+Compiling module Main
+Compiling module TB3
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 16 Verilog Units
+Built simulation executable H:/LAB 4/LAB4/TB3_isim_beh.exe
+Fuse Memory Usage: 29112 KB
+Fuse CPU Usage: 654 ms

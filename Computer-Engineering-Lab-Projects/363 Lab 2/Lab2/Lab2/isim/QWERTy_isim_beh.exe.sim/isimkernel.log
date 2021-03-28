@@ -1,0 +1,29 @@
+Command line:
+   QWERTy_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50312
+
+Wed Sep 28 13:08:36 2016
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 504.963 Meg
+
+ Total Signals          : 20
+ Total Nets             : 18
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 101
+Total Line Count : 23
+
+ Total Simulation Time: 0.156002 sec
+
+ Current Memory Usage: 504.963 Meg
+
+Wed Sep 28 13:08:49 2016
+

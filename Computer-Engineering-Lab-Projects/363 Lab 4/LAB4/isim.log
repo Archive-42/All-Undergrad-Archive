@@ -1,0 +1,20 @@
+ISim log file
+Running: H:\LAB 4\LAB4\TB3_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb H:/LAB 4/LAB4/TB3_isim_beh.wdb 
+ISim P.28xd (signature 0xa0883be4)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+WARNING:  For instance uut/PC4/, width 64 of formal port in1 is not equal to width 32 of actual constant.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0 -                    0
+                   0 -                    0
+                   0 -                    0
+                   0 -                    0
+                   0 -                    0
+                   0 -                    0

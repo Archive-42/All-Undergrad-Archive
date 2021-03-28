@@ -1,0 +1,1018 @@
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 1
+
+
+   1              		.syntax unified
+   2              		.cpu cortex-m3
+   3              		.fpu softvfp
+   4              		.eabi_attribute 20, 1
+   5              		.eabi_attribute 21, 1
+   6              		.eabi_attribute 23, 3
+   7              		.eabi_attribute 24, 1
+   8              		.eabi_attribute 25, 1
+   9              		.eabi_attribute 26, 1
+  10              		.eabi_attribute 30, 1
+  11              		.eabi_attribute 34, 1
+  12              		.eabi_attribute 18, 4
+  13              		.thumb
+  14              		.file	"main.c"
+  15              		.text
+  16              	.Ltext0:
+  17              		.cfi_sections	.debug_frame
+  18              		.section	.text.main,"ax",%progbits
+  19              		.align	2
+  20              		.global	main
+  21              		.thumb
+  22              		.thumb_func
+  23              		.type	main, %function
+  24              	main:
+  25              	.LFB63:
+  26              		.file 1 ".\\main.c"
+   1:.\main.c      **** /* ========================================
+   2:.\main.c      ****  *
+   3:.\main.c      ****  * Copyright YOUR COMPANY, THE YEAR
+   4:.\main.c      ****  * All Rights Reserved
+   5:.\main.c      ****  * UNPUBLISHED, LICENSED SOFTWARE.
+   6:.\main.c      ****  *
+   7:.\main.c      ****  * CONFIDENTIAL AND PROPRIETARY INFORMATION
+   8:.\main.c      ****  * WHICH IS THE PROPERTY OF your company.
+   9:.\main.c      ****  *
+  10:.\main.c      ****  * ========================================
+  11:.\main.c      **** */
+  12:.\main.c      **** 
+  13:.\main.c      **** #include <project.h>
+  14:.\main.c      **** 
+  15:.\main.c      **** int main()
+  16:.\main.c      **** {
+  27              		.loc 1 16 0
+  28              		.cfi_startproc
+  29              		@ args = 0, pretend = 0, frame = 24
+  30              		@ frame_needed = 0, uses_anonymous_args = 0
+  31 0000 30B5     		push	{r4, r5, lr}
+  32              		.cfi_def_cfa_offset 12
+  33              		.cfi_offset 4, -12
+  34              		.cfi_offset 5, -8
+  35              		.cfi_offset 14, -4
+  36 0002 87B0     		sub	sp, sp, #28
+  37              		.cfi_def_cfa_offset 40
+  17:.\main.c      **** 	UART_1_Start();
+  38              		.loc 1 17 0
+  39 0004 FFF7FEFF 		bl	UART_1_Start
+  40              	.LVL0:
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 2
+
+
+  18:.\main.c      **** 	LCD_Char_1_Start();
+  41              		.loc 1 18 0
+  42 0008 FFF7FEFF 		bl	LCD_Char_1_Start
+  43              	.LVL1:
+  19:.\main.c      ****     
+  20:.\main.c      ****     char the_char;
+  21:.\main.c      ****     int c_idx;
+  22:.\main.c      ****     
+  23:.\main.c      **** 
+  24:.\main.c      **** 	char mystring[] = "Is it Rocky or Raki?\n";
+  44              		.loc 1 24 0
+  45 000c 6C46     		mov	r4, sp
+  46 000e 134D     		ldr	r5, .L7
+  47 0010 0FCD     		ldmia	r5!, {r0, r1, r2, r3}
+  48 0012 0FC4     		stmia	r4!, {r0, r1, r2, r3}
+  49 0014 95E80300 		ldmia	r5, {r0, r1}
+  50 0018 44F8040B 		str	r0, [r4], #4
+  51 001c 2180     		strh	r1, [r4]	@ movhi
+  25:.\main.c      **** 
+  26:.\main.c      **** 	//initialization 
+  27:.\main.c      **** 	LCD_Char_1_Position(0,0);
+  52              		.loc 1 27 0
+  53 001e 0020     		movs	r0, #0
+  54 0020 0146     		mov	r1, r0
+  55 0022 FFF7FEFF 		bl	LCD_Char_1_Position
+  56              	.LVL2:
+  57              	.L5:
+  16:.\main.c      **** 	UART_1_Start();
+  58              		.loc 1 16 0
+  59 0026 0025     		movs	r5, #0
+  60              	.LVL3:
+  61              	.L2:
+  28:.\main.c      **** 	c_idx = 0;
+  29:.\main.c      **** 	
+  30:.\main.c      **** 
+  31:.\main.c      **** 	//My forever loop out_str
+  32:.\main.c      **** 	while(1)
+  33:.\main.c      **** 	{
+  34:.\main.c      **** 		UART_1_PutString(mystring);
+  62              		.loc 1 34 0
+  63 0028 6846     		mov	r0, sp
+  64 002a FFF7FEFF 		bl	UART_1_PutString
+  65              	.LVL4:
+  35:.\main.c      ****         CyDelay(10);	
+  66              		.loc 1 35 0
+  67 002e 0A20     		movs	r0, #10
+  68 0030 FFF7FEFF 		bl	CyDelay
+  69              	.LVL5:
+  36:.\main.c      **** 		the_char = UART_1_GetChar();
+  70              		.loc 1 36 0
+  71 0034 FFF7FEFF 		bl	UART_1_GetChar
+  72              	.LVL6:
+  37:.\main.c      **** 		if (the_char) 
+  73              		.loc 1 37 0
+  74 0038 0446     		mov	r4, r0
+  75 003a 0028     		cmp	r0, #0
+  76 003c F4D0     		beq	.L2
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 3
+
+
+  38:.\main.c      **** 		{
+  39:.\main.c      **** 			if (c_idx == 0)
+  77              		.loc 1 39 0
+  78 003e 15B9     		cbnz	r5, .L3
+  40:.\main.c      **** 			{
+  41:.\main.c      **** 				LCD_Char_1_ClearDisplay();
+  79              		.loc 1 41 0
+  80 0040 0120     		movs	r0, #1
+  81              	.LVL7:
+  82 0042 FFF7FEFF 		bl	LCD_Char_1_WriteControl
+  83              	.LVL8:
+  84              	.L3:
+  42:.\main.c      **** 			}
+  43:.\main.c      **** 			
+  44:.\main.c      **** 			LCD_Char_1_PutChar(the_char); 
+  85              		.loc 1 44 0
+  86 0046 2046     		mov	r0, r4
+  87 0048 FFF7FEFF 		bl	LCD_Char_1_PutChar
+  88              	.LVL9:
+  45:.\main.c      **** 			++c_idx;
+  89              		.loc 1 45 0
+  90 004c 0135     		adds	r5, r5, #1
+  91              	.LVL10:
+  46:.\main.c      **** 			if (c_idx == 16) 
+  92              		.loc 1 46 0
+  93 004e 102D     		cmp	r5, #16
+  94 0050 EAD1     		bne	.L2
+  47:.\main.c      **** 			{ 
+  48:.\main.c      **** 				LCD_Char_1_Position(0,0);
+  95              		.loc 1 48 0
+  96 0052 0020     		movs	r0, #0
+  97 0054 0146     		mov	r1, r0
+  98 0056 FFF7FEFF 		bl	LCD_Char_1_Position
+  99              	.LVL11:
+ 100 005a E4E7     		b	.L5
+ 101              	.L8:
+ 102              		.align	2
+ 103              	.L7:
+ 104 005c 00000000 		.word	.LC0
+ 105              		.cfi_endproc
+ 106              	.LFE63:
+ 107              		.size	main, .-main
+ 108              		.section	.rodata.str1.4,"aMS",%progbits,1
+ 109              		.align	2
+ 110              	.LC0:
+ 111 0000 49732069 		.ascii	"Is it Rocky or Raki?\012\000"
+ 111      7420526F 
+ 111      636B7920 
+ 111      6F722052 
+ 111      616B693F 
+ 112 0016 0000     		.text
+ 113              	.Letext0:
+ 114              		.file 2 "c:\\program files (x86)\\cypress\\psoc creator\\3.3\\psoc creator\\import\\gnu\\arm\\4.9.
+ 115              		.file 3 "c:\\program files (x86)\\cypress\\psoc creator\\3.3\\psoc creator\\import\\gnu\\arm\\4.9.
+ 116              		.file 4 "Generated_Source\\PSoC5/cytypes.h"
+ 117              		.file 5 "Generated_Source\\PSoC5/UART_1.h"
+ 118              		.file 6 "Generated_Source\\PSoC5/LCD_Char_1.h"
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 4
+
+
+ 119              		.file 7 "Generated_Source\\PSoC5/CyLib.h"
+ 120              		.file 8 "Generated_Source\\PSoC5/core_cm3.h"
+ 121              		.section	.debug_info,"",%progbits
+ 122              	.Ldebug_info0:
+ 123 0000 34020000 		.4byte	0x234
+ 124 0004 0400     		.2byte	0x4
+ 125 0006 00000000 		.4byte	.Ldebug_abbrev0
+ 126 000a 04       		.byte	0x4
+ 127 000b 01       		.uleb128 0x1
+ 128 000c CA000000 		.4byte	.LASF27
+ 129 0010 01       		.byte	0x1
+ 130 0011 38000000 		.4byte	.LASF28
+ 131 0015 A9010000 		.4byte	.LASF29
+ 132 0019 00000000 		.4byte	.Ldebug_ranges0+0
+ 133 001d 00000000 		.4byte	0
+ 134 0021 00000000 		.4byte	.Ldebug_line0
+ 135 0025 02       		.uleb128 0x2
+ 136 0026 01       		.byte	0x1
+ 137 0027 06       		.byte	0x6
+ 138 0028 FE010000 		.4byte	.LASF0
+ 139 002c 02       		.uleb128 0x2
+ 140 002d 01       		.byte	0x1
+ 141 002e 08       		.byte	0x8
+ 142 002f 96000000 		.4byte	.LASF1
+ 143 0033 02       		.uleb128 0x2
+ 144 0034 02       		.byte	0x2
+ 145 0035 05       		.byte	0x5
+ 146 0036 E5010000 		.4byte	.LASF2
+ 147 003a 02       		.uleb128 0x2
+ 148 003b 02       		.byte	0x2
+ 149 003c 07       		.byte	0x7
+ 150 003d 76000000 		.4byte	.LASF3
+ 151 0041 03       		.uleb128 0x3
+ 152 0042 2E000000 		.4byte	.LASF9
+ 153 0046 02       		.byte	0x2
+ 154 0047 3F       		.byte	0x3f
+ 155 0048 4C000000 		.4byte	0x4c
+ 156 004c 02       		.uleb128 0x2
+ 157 004d 04       		.byte	0x4
+ 158 004e 05       		.byte	0x5
+ 159 004f F5010000 		.4byte	.LASF4
+ 160 0053 02       		.uleb128 0x2
+ 161 0054 04       		.byte	0x4
+ 162 0055 07       		.byte	0x7
+ 163 0056 64000000 		.4byte	.LASF5
+ 164 005a 02       		.uleb128 0x2
+ 165 005b 08       		.byte	0x8
+ 166 005c 05       		.byte	0x5
+ 167 005d 96010000 		.4byte	.LASF6
+ 168 0061 02       		.uleb128 0x2
+ 169 0062 08       		.byte	0x8
+ 170 0063 07       		.byte	0x7
+ 171 0064 65010000 		.4byte	.LASF7
+ 172 0068 04       		.uleb128 0x4
+ 173 0069 04       		.byte	0x4
+ 174 006a 05       		.byte	0x5
+ 175 006b 696E7400 		.ascii	"int\000"
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 5
+
+
+ 176 006f 02       		.uleb128 0x2
+ 177 0070 04       		.byte	0x4
+ 178 0071 07       		.byte	0x7
+ 179 0072 58010000 		.4byte	.LASF8
+ 180 0076 03       		.uleb128 0x3
+ 181 0077 85010000 		.4byte	.LASF10
+ 182 007b 03       		.byte	0x3
+ 183 007c 2C       		.byte	0x2c
+ 184 007d 41000000 		.4byte	0x41
+ 185 0081 05       		.uleb128 0x5
+ 186 0082 EF010000 		.4byte	.LASF11
+ 187 0086 04       		.byte	0x4
+ 188 0087 9201     		.2byte	0x192
+ 189 0089 2C000000 		.4byte	0x2c
+ 190 008d 05       		.uleb128 0x5
+ 191 008e C3000000 		.4byte	.LASF12
+ 192 0092 04       		.byte	0x4
+ 193 0093 9401     		.2byte	0x194
+ 194 0095 53000000 		.4byte	0x53
+ 195 0099 02       		.uleb128 0x2
+ 196 009a 04       		.byte	0x4
+ 197 009b 04       		.byte	0x4
+ 198 009c 41000000 		.4byte	.LASF13
+ 199 00a0 02       		.uleb128 0x2
+ 200 00a1 08       		.byte	0x8
+ 201 00a2 04       		.byte	0x4
+ 202 00a3 A4000000 		.4byte	.LASF14
+ 203 00a7 05       		.uleb128 0x5
+ 204 00a8 5E000000 		.4byte	.LASF15
+ 205 00ac 04       		.byte	0x4
+ 206 00ad A301     		.2byte	0x1a3
+ 207 00af B3000000 		.4byte	0xb3
+ 208 00b3 02       		.uleb128 0x2
+ 209 00b4 01       		.byte	0x1
+ 210 00b5 08       		.byte	0x8
+ 211 00b6 A4010000 		.4byte	.LASF16
+ 212 00ba 02       		.uleb128 0x2
+ 213 00bb 04       		.byte	0x4
+ 214 00bc 07       		.byte	0x7
+ 215 00bd 8D010000 		.4byte	.LASF17
+ 216 00c1 06       		.uleb128 0x6
+ 217 00c2 AB000000 		.4byte	.LASF30
+ 218 00c6 01       		.byte	0x1
+ 219 00c7 0F       		.byte	0xf
+ 220 00c8 68000000 		.4byte	0x68
+ 221 00cc 00000000 		.4byte	.LFB63
+ 222 00d0 60000000 		.4byte	.LFE63-.LFB63
+ 223 00d4 01       		.uleb128 0x1
+ 224 00d5 9C       		.byte	0x9c
+ 225 00d6 9C010000 		.4byte	0x19c
+ 226 00da 07       		.uleb128 0x7
+ 227 00db 25000000 		.4byte	.LASF18
+ 228 00df 01       		.byte	0x1
+ 229 00e0 14       		.byte	0x14
+ 230 00e1 B3000000 		.4byte	0xb3
+ 231 00e5 00000000 		.4byte	.LLST0
+ 232 00e9 07       		.uleb128 0x7
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 6
+
+
+ 233 00ea 58000000 		.4byte	.LASF19
+ 234 00ee 01       		.byte	0x1
+ 235 00ef 15       		.byte	0x15
+ 236 00f0 68000000 		.4byte	0x68
+ 237 00f4 13000000 		.4byte	.LLST1
+ 238 00f8 08       		.uleb128 0x8
+ 239 00f9 7C010000 		.4byte	.LASF20
+ 240 00fd 01       		.byte	0x1
+ 241 00fe 18       		.byte	0x18
+ 242 00ff 9C010000 		.4byte	0x19c
+ 243 0103 02       		.uleb128 0x2
+ 244 0104 91       		.byte	0x91
+ 245 0105 58       		.sleb128 -40
+ 246 0106 09       		.uleb128 0x9
+ 247 0107 08000000 		.4byte	.LVL0
+ 248 010b BD010000 		.4byte	0x1bd
+ 249 010f 09       		.uleb128 0x9
+ 250 0110 0C000000 		.4byte	.LVL1
+ 251 0114 C4010000 		.4byte	0x1c4
+ 252 0118 0A       		.uleb128 0xa
+ 253 0119 26000000 		.4byte	.LVL2
+ 254 011d CB010000 		.4byte	0x1cb
+ 255 0121 30010000 		.4byte	0x130
+ 256 0125 0B       		.uleb128 0xb
+ 257 0126 01       		.uleb128 0x1
+ 258 0127 51       		.byte	0x51
+ 259 0128 01       		.uleb128 0x1
+ 260 0129 30       		.byte	0x30
+ 261 012a 0B       		.uleb128 0xb
+ 262 012b 01       		.uleb128 0x1
+ 263 012c 50       		.byte	0x50
+ 264 012d 01       		.uleb128 0x1
+ 265 012e 30       		.byte	0x30
+ 266 012f 00       		.byte	0
+ 267 0130 0A       		.uleb128 0xa
+ 268 0131 2E000000 		.4byte	.LVL4
+ 269 0135 E1010000 		.4byte	0x1e1
+ 270 0139 44010000 		.4byte	0x144
+ 271 013d 0B       		.uleb128 0xb
+ 272 013e 01       		.uleb128 0x1
+ 273 013f 50       		.byte	0x50
+ 274 0140 02       		.uleb128 0x2
+ 275 0141 7D       		.byte	0x7d
+ 276 0142 00       		.sleb128 0
+ 277 0143 00       		.byte	0
+ 278 0144 0A       		.uleb128 0xa
+ 279 0145 34000000 		.4byte	.LVL5
+ 280 0149 FD010000 		.4byte	0x1fd
+ 281 014d 57010000 		.4byte	0x157
+ 282 0151 0B       		.uleb128 0xb
+ 283 0152 01       		.uleb128 0x1
+ 284 0153 50       		.byte	0x50
+ 285 0154 01       		.uleb128 0x1
+ 286 0155 3A       		.byte	0x3a
+ 287 0156 00       		.byte	0
+ 288 0157 09       		.uleb128 0x9
+ 289 0158 38000000 		.4byte	.LVL6
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 7
+
+
+ 290 015c 0E020000 		.4byte	0x20e
+ 291 0160 0A       		.uleb128 0xa
+ 292 0161 46000000 		.4byte	.LVL8
+ 293 0165 19020000 		.4byte	0x219
+ 294 0169 73010000 		.4byte	0x173
+ 295 016d 0B       		.uleb128 0xb
+ 296 016e 01       		.uleb128 0x1
+ 297 016f 50       		.byte	0x50
+ 298 0170 01       		.uleb128 0x1
+ 299 0171 31       		.byte	0x31
+ 300 0172 00       		.byte	0
+ 301 0173 0A       		.uleb128 0xa
+ 302 0174 4C000000 		.4byte	.LVL9
+ 303 0178 2A020000 		.4byte	0x22a
+ 304 017c 87010000 		.4byte	0x187
+ 305 0180 0B       		.uleb128 0xb
+ 306 0181 01       		.uleb128 0x1
+ 307 0182 50       		.byte	0x50
+ 308 0183 02       		.uleb128 0x2
+ 309 0184 74       		.byte	0x74
+ 310 0185 00       		.sleb128 0
+ 311 0186 00       		.byte	0
+ 312 0187 0C       		.uleb128 0xc
+ 313 0188 5A000000 		.4byte	.LVL11
+ 314 018c CB010000 		.4byte	0x1cb
+ 315 0190 0B       		.uleb128 0xb
+ 316 0191 01       		.uleb128 0x1
+ 317 0192 51       		.byte	0x51
+ 318 0193 01       		.uleb128 0x1
+ 319 0194 30       		.byte	0x30
+ 320 0195 0B       		.uleb128 0xb
+ 321 0196 01       		.uleb128 0x1
+ 322 0197 50       		.byte	0x50
+ 323 0198 01       		.uleb128 0x1
+ 324 0199 30       		.byte	0x30
+ 325 019a 00       		.byte	0
+ 326 019b 00       		.byte	0
+ 327 019c 0D       		.uleb128 0xd
+ 328 019d B3000000 		.4byte	0xb3
+ 329 01a1 AC010000 		.4byte	0x1ac
+ 330 01a5 0E       		.uleb128 0xe
+ 331 01a6 BA000000 		.4byte	0xba
+ 332 01aa 15       		.byte	0x15
+ 333 01ab 00       		.byte	0
+ 334 01ac 0F       		.uleb128 0xf
+ 335 01ad 89000000 		.4byte	.LASF31
+ 336 01b1 08       		.byte	0x8
+ 337 01b2 9606     		.2byte	0x696
+ 338 01b4 B8010000 		.4byte	0x1b8
+ 339 01b8 10       		.uleb128 0x10
+ 340 01b9 76000000 		.4byte	0x76
+ 341 01bd 11       		.uleb128 0x11
+ 342 01be 00000000 		.4byte	.LASF21
+ 343 01c2 05       		.byte	0x5
+ 344 01c3 54       		.byte	0x54
+ 345 01c4 11       		.uleb128 0x11
+ 346 01c5 47000000 		.4byte	.LASF22
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 8
+
+
+ 347 01c9 06       		.byte	0x6
+ 348 01ca 38       		.byte	0x38
+ 349 01cb 12       		.uleb128 0x12
+ 350 01cc D1010000 		.4byte	.LASF23
+ 351 01d0 06       		.byte	0x6
+ 352 01d1 3D       		.byte	0x3d
+ 353 01d2 E1010000 		.4byte	0x1e1
+ 354 01d6 13       		.uleb128 0x13
+ 355 01d7 81000000 		.4byte	0x81
+ 356 01db 13       		.uleb128 0x13
+ 357 01dc 81000000 		.4byte	0x81
+ 358 01e0 00       		.byte	0
+ 359 01e1 12       		.uleb128 0x12
+ 360 01e2 0A020000 		.4byte	.LASF24
+ 361 01e6 05       		.byte	0x5
+ 362 01e7 8B       		.byte	0x8b
+ 363 01e8 F2010000 		.4byte	0x1f2
+ 364 01ec 13       		.uleb128 0x13
+ 365 01ed F2010000 		.4byte	0x1f2
+ 366 01f1 00       		.byte	0
+ 367 01f2 14       		.uleb128 0x14
+ 368 01f3 04       		.byte	0x4
+ 369 01f4 F8010000 		.4byte	0x1f8
+ 370 01f8 15       		.uleb128 0x15
+ 371 01f9 A7000000 		.4byte	0xa7
+ 372 01fd 12       		.uleb128 0x12
+ 373 01fe 1B020000 		.4byte	.LASF25
+ 374 0202 07       		.byte	0x7
+ 375 0203 76       		.byte	0x76
+ 376 0204 0E020000 		.4byte	0x20e
+ 377 0208 13       		.uleb128 0x13
+ 378 0209 8D000000 		.4byte	0x8d
+ 379 020d 00       		.byte	0
+ 380 020e 16       		.uleb128 0x16
+ 381 020f 23020000 		.4byte	.LASF32
+ 382 0213 05       		.byte	0x5
+ 383 0214 71       		.byte	0x71
+ 384 0215 81000000 		.4byte	0x81
+ 385 0219 12       		.uleb128 0x12
+ 386 021a 0D000000 		.4byte	.LASF26
+ 387 021e 06       		.byte	0x6
+ 388 021f 3A       		.byte	0x3a
+ 389 0220 2A020000 		.4byte	0x22a
+ 390 0224 13       		.uleb128 0x13
+ 391 0225 81000000 		.4byte	0x81
+ 392 0229 00       		.byte	0
+ 393 022a 17       		.uleb128 0x17
+ 394 022b B0000000 		.4byte	.LASF33
+ 395 022f 06       		.byte	0x6
+ 396 0230 3E       		.byte	0x3e
+ 397 0231 13       		.uleb128 0x13
+ 398 0232 A7000000 		.4byte	0xa7
+ 399 0236 00       		.byte	0
+ 400 0237 00       		.byte	0
+ 401              		.section	.debug_abbrev,"",%progbits
+ 402              	.Ldebug_abbrev0:
+ 403 0000 01       		.uleb128 0x1
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 9
+
+
+ 404 0001 11       		.uleb128 0x11
+ 405 0002 01       		.byte	0x1
+ 406 0003 25       		.uleb128 0x25
+ 407 0004 0E       		.uleb128 0xe
+ 408 0005 13       		.uleb128 0x13
+ 409 0006 0B       		.uleb128 0xb
+ 410 0007 03       		.uleb128 0x3
+ 411 0008 0E       		.uleb128 0xe
+ 412 0009 1B       		.uleb128 0x1b
+ 413 000a 0E       		.uleb128 0xe
+ 414 000b 55       		.uleb128 0x55
+ 415 000c 17       		.uleb128 0x17
+ 416 000d 11       		.uleb128 0x11
+ 417 000e 01       		.uleb128 0x1
+ 418 000f 10       		.uleb128 0x10
+ 419 0010 17       		.uleb128 0x17
+ 420 0011 00       		.byte	0
+ 421 0012 00       		.byte	0
+ 422 0013 02       		.uleb128 0x2
+ 423 0014 24       		.uleb128 0x24
+ 424 0015 00       		.byte	0
+ 425 0016 0B       		.uleb128 0xb
+ 426 0017 0B       		.uleb128 0xb
+ 427 0018 3E       		.uleb128 0x3e
+ 428 0019 0B       		.uleb128 0xb
+ 429 001a 03       		.uleb128 0x3
+ 430 001b 0E       		.uleb128 0xe
+ 431 001c 00       		.byte	0
+ 432 001d 00       		.byte	0
+ 433 001e 03       		.uleb128 0x3
+ 434 001f 16       		.uleb128 0x16
+ 435 0020 00       		.byte	0
+ 436 0021 03       		.uleb128 0x3
+ 437 0022 0E       		.uleb128 0xe
+ 438 0023 3A       		.uleb128 0x3a
+ 439 0024 0B       		.uleb128 0xb
+ 440 0025 3B       		.uleb128 0x3b
+ 441 0026 0B       		.uleb128 0xb
+ 442 0027 49       		.uleb128 0x49
+ 443 0028 13       		.uleb128 0x13
+ 444 0029 00       		.byte	0
+ 445 002a 00       		.byte	0
+ 446 002b 04       		.uleb128 0x4
+ 447 002c 24       		.uleb128 0x24
+ 448 002d 00       		.byte	0
+ 449 002e 0B       		.uleb128 0xb
+ 450 002f 0B       		.uleb128 0xb
+ 451 0030 3E       		.uleb128 0x3e
+ 452 0031 0B       		.uleb128 0xb
+ 453 0032 03       		.uleb128 0x3
+ 454 0033 08       		.uleb128 0x8
+ 455 0034 00       		.byte	0
+ 456 0035 00       		.byte	0
+ 457 0036 05       		.uleb128 0x5
+ 458 0037 16       		.uleb128 0x16
+ 459 0038 00       		.byte	0
+ 460 0039 03       		.uleb128 0x3
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 10
+
+
+ 461 003a 0E       		.uleb128 0xe
+ 462 003b 3A       		.uleb128 0x3a
+ 463 003c 0B       		.uleb128 0xb
+ 464 003d 3B       		.uleb128 0x3b
+ 465 003e 05       		.uleb128 0x5
+ 466 003f 49       		.uleb128 0x49
+ 467 0040 13       		.uleb128 0x13
+ 468 0041 00       		.byte	0
+ 469 0042 00       		.byte	0
+ 470 0043 06       		.uleb128 0x6
+ 471 0044 2E       		.uleb128 0x2e
+ 472 0045 01       		.byte	0x1
+ 473 0046 3F       		.uleb128 0x3f
+ 474 0047 19       		.uleb128 0x19
+ 475 0048 03       		.uleb128 0x3
+ 476 0049 0E       		.uleb128 0xe
+ 477 004a 3A       		.uleb128 0x3a
+ 478 004b 0B       		.uleb128 0xb
+ 479 004c 3B       		.uleb128 0x3b
+ 480 004d 0B       		.uleb128 0xb
+ 481 004e 49       		.uleb128 0x49
+ 482 004f 13       		.uleb128 0x13
+ 483 0050 11       		.uleb128 0x11
+ 484 0051 01       		.uleb128 0x1
+ 485 0052 12       		.uleb128 0x12
+ 486 0053 06       		.uleb128 0x6
+ 487 0054 40       		.uleb128 0x40
+ 488 0055 18       		.uleb128 0x18
+ 489 0056 9742     		.uleb128 0x2117
+ 490 0058 19       		.uleb128 0x19
+ 491 0059 01       		.uleb128 0x1
+ 492 005a 13       		.uleb128 0x13
+ 493 005b 00       		.byte	0
+ 494 005c 00       		.byte	0
+ 495 005d 07       		.uleb128 0x7
+ 496 005e 34       		.uleb128 0x34
+ 497 005f 00       		.byte	0
+ 498 0060 03       		.uleb128 0x3
+ 499 0061 0E       		.uleb128 0xe
+ 500 0062 3A       		.uleb128 0x3a
+ 501 0063 0B       		.uleb128 0xb
+ 502 0064 3B       		.uleb128 0x3b
+ 503 0065 0B       		.uleb128 0xb
+ 504 0066 49       		.uleb128 0x49
+ 505 0067 13       		.uleb128 0x13
+ 506 0068 02       		.uleb128 0x2
+ 507 0069 17       		.uleb128 0x17
+ 508 006a 00       		.byte	0
+ 509 006b 00       		.byte	0
+ 510 006c 08       		.uleb128 0x8
+ 511 006d 34       		.uleb128 0x34
+ 512 006e 00       		.byte	0
+ 513 006f 03       		.uleb128 0x3
+ 514 0070 0E       		.uleb128 0xe
+ 515 0071 3A       		.uleb128 0x3a
+ 516 0072 0B       		.uleb128 0xb
+ 517 0073 3B       		.uleb128 0x3b
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 11
+
+
+ 518 0074 0B       		.uleb128 0xb
+ 519 0075 49       		.uleb128 0x49
+ 520 0076 13       		.uleb128 0x13
+ 521 0077 02       		.uleb128 0x2
+ 522 0078 18       		.uleb128 0x18
+ 523 0079 00       		.byte	0
+ 524 007a 00       		.byte	0
+ 525 007b 09       		.uleb128 0x9
+ 526 007c 898201   		.uleb128 0x4109
+ 527 007f 00       		.byte	0
+ 528 0080 11       		.uleb128 0x11
+ 529 0081 01       		.uleb128 0x1
+ 530 0082 31       		.uleb128 0x31
+ 531 0083 13       		.uleb128 0x13
+ 532 0084 00       		.byte	0
+ 533 0085 00       		.byte	0
+ 534 0086 0A       		.uleb128 0xa
+ 535 0087 898201   		.uleb128 0x4109
+ 536 008a 01       		.byte	0x1
+ 537 008b 11       		.uleb128 0x11
+ 538 008c 01       		.uleb128 0x1
+ 539 008d 31       		.uleb128 0x31
+ 540 008e 13       		.uleb128 0x13
+ 541 008f 01       		.uleb128 0x1
+ 542 0090 13       		.uleb128 0x13
+ 543 0091 00       		.byte	0
+ 544 0092 00       		.byte	0
+ 545 0093 0B       		.uleb128 0xb
+ 546 0094 8A8201   		.uleb128 0x410a
+ 547 0097 00       		.byte	0
+ 548 0098 02       		.uleb128 0x2
+ 549 0099 18       		.uleb128 0x18
+ 550 009a 9142     		.uleb128 0x2111
+ 551 009c 18       		.uleb128 0x18
+ 552 009d 00       		.byte	0
+ 553 009e 00       		.byte	0
+ 554 009f 0C       		.uleb128 0xc
+ 555 00a0 898201   		.uleb128 0x4109
+ 556 00a3 01       		.byte	0x1
+ 557 00a4 11       		.uleb128 0x11
+ 558 00a5 01       		.uleb128 0x1
+ 559 00a6 31       		.uleb128 0x31
+ 560 00a7 13       		.uleb128 0x13
+ 561 00a8 00       		.byte	0
+ 562 00a9 00       		.byte	0
+ 563 00aa 0D       		.uleb128 0xd
+ 564 00ab 01       		.uleb128 0x1
+ 565 00ac 01       		.byte	0x1
+ 566 00ad 49       		.uleb128 0x49
+ 567 00ae 13       		.uleb128 0x13
+ 568 00af 01       		.uleb128 0x1
+ 569 00b0 13       		.uleb128 0x13
+ 570 00b1 00       		.byte	0
+ 571 00b2 00       		.byte	0
+ 572 00b3 0E       		.uleb128 0xe
+ 573 00b4 21       		.uleb128 0x21
+ 574 00b5 00       		.byte	0
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 12
+
+
+ 575 00b6 49       		.uleb128 0x49
+ 576 00b7 13       		.uleb128 0x13
+ 577 00b8 2F       		.uleb128 0x2f
+ 578 00b9 0B       		.uleb128 0xb
+ 579 00ba 00       		.byte	0
+ 580 00bb 00       		.byte	0
+ 581 00bc 0F       		.uleb128 0xf
+ 582 00bd 34       		.uleb128 0x34
+ 583 00be 00       		.byte	0
+ 584 00bf 03       		.uleb128 0x3
+ 585 00c0 0E       		.uleb128 0xe
+ 586 00c1 3A       		.uleb128 0x3a
+ 587 00c2 0B       		.uleb128 0xb
+ 588 00c3 3B       		.uleb128 0x3b
+ 589 00c4 05       		.uleb128 0x5
+ 590 00c5 49       		.uleb128 0x49
+ 591 00c6 13       		.uleb128 0x13
+ 592 00c7 3F       		.uleb128 0x3f
+ 593 00c8 19       		.uleb128 0x19
+ 594 00c9 3C       		.uleb128 0x3c
+ 595 00ca 19       		.uleb128 0x19
+ 596 00cb 00       		.byte	0
+ 597 00cc 00       		.byte	0
+ 598 00cd 10       		.uleb128 0x10
+ 599 00ce 35       		.uleb128 0x35
+ 600 00cf 00       		.byte	0
+ 601 00d0 49       		.uleb128 0x49
+ 602 00d1 13       		.uleb128 0x13
+ 603 00d2 00       		.byte	0
+ 604 00d3 00       		.byte	0
+ 605 00d4 11       		.uleb128 0x11
+ 606 00d5 2E       		.uleb128 0x2e
+ 607 00d6 00       		.byte	0
+ 608 00d7 3F       		.uleb128 0x3f
+ 609 00d8 19       		.uleb128 0x19
+ 610 00d9 03       		.uleb128 0x3
+ 611 00da 0E       		.uleb128 0xe
+ 612 00db 3A       		.uleb128 0x3a
+ 613 00dc 0B       		.uleb128 0xb
+ 614 00dd 3B       		.uleb128 0x3b
+ 615 00de 0B       		.uleb128 0xb
+ 616 00df 27       		.uleb128 0x27
+ 617 00e0 19       		.uleb128 0x19
+ 618 00e1 3C       		.uleb128 0x3c
+ 619 00e2 19       		.uleb128 0x19
+ 620 00e3 00       		.byte	0
+ 621 00e4 00       		.byte	0
+ 622 00e5 12       		.uleb128 0x12
+ 623 00e6 2E       		.uleb128 0x2e
+ 624 00e7 01       		.byte	0x1
+ 625 00e8 3F       		.uleb128 0x3f
+ 626 00e9 19       		.uleb128 0x19
+ 627 00ea 03       		.uleb128 0x3
+ 628 00eb 0E       		.uleb128 0xe
+ 629 00ec 3A       		.uleb128 0x3a
+ 630 00ed 0B       		.uleb128 0xb
+ 631 00ee 3B       		.uleb128 0x3b
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 13
+
+
+ 632 00ef 0B       		.uleb128 0xb
+ 633 00f0 27       		.uleb128 0x27
+ 634 00f1 19       		.uleb128 0x19
+ 635 00f2 3C       		.uleb128 0x3c
+ 636 00f3 19       		.uleb128 0x19
+ 637 00f4 01       		.uleb128 0x1
+ 638 00f5 13       		.uleb128 0x13
+ 639 00f6 00       		.byte	0
+ 640 00f7 00       		.byte	0
+ 641 00f8 13       		.uleb128 0x13
+ 642 00f9 05       		.uleb128 0x5
+ 643 00fa 00       		.byte	0
+ 644 00fb 49       		.uleb128 0x49
+ 645 00fc 13       		.uleb128 0x13
+ 646 00fd 00       		.byte	0
+ 647 00fe 00       		.byte	0
+ 648 00ff 14       		.uleb128 0x14
+ 649 0100 0F       		.uleb128 0xf
+ 650 0101 00       		.byte	0
+ 651 0102 0B       		.uleb128 0xb
+ 652 0103 0B       		.uleb128 0xb
+ 653 0104 49       		.uleb128 0x49
+ 654 0105 13       		.uleb128 0x13
+ 655 0106 00       		.byte	0
+ 656 0107 00       		.byte	0
+ 657 0108 15       		.uleb128 0x15
+ 658 0109 26       		.uleb128 0x26
+ 659 010a 00       		.byte	0
+ 660 010b 49       		.uleb128 0x49
+ 661 010c 13       		.uleb128 0x13
+ 662 010d 00       		.byte	0
+ 663 010e 00       		.byte	0
+ 664 010f 16       		.uleb128 0x16
+ 665 0110 2E       		.uleb128 0x2e
+ 666 0111 00       		.byte	0
+ 667 0112 3F       		.uleb128 0x3f
+ 668 0113 19       		.uleb128 0x19
+ 669 0114 03       		.uleb128 0x3
+ 670 0115 0E       		.uleb128 0xe
+ 671 0116 3A       		.uleb128 0x3a
+ 672 0117 0B       		.uleb128 0xb
+ 673 0118 3B       		.uleb128 0x3b
+ 674 0119 0B       		.uleb128 0xb
+ 675 011a 27       		.uleb128 0x27
+ 676 011b 19       		.uleb128 0x19
+ 677 011c 49       		.uleb128 0x49
+ 678 011d 13       		.uleb128 0x13
+ 679 011e 3C       		.uleb128 0x3c
+ 680 011f 19       		.uleb128 0x19
+ 681 0120 00       		.byte	0
+ 682 0121 00       		.byte	0
+ 683 0122 17       		.uleb128 0x17
+ 684 0123 2E       		.uleb128 0x2e
+ 685 0124 01       		.byte	0x1
+ 686 0125 3F       		.uleb128 0x3f
+ 687 0126 19       		.uleb128 0x19
+ 688 0127 03       		.uleb128 0x3
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 14
+
+
+ 689 0128 0E       		.uleb128 0xe
+ 690 0129 3A       		.uleb128 0x3a
+ 691 012a 0B       		.uleb128 0xb
+ 692 012b 3B       		.uleb128 0x3b
+ 693 012c 0B       		.uleb128 0xb
+ 694 012d 27       		.uleb128 0x27
+ 695 012e 19       		.uleb128 0x19
+ 696 012f 3C       		.uleb128 0x3c
+ 697 0130 19       		.uleb128 0x19
+ 698 0131 00       		.byte	0
+ 699 0132 00       		.byte	0
+ 700 0133 00       		.byte	0
+ 701              		.section	.debug_loc,"",%progbits
+ 702              	.Ldebug_loc0:
+ 703              	.LLST0:
+ 704 0000 38000000 		.4byte	.LVL6
+ 705 0004 42000000 		.4byte	.LVL7
+ 706 0008 0100     		.2byte	0x1
+ 707 000a 50       		.byte	0x50
+ 708 000b 00000000 		.4byte	0
+ 709 000f 00000000 		.4byte	0
+ 710              	.LLST1:
+ 711 0013 26000000 		.4byte	.LVL2
+ 712 0017 28000000 		.4byte	.LVL3
+ 713 001b 0200     		.2byte	0x2
+ 714 001d 30       		.byte	0x30
+ 715 001e 9F       		.byte	0x9f
+ 716 001f 28000000 		.4byte	.LVL3
+ 717 0023 5A000000 		.4byte	.LVL11
+ 718 0027 0100     		.2byte	0x1
+ 719 0029 55       		.byte	0x55
+ 720 002a 5A000000 		.4byte	.LVL11
+ 721 002e 60000000 		.4byte	.LFE63
+ 722 0032 0200     		.2byte	0x2
+ 723 0034 30       		.byte	0x30
+ 724 0035 9F       		.byte	0x9f
+ 725 0036 00000000 		.4byte	0
+ 726 003a 00000000 		.4byte	0
+ 727              		.section	.debug_aranges,"",%progbits
+ 728 0000 1C000000 		.4byte	0x1c
+ 729 0004 0200     		.2byte	0x2
+ 730 0006 00000000 		.4byte	.Ldebug_info0
+ 731 000a 04       		.byte	0x4
+ 732 000b 00       		.byte	0
+ 733 000c 0000     		.2byte	0
+ 734 000e 0000     		.2byte	0
+ 735 0010 00000000 		.4byte	.LFB63
+ 736 0014 60000000 		.4byte	.LFE63-.LFB63
+ 737 0018 00000000 		.4byte	0
+ 738 001c 00000000 		.4byte	0
+ 739              		.section	.debug_ranges,"",%progbits
+ 740              	.Ldebug_ranges0:
+ 741 0000 00000000 		.4byte	.LFB63
+ 742 0004 60000000 		.4byte	.LFE63
+ 743 0008 00000000 		.4byte	0
+ 744 000c 00000000 		.4byte	0
+ 745              		.section	.debug_line,"",%progbits
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 15
+
+
+ 746              	.Ldebug_line0:
+ 747 0000 98010000 		.section	.debug_str,"MS",%progbits,1
+ 747      02007001 
+ 747      00000201 
+ 747      FB0E0D00 
+ 747      01010101 
+ 748              	.LASF21:
+ 749 0000 55415254 		.ascii	"UART_1_Start\000"
+ 749      5F315F53 
+ 749      74617274 
+ 749      00
+ 750              	.LASF26:
+ 751 000d 4C43445F 		.ascii	"LCD_Char_1_WriteControl\000"
+ 751      43686172 
+ 751      5F315F57 
+ 751      72697465 
+ 751      436F6E74 
+ 752              	.LASF18:
+ 753 0025 7468655F 		.ascii	"the_char\000"
+ 753      63686172 
+ 753      00
+ 754              	.LASF9:
+ 755 002e 5F5F696E 		.ascii	"__int32_t\000"
+ 755      7433325F 
+ 755      7400
+ 756              	.LASF28:
+ 757 0038 2E5C6D61 		.ascii	".\\main.c\000"
+ 757      696E2E63 
+ 757      00
+ 758              	.LASF13:
+ 759 0041 666C6F61 		.ascii	"float\000"
+ 759      7400
+ 760              	.LASF22:
+ 761 0047 4C43445F 		.ascii	"LCD_Char_1_Start\000"
+ 761      43686172 
+ 761      5F315F53 
+ 761      74617274 
+ 761      00
+ 762              	.LASF19:
+ 763 0058 635F6964 		.ascii	"c_idx\000"
+ 763      7800
+ 764              	.LASF15:
+ 765 005e 63686172 		.ascii	"char8\000"
+ 765      3800
+ 766              	.LASF5:
+ 767 0064 6C6F6E67 		.ascii	"long unsigned int\000"
+ 767      20756E73 
+ 767      69676E65 
+ 767      6420696E 
+ 767      7400
+ 768              	.LASF3:
+ 769 0076 73686F72 		.ascii	"short unsigned int\000"
+ 769      7420756E 
+ 769      7369676E 
+ 769      65642069 
+ 769      6E7400
+ 770              	.LASF31:
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 16
+
+
+ 771 0089 49544D5F 		.ascii	"ITM_RxBuffer\000"
+ 771      52784275 
+ 771      66666572 
+ 771      00
+ 772              	.LASF1:
+ 773 0096 756E7369 		.ascii	"unsigned char\000"
+ 773      676E6564 
+ 773      20636861 
+ 773      7200
+ 774              	.LASF14:
+ 775 00a4 646F7562 		.ascii	"double\000"
+ 775      6C6500
+ 776              	.LASF30:
+ 777 00ab 6D61696E 		.ascii	"main\000"
+ 777      00
+ 778              	.LASF33:
+ 779 00b0 4C43445F 		.ascii	"LCD_Char_1_PutChar\000"
+ 779      43686172 
+ 779      5F315F50 
+ 779      75744368 
+ 779      617200
+ 780              	.LASF12:
+ 781 00c3 75696E74 		.ascii	"uint32\000"
+ 781      333200
+ 782              	.LASF27:
+ 783 00ca 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+ 783      4320342E 
+ 783      392E3320 
+ 783      32303135 
+ 783      30333033 
+ 784 00fd 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m3 -mthumb -g -O"
+ 784      20726576 
+ 784      6973696F 
+ 784      6E203232 
+ 784      31323230 
+ 785 0130 67202D66 		.ascii	"g -ffunction-sections -ffat-lto-objects\000"
+ 785      66756E63 
+ 785      74696F6E 
+ 785      2D736563 
+ 785      74696F6E 
+ 786              	.LASF8:
+ 787 0158 756E7369 		.ascii	"unsigned int\000"
+ 787      676E6564 
+ 787      20696E74 
+ 787      00
+ 788              	.LASF7:
+ 789 0165 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 789      206C6F6E 
+ 789      6720756E 
+ 789      7369676E 
+ 789      65642069 
+ 790              	.LASF20:
+ 791 017c 6D797374 		.ascii	"mystring\000"
+ 791      72696E67 
+ 791      00
+ 792              	.LASF10:
+ 793 0185 696E7433 		.ascii	"int32_t\000"
+ARM GAS  C:\Users\quintor2\AppData\Local\Temp\ccSaqBfL.s 			page 17
+
+
+ 793      325F7400 
+ 794              	.LASF17:
+ 795 018d 73697A65 		.ascii	"sizetype\000"
+ 795      74797065 
+ 795      00
+ 796              	.LASF6:
+ 797 0196 6C6F6E67 		.ascii	"long long int\000"
+ 797      206C6F6E 
+ 797      6720696E 
+ 797      7400
+ 798              	.LASF16:
+ 799 01a4 63686172 		.ascii	"char\000"
+ 799      00
+ 800              	.LASF29:
+ 801 01a9 483A5C33 		.ascii	"H:\\343 lab 6\\Workspace01\\Design01.cydsn\000"
+ 801      3433206C 
+ 801      61622036 
+ 801      5C576F72 
+ 801      6B737061 
+ 802              	.LASF23:
+ 803 01d1 4C43445F 		.ascii	"LCD_Char_1_Position\000"
+ 803      43686172 
+ 803      5F315F50 
+ 803      6F736974 
+ 803      696F6E00 
+ 804              	.LASF2:
+ 805 01e5 73686F72 		.ascii	"short int\000"
+ 805      7420696E 
+ 805      7400
+ 806              	.LASF11:
+ 807 01ef 75696E74 		.ascii	"uint8\000"
+ 807      3800
+ 808              	.LASF4:
+ 809 01f5 6C6F6E67 		.ascii	"long int\000"
+ 809      20696E74 
+ 809      00
+ 810              	.LASF0:
+ 811 01fe 7369676E 		.ascii	"signed char\000"
+ 811      65642063 
+ 811      68617200 
+ 812              	.LASF24:
+ 813 020a 55415254 		.ascii	"UART_1_PutString\000"
+ 813      5F315F50 
+ 813      75745374 
+ 813      72696E67 
+ 813      00
+ 814              	.LASF25:
+ 815 021b 43794465 		.ascii	"CyDelay\000"
+ 815      6C617900 
+ 816              	.LASF32:
+ 817 0223 55415254 		.ascii	"UART_1_GetChar\000"
+ 817      5F315F47 
+ 817      65744368 
+ 817      617200
+ 818              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

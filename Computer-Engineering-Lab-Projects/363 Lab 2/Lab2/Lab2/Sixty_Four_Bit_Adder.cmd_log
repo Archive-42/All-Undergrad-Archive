@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.xst" -ofn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.syr" 
+xst -intstyle ise -ifn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.xst" -ofn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.syr" 
+xst -intstyle ise -ifn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.xst" -ofn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.syr" 
+xst -intstyle ise -ifn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.xst" -ofn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.syr" 
+xst -intstyle ise -ifn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.xst" -ofn "H:/363/Lab2/Lab2/Sixty_Four_Bit_Adder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Sixty_Four_Bit_Adder.ngc Sixty_Four_Bit_Adder.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Sixty_Four_Bit_Adder_map.ncd Sixty_Four_Bit_Adder.ngd Sixty_Four_Bit_Adder.pcf 

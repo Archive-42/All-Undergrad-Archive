@@ -1,0 +1,50 @@
+Running: C:\Xilinx\14.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o H:/363 Lab 5/Lab5/Test_BENCH_MAIN_isim_beh.exe -prj H:/363 Lab 5/Lab5/Test_BENCH_MAIN_beh.prj work.Test_BENCH_MAIN work.glbl 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "H:/363 Lab 5/Lab5/PC.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/mux3.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/mux2.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/mux1.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/memory.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/MD.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/MA.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/IR.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/INC.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/CONTROL.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/C.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/ALU.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/AC.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/MAIN.v" into library work
+Analyzing Verilog file "H:/363 Lab 5/Lab5/Test_BENCH_MAIN.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:329 - "H:/363 Lab 5/Lab5/MAIN.v" Line 73: Target <cout> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:329 - "H:/363 Lab 5/Lab5/MAIN.v" Line 74: Target <cin> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:329 - "H:/363 Lab 5/Lab5/MAIN.v" Line 75: Target <AC> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:329 - "H:/363 Lab 5/Lab5/MAIN.v" Line 79: Target <PC> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:329 - "H:/363 Lab 5/Lab5/MAIN.v" Line 83: Target <mux3out> of concurrent assignment or output port connection should be a net type.
+Completed static elaboration
+Compiling module MD
+Compiling module IR
+Compiling module ALU
+Compiling module C
+Compiling module AC
+Compiling module mux1
+Compiling module mux2
+Compiling module MA
+Compiling module PC
+Compiling module INC
+Compiling module memory
+Compiling module mux3
+Compiling module CONTROL
+Compiling module MAIN
+Compiling module Test_BENCH_MAIN
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 16 Verilog Units
+Built simulation executable H:/363 Lab 5/Lab5/Test_BENCH_MAIN_isim_beh.exe
+Fuse Memory Usage: 28636 KB
+Fuse CPU Usage: 795 ms

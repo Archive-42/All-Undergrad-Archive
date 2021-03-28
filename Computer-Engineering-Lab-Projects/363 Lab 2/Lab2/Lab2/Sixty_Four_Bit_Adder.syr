@@ -1,0 +1,428 @@
+Release 14.2 - xst P.28xd (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.21 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.21 secs
+ 
+--> Reading design: Sixty_Four_Bit_Adder.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "Sixty_Four_Bit_Adder.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "Sixty_Four_Bit_Adder"
+Output Format                      : NGC
+Target Device                      : xc7a100t-3-csg324
+
+---- Source Options
+Top Module Name                    : Sixty_Four_Bit_Adder
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 32
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "\\lions.tcnj.edu\public\homest\quintor2\363\Lab2\Lab2\Sixty_Four_Bit_Adder.v" into library work
+Parsing module <full_adder>.
+Parsing module <Sixty_Four_Bit_Adder>.
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+
+Elaborating module <Sixty_Four_Bit_Adder>.
+
+Elaborating module <full_adder>.
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <Sixty_Four_Bit_Adder>.
+    Related source file is "\\lions.tcnj.edu\public\homest\quintor2\363\Lab2\Lab2\Sixty_Four_Bit_Adder.v".
+    Summary:
+	no macro.
+Unit <Sixty_Four_Bit_Adder> synthesized.
+
+Synthesizing Unit <full_adder>.
+    Related source file is "\\lions.tcnj.edu\public\homest\quintor2\363\Lab2\Lab2\Sixty_Four_Bit_Adder.v".
+    Summary:
+Unit <full_adder> synthesized.
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Xors                                                 : 128
+ 1-bit xor2                                            : 128
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Xors                                                 : 128
+ 1-bit xor2                                            : 128
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple48.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple45.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple42.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple39.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple36.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple33.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple30.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple27.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple24.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple21.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple18.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple15.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple61.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple12.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple58.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple9.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple55.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple6.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple52.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple3.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple49.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple0.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple46.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple43.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple40.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple37.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple34.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple31.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple28.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple25.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple22.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple19.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple16.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple62.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple13.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple59.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple10.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple56.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple7.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple53.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple4.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple50.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple1.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple47.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple44.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple41.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple38.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple35.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple32.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple29.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple26.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple23.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple20.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple17.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: SUM<64>.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple14.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple60.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple11.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple57.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple8.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple54.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple5.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple51.
+WARNING:Xst:2170 - Unit Sixty_Four_Bit_Adder : the following signal(s) form a combinatorial loop: ripple2.
+
+Optimizing unit <Sixty_Four_Bit_Adder> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block Sixty_Four_Bit_Adder, actual ratio is 0.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Design Summary                             *
+=========================================================================
+
+Top Level Output File Name         : Sixty_Four_Bit_Adder.ngc
+
+Primitive and Black Box Usage:
+------------------------------
+# BELS                             : 129
+#      GND                         : 1
+#      LUT2                        : 1
+#      LUT3                        : 64
+#      LUT4                        : 63
+# IO Buffers                       : 194
+#      IBUF                        : 128
+#      OBUF                        : 66
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 7a100tcsg324-3 
+
+
+Slice Logic Utilization: 
+ Number of Slice LUTs:                  128  out of  63400     0%  
+    Number used as Logic:               128  out of  63400     0%  
+
+Slice Logic Distribution: 
+ Number of LUT Flip Flop pairs used:    128
+   Number with an unused Flip Flop:     128  out of    128   100%  
+   Number with an unused LUT:             0  out of    128     0%  
+   Number of fully used LUT-FF pairs:     0  out of    128     0%  
+   Number of unique control sets:         0
+
+IO Utilization: 
+ Number of IOs:                         195
+ Number of bonded IOBs:                 194  out of    210    92%  
+
+Specific Feature Utilization:
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+Timing Report
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+No clock signals found in this design
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -3
+
+   Minimum period: No path found
+   Minimum input arrival time before clock: No path found
+   Maximum output required time after clock: No path found
+   Maximum combinational path delay: 31.521ns
+
+Timing Details:
+---------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default path analysis
+  Total number of paths / destination ports: 4288 / 65
+-------------------------------------------------------------------------
+Delay:               31.521ns (Levels of Logic = 66)
+  Source:            B<0> (PAD)
+  Destination:       SUM<64> (PAD)
+
+  Data Path: B<0> to SUM<64>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O             2   0.001   0.515  B_0_IBUF (B_0_IBUF)
+     LUT3:I0->O            3   0.097   0.389  s0/CARRY_OUT1 (ripple0)
+     LUT4:I2->O            3   0.097   0.389  s1/CARRY_OUT1 (ripple1)
+     LUT4:I2->O            3   0.097   0.389  s2/CARRY_OUT1 (ripple2)
+     LUT4:I2->O            3   0.097   0.389  s3/CARRY_OUT1 (ripple3)
+     LUT4:I2->O            3   0.097   0.389  s4/CARRY_OUT1 (ripple4)
+     LUT4:I2->O            3   0.097   0.389  s5/CARRY_OUT1 (ripple5)
+     LUT4:I2->O            3   0.097   0.389  s6/CARRY_OUT1 (ripple6)
+     LUT4:I2->O            3   0.097   0.389  s7/CARRY_OUT1 (ripple7)
+     LUT4:I2->O            3   0.097   0.389  s8/CARRY_OUT1 (ripple8)
+     LUT4:I2->O            3   0.097   0.389  s9/CARRY_OUT1 (ripple9)
+     LUT4:I2->O            3   0.097   0.389  s10/CARRY_OUT1 (ripple10)
+     LUT4:I2->O            3   0.097   0.389  s11/CARRY_OUT1 (ripple11)
+     LUT4:I2->O            3   0.097   0.389  s12/CARRY_OUT1 (ripple12)
+     LUT4:I2->O            3   0.097   0.389  s13/CARRY_OUT1 (ripple13)
+     LUT4:I2->O            3   0.097   0.389  s14/CARRY_OUT1 (ripple14)
+     LUT4:I2->O            3   0.097   0.389  s15/CARRY_OUT1 (ripple15)
+     LUT4:I2->O            3   0.097   0.389  s16/CARRY_OUT1 (ripple16)
+     LUT4:I2->O            3   0.097   0.389  s17/CARRY_OUT1 (ripple17)
+     LUT4:I2->O            3   0.097   0.389  s18/CARRY_OUT1 (ripple18)
+     LUT4:I2->O            3   0.097   0.389  s19/CARRY_OUT1 (ripple19)
+     LUT4:I2->O            3   0.097   0.389  s20/CARRY_OUT1 (ripple20)
+     LUT4:I2->O            3   0.097   0.389  s21/CARRY_OUT1 (ripple21)
+     LUT4:I2->O            3   0.097   0.389  s22/CARRY_OUT1 (ripple22)
+     LUT4:I2->O            3   0.097   0.389  s23/CARRY_OUT1 (ripple23)
+     LUT4:I2->O            3   0.097   0.389  s24/CARRY_OUT1 (ripple24)
+     LUT4:I2->O            3   0.097   0.389  s25/CARRY_OUT1 (ripple25)
+     LUT4:I2->O            3   0.097   0.389  s26/CARRY_OUT1 (ripple26)
+     LUT4:I2->O            3   0.097   0.389  s27/CARRY_OUT1 (ripple27)
+     LUT4:I2->O            3   0.097   0.389  s28/CARRY_OUT1 (ripple28)
+     LUT4:I2->O            3   0.097   0.389  s29/CARRY_OUT1 (ripple29)
+     LUT4:I2->O            3   0.097   0.389  s30/CARRY_OUT1 (ripple30)
+     LUT4:I2->O            3   0.097   0.389  s31/CARRY_OUT1 (ripple31)
+     LUT4:I2->O            3   0.097   0.389  s32/CARRY_OUT1 (ripple32)
+     LUT4:I2->O            3   0.097   0.389  s33/CARRY_OUT1 (ripple33)
+     LUT4:I2->O            3   0.097   0.389  s34/CARRY_OUT1 (ripple34)
+     LUT4:I2->O            3   0.097   0.389  s35/CARRY_OUT1 (ripple35)
+     LUT4:I2->O            3   0.097   0.389  s36/CARRY_OUT1 (ripple36)
+     LUT4:I2->O            3   0.097   0.389  s37/CARRY_OUT1 (ripple37)
+     LUT4:I2->O            3   0.097   0.389  s38/CARRY_OUT1 (ripple38)
+     LUT4:I2->O            3   0.097   0.389  s39/CARRY_OUT1 (ripple39)
+     LUT4:I2->O            3   0.097   0.389  s40/CARRY_OUT1 (ripple40)
+     LUT4:I2->O            3   0.097   0.389  s41/CARRY_OUT1 (ripple41)
+     LUT4:I2->O            3   0.097   0.389  s42/CARRY_OUT1 (ripple42)
+     LUT4:I2->O            3   0.097   0.389  s43/CARRY_OUT1 (ripple43)
+     LUT4:I2->O            3   0.097   0.389  s44/CARRY_OUT1 (ripple44)
+     LUT4:I2->O            3   0.097   0.389  s45/CARRY_OUT1 (ripple45)
+     LUT4:I2->O            3   0.097   0.389  s46/CARRY_OUT1 (ripple46)
+     LUT4:I2->O            3   0.097   0.389  s47/CARRY_OUT1 (ripple47)
+     LUT4:I2->O            3   0.097   0.389  s48/CARRY_OUT1 (ripple48)
+     LUT4:I2->O            3   0.097   0.389  s49/CARRY_OUT1 (ripple49)
+     LUT4:I2->O            3   0.097   0.389  s50/CARRY_OUT1 (ripple50)
+     LUT4:I2->O            3   0.097   0.389  s51/CARRY_OUT1 (ripple51)
+     LUT4:I2->O            3   0.097   0.389  s52/CARRY_OUT1 (ripple52)
+     LUT4:I2->O            3   0.097   0.389  s53/CARRY_OUT1 (ripple53)
+     LUT4:I2->O            3   0.097   0.389  s54/CARRY_OUT1 (ripple54)
+     LUT4:I2->O            3   0.097   0.389  s55/CARRY_OUT1 (ripple55)
+     LUT4:I2->O            3   0.097   0.389  s56/CARRY_OUT1 (ripple56)
+     LUT4:I2->O            3   0.097   0.389  s57/CARRY_OUT1 (ripple57)
+     LUT4:I2->O            3   0.097   0.389  s58/CARRY_OUT1 (ripple58)
+     LUT4:I2->O            3   0.097   0.389  s59/CARRY_OUT1 (ripple59)
+     LUT4:I2->O            3   0.097   0.389  s60/CARRY_OUT1 (ripple60)
+     LUT4:I2->O            3   0.097   0.389  s61/CARRY_OUT1 (ripple61)
+     LUT4:I2->O            3   0.097   0.389  s62/CARRY_OUT1 (ripple62)
+     LUT4:I2->O            2   0.097   0.283  s63/CARRY_OUT1 (SUM_64_OBUF)
+     OBUF:I->O                 0.000          SUM_64_OBUF (SUM<64>)
+    ----------------------------------------
+    Total                     31.521ns (6.209ns logic, 25.312ns route)
+                                       (19.7% logic, 80.3% route)
+
+=========================================================================
+
+Cross Clock Domains Report:
+--------------------------
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 12.00 secs
+Total CPU time to Xst completion: 12.18 secs
+ 
+--> 
+
+Total memory usage is 444960 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   64 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

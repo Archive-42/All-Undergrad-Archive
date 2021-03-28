@@ -1,0 +1,69 @@
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "MAIN.ngc" MAIN.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+par -w -intstyle ise -ol high -mt off MAIN_map.ncd MAIN.ncd MAIN.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MAIN.twx MAIN.ncd -o MAIN.twr MAIN.pcf 
+ibiswriter -intstyle ise -truncate 20 MAIN.ncd MAIN.ibs 
+ibiswriter -intstyle ise -truncate 20 MAIN.ncd MAIN.ibs 
+netgen -intstyle ise -s 3  -pcf MAIN.pcf -sdf_anno true -sdf_path "netgen/par" -insert_glbl true -insert_pp_buffers true -w -dir netgen/par -ofmt verilog -sim MAIN.ncd MAIN_timesim.v 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 "MAIN.ngc" MAIN.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+par -w -intstyle ise -ol high -mt off MAIN_map.ncd MAIN.ncd MAIN.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MAIN.twx MAIN.ncd -o MAIN.twr MAIN.pcf 
+ibiswriter -intstyle ise -truncate 20 MAIN.ncd MAIN.ibs 
+ibiswriter -intstyle ise -truncate 20 MAIN.ncd MAIN.ibs 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx4-tqg144-3 "MAIN.ngc" MAIN.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7k70t-fbg676-3 "MAIN.ngc" MAIN.ngd  
+map -intstyle ise -p xc7k70t-fbg676-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+par -w -intstyle ise -ol high -mt off MAIN_map.ncd MAIN.ncd MAIN.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MAIN.twx MAIN.ncd -o MAIN.twr MAIN.pcf 
+ibiswriter -intstyle ise -truncate 20 MAIN.ncd MAIN.ibs 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6vlx75t-ff484-3 "MAIN.ngc" MAIN.ngd  
+map -intstyle ise -p xc6vlx75t-ff484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+par -w -intstyle ise -ol high -mt off MAIN_map.ncd MAIN.ncd MAIN.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MAIN.twx MAIN.ncd -o MAIN.twr MAIN.pcf 
+ibiswriter -intstyle ise -truncate 20 MAIN.ncd MAIN.ibs 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6vlx75t-ff484-3 "MAIN.ngc" MAIN.ngd  
+map -intstyle ise -p xc6vlx75t-ff484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+par -w -intstyle ise -ol high -mt off MAIN_map.ncd MAIN.ncd MAIN.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MAIN.twx MAIN.ncd -o MAIN.twr MAIN.pcf 
+ibiswriter -intstyle ise -truncate 20 MAIN.ncd MAIN.ibs 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6vlx75t-ff484-3 "MAIN.ngc" MAIN.ngd  
+map -intstyle ise -p xc6vlx75t-ff484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+par -w -intstyle ise -ol high -mt off MAIN_map.ncd MAIN.ncd MAIN.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MAIN.twx MAIN.ncd -o MAIN.twr MAIN.pcf 
+netgen -intstyle ise -s 3  -pcf MAIN.pcf -sdf_anno true -sdf_path "netgen/par" -insert_glbl true -insert_pp_buffers true -w -dir netgen/par -ofmt verilog -sim MAIN.ncd MAIN_timesim.v 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MAIN.twx MAIN.ncd -o MAIN.twr MAIN.pcf 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6vlx75t-ff484-3 "MAIN.ngc" MAIN.ngd  
+map -intstyle ise -p xc6vlx75t-ff484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o MAIN_map.ncd MAIN.ngd MAIN.pcf 
+par -w -intstyle ise -ol high -mt off MAIN_map.ncd MAIN.ncd MAIN.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml MAIN.twx MAIN.ncd -o MAIN.twr MAIN.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc MAIN.ucf -p xc6vlx75t-ff484-3 "MAIN.ngc" MAIN.ngd  
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc MAIN.ucf -p xc6vlx75t-ff484-3 "MAIN.ngc" MAIN.ngd  
+xst -intstyle ise -ifn "H:/363 Lab 5/Lab5/MAIN.xst" -ofn "H:/363 Lab 5/Lab5/MAIN.syr" 

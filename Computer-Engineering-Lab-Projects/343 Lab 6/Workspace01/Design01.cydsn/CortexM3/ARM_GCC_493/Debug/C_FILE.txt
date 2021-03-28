@@ -1,0 +1,1 @@
+'H:\343 lab 6\Workspace01\Design01.cydsn\main.c' -o .o -T C_FILE -I 'H:\343 lab 6\Workspace01\Design01.cydsn' -I 'H:\343 lab 6\Workspace01\Design01.cydsn\Generated_Source\PSoC5' -f 'H:\343 lab 6\Workspace01\Design01.cydsn\CortexM3\ARM_GCC_493\Debug\.deps\C_FILE.d'

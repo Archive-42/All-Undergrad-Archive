@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"H:/363 Lab 5/Lab5/MAIN.v" Line 73: Target &lt;<arg fmt="%s" index="1">cout</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"H:/363 Lab 5/Lab5/MAIN.v" Line 74: Target &lt;<arg fmt="%s" index="1">cin</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"H:/363 Lab 5/Lab5/MAIN.v" Line 75: Target &lt;<arg fmt="%s" index="1">AC</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"H:/363 Lab 5/Lab5/MAIN.v" Line 79: Target &lt;<arg fmt="%s" index="1">PC</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"H:/363 Lab 5/Lab5/MAIN.v" Line 83: Target &lt;<arg fmt="%s" index="1">mux3out</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+</messages>
+

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "H:/LAB 4/LAB4/Main.xst" -ofn "H:/LAB 4/LAB4/Main.syr" 
