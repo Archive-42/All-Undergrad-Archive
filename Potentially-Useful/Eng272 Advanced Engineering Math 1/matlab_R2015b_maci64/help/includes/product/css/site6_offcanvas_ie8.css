@@ -23,25 +23,29 @@ Browser Hacks:............Functionality Fixes for Older Browsers
 
 */
 
-
-
-
 /*-----------------------------------
    Structure
 -----------------------------------*/
 
 /* ---- Off-Canvas Actuator  ---- */
 
-  /* Off-Canvas Actuator: Labels */
+/* Off-Canvas Actuator: Labels */
 
-    /* Actuator Labels: Inctive */  
-    .offcanvas_actuator .offcanvas_actuator_close { display: none; }
+/* Actuator Labels: Inctive */
+.offcanvas_actuator .offcanvas_actuator_close {
+  display: none;
+}
 
-    /* Actuator Labels: Active */
-    .offcanvas_actuator.active .offcanvas_actuator_close { display: table-cell; }
+/* Actuator Labels: Active */
+.offcanvas_actuator.active .offcanvas_actuator_close {
+  display: table-cell;
+}
 
+/* ---- Header ---- */
 
-  /* ---- Header ---- */
-
-    /* Header: Mobile Subnav + Integrated Search */
-    .section_header .col-xs-3 .btn.icon-search { margin-top: 8px; background: transparent; color: #fff; }
+/* Header: Mobile Subnav + Integrated Search */
+.section_header .col-xs-3 .btn.icon-search {
+  margin-top: 8px;
+  background: transparent;
+  color: #fff;
+}
