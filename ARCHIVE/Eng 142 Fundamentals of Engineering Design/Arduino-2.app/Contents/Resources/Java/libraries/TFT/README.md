@@ -1,5 +1,4 @@
-TFT Library
-============
+# TFT Library
 
 An Arduino library for the Arduino TFT LCD screen.
 

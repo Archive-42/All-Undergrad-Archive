@@ -23,19 +23,13 @@ Additive CSS:.............Additive/override CSS
 
 */
 
-
-
 /* ------------------------------------
 $ Fonts
 ------------------------------------ */
 
-
-
 /* ------------------------------------
 $ Bootstrap Overrides
 ------------------------------------ */
-
-
 
 /* ------------------------------------
 $ Page Globals
@@ -43,13 +37,23 @@ $ Page Globals
 
 /* ---- Pictograms ---- */
 
-  /* Pictograms: Sizes */
-  .pictogram_56 { width: 56px !important; height: auto !important;}
-  .pictogram_64 { width: 64px !important; height: auto !important;}
-  .pictogram_72 { width: 72px !important; height: auto !important;}
-  .pictogram_100 { width: 100px !important; height: auto !important;}
-
-
+/* Pictograms: Sizes */
+.pictogram_56 {
+  width: 56px !important;
+  height: auto !important;
+}
+.pictogram_64 {
+  width: 64px !important;
+  height: auto !important;
+}
+.pictogram_72 {
+  width: 72px !important;
+  height: auto !important;
+}
+.pictogram_100 {
+  width: 100px !important;
+  height: auto !important;
+}
 
 /* ------------------------------------
 $ Structure
@@ -57,8 +61,14 @@ $ Structure
 
 /* ---- Section Header ---- */
 
-  /* Section Header: Affix on Scroll */		
-  .section_header.affix { width: 100%; z-index: 1035; top: 0; }
+/* Section Header: Affix on Scroll */
+.section_header.affix {
+  width: 100%;
+  z-index: 1035;
+  top: 0;
+}
 
-    /* Affix: Level 3 */
-    .section_header.level_3.affix ~ .sticky_header_container.affix { border-bottom: 1px solid #ccc; }
+/* Affix: Level 3 */
+.section_header.level_3.affix ~ .sticky_header_container.affix {
+  border-bottom: 1px solid #ccc;
+}

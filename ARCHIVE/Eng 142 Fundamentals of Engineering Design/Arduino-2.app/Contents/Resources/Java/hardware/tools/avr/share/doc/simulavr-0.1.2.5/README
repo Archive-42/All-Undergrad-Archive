@@ -1,11 +1,13 @@
 #
+
 # $Id: README,v 1.10 2002/04/12 23:12:21 troth Exp $
+
 #
 
 Simulavr: A simulator for the Atmel AVR family of microcontrollers.
 
 This program is still under development and is not ready for production
-use. The simulator is stable enough for rudimentary debugging work in 
+use. The simulator is stable enough for rudimentary debugging work in
 conjuction with a gdb-5.2 (see README.gdb).
 
 At this early stage of development, when simulavr enters a failure mode, it
@@ -21,7 +23,7 @@ I've only been testing this with the at90s8515 since that's the only device I
 have right now to compare with.
 
 I am hoping to support all AVR devices, but am not going to work on the TINY's
-and MEGA's until I get all the features of the at90s* devices working, and
+and MEGA's until I get all the features of the at90s\* devices working, and
 have solid gdb support. If someone else would like to contribute code for TINY
 or MEGA support, that would be greatly appreciated.
 

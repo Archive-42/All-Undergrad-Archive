@@ -21,17 +21,21 @@ Additive CSS:.............Additive/override CSS
 
 */
 
-
-
 /* ------------------------------------
 $ Page Globals
 ------------------------------------ */
 
-html body { overflow-y: scroll; }
-/* CODE REVIEW */	
+html body {
+  overflow-y: scroll;
+}
+/* CODE REVIEW */
 
-	/* Custom Pull Right Classes */
-.pull_right_lg { float: right; }
+/* Custom Pull Right Classes */
+.pull_right_lg {
+  float: right;
+}
 
 /* Custom Center Class */
-.text_center_lg { text-align: center; }
+.text_center_lg {
+  text-align: center;
+}
